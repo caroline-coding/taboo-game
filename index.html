@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taboo Online</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-purple-900 to-indigo-900 min-h-screen">
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useCallback } = React;
+
+        // Card data - 20 starter cards
+        const CARDS = [
+            { word: "Baseball", taboo: ["bat", "ball", "pitch", "home run", "diamond"] },
+            { word: "Birthday", taboo: ["cake", "candles", "party", "present", "age"] },
+            { word: "Elephant", taboo: ["trunk", "gray", "big", "Africa", "tusks"] },
+            { word: "Pizza", taboo: ["cheese", "pepperoni", "slice", "Italian", "dough"] },
+            { word: "Guitar", taboo: ["strings", "music", "strum", "acoustic", "electric"] },
+            { word: "Ocean", taboo: ["water", "sea", "waves", "beach", "fish"] },
+            { word: "Airplane", taboo: ["fly", "wings", "pilot", "airport", "sky"] },
+            { word: "Christmas", taboo: ["Santa", "tree", "presents", "December", "snow"] },
+            { word: "Doctor", taboo: ["hospital", "medicine", "sick", "nurse", "patient"] },
+            { word: "Banana", taboo: ["yellow", "fruit", "peel", "monkey", "potassium"] },
+            { word: "Football", taboo: ["touchdown", "quarterback", "field", "NFL", "kick"] },
+            { word: "Library", taboo: ["books", "read", "quiet", "shelves", "borrow"] },
+            { word: "Rainbow", taboo: ["colors", "rain", "sky", "arc", "pot of gold"] },
+            { word: "Dentist", taboo: ["teeth", "drill", "cavity", "floss", "brush"] },
+            { word: "Volcano", taboo: ["lava", "erupt", "mountain", "hot", "ash"] },
+            { word: "Wedding", taboo: ["bride", "groom", "marriage", "ring", "ceremony"] },
+            { word: "Penguin", taboo: ["bird", "ice", "Antarctica", "tuxedo", "waddle"] },
+            { word: "Computer", taboo: ["keyboard", "mouse", "screen", "internet", "type"] },
+            { word: "Camping", taboo: ["tent", "fire", "outdoors", "sleeping bag", "nature"] },
+            { word: "Chocolate", taboo: ["candy", "sweet", "cocoa", "brown", "dessert"] }
+        ];
+
+        // Shuffle array helper
+        const shuffle = (array) => {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        };
+
+        // Main App Component
+        function App() {
+            const [gameState, setGameState] = useState('setup'); // setup, transition, playing, gameOver
+            const [team1Name, setTeam1Name] = useState('Team 1');
+            const [team2Name, setTeam2Name] = useState('Team 2');
+            const [scores, setScores] = useState({ team1: 0, team2: 0 });
+            const [currentTeam, setCurrentTeam] = useState(1);
+            const [timerDuration, setTimerDuration] = useState(60);
+            const [totalRounds, setTotalRounds] = useState(4);
+            const [currentRound, setCurrentRound] = useState(1);
+            const [timeLeft, setTimeLeft] = useState(60);
+            const [cards, setCards] = useState([]);
+            const [currentCardIndex, setCurrentCardIndex] = useState(0);
+
+            // Start the game
+            const startGame = () => {
+                setCards(shuffle(CARDS));
+                setCurrentCardIndex(0);
+                setScores({ team1: 0, team2: 0 });
+                setCurrentTeam(1);
+                setCurrentRound(1);
+                setGameState('transition');
+            };
+
+            // Start a turn (after transition)
+            const startTurn = () => {
+                setTimeLeft(timerDuration);
+                setGameState('playing');
+            };
+
+            // Handle card actions
+            const handleCorrect = () => {
+                setScores(prev => ({
+                    ...prev,
+                    [currentTeam === 1 ? 'team1' : 'team2']: prev[currentTeam === 1 ? 'team1' : 'team2'] + 1
+                }));
+                nextCard();
+            };
+
+            const handleSkip = () => {
+                nextCard();
+            };
+
+            const handleTaboo = () => {
+                setScores(prev => ({
+                    ...prev,
+                    [currentTeam === 1 ? 'team1' : 'team2']: prev[currentTeam === 1 ? 'team1' : 'team2'] - 1
+                }));
+                nextCard();
+            };
+
+            const nextCard = () => {
+                if (currentCardIndex >= cards.length - 1) {
+                    setCards(shuffle(CARDS));
+                    setCurrentCardIndex(0);
+                } else {
+                    setCurrentCardIndex(prev => prev + 1);
+                }
+            };
+
+            // End turn
+            const endTurn = useCallback(() => {
+                // Check if game is over
+                if (currentRound >= totalRounds && currentTeam === 2) {
+                    setGameState('gameOver');
+                } else {
+                    // Switch teams or advance round
+                    if (currentTeam === 2) {
+                        setCurrentRound(prev => prev + 1);
+                        setCurrentTeam(1);
+                    } else {
+                        setCurrentTeam(2);
+                    }
+                    setGameState('transition');
+                }
+            }, [currentRound, totalRounds, currentTeam]);
+
+            // Timer effect
+            useEffect(() => {
+                if (gameState !== 'playing') return;
+
+                if (timeLeft <= 0) {
+                    endTurn();
+                    return;
+                }
+
+                const timer = setInterval(() => {
+                    setTimeLeft(prev => prev - 1);
+                }, 1000);
+
+                return () => clearInterval(timer);
+            }, [gameState, timeLeft, endTurn]);
+
+            // Play again
+            const playAgain = () => {
+                setGameState('setup');
+            };
+
+            return (
+                <div className="min-h-screen p-4 flex items-center justify-center">
+                    <div className="w-full max-w-md">
+                        {gameState === 'setup' && (
+                            <StartScreen
+                                team1Name={team1Name}
+                                setTeam1Name={setTeam1Name}
+                                team2Name={team2Name}
+                                setTeam2Name={setTeam2Name}
+                                timerDuration={timerDuration}
+                                setTimerDuration={setTimerDuration}
+                                totalRounds={totalRounds}
+                                setTotalRounds={setTotalRounds}
+                                onStart={startGame}
+                            />
+                        )}
+
+                        {gameState === 'transition' && (
+                            <TurnTransition
+                                teamName={currentTeam === 1 ? team1Name : team2Name}
+                                currentRound={currentRound}
+                                totalRounds={totalRounds}
+                                onReady={startTurn}
+                            />
+                        )}
+
+                        {gameState === 'playing' && cards.length > 0 && (
+                            <GamePlay
+                                card={cards[currentCardIndex]}
+                                timeLeft={timeLeft}
+                                timerDuration={timerDuration}
+                                team1Name={team1Name}
+                                team2Name={team2Name}
+                                scores={scores}
+                                currentTeam={currentTeam}
+                                onCorrect={handleCorrect}
+                                onSkip={handleSkip}
+                                onTaboo={handleTaboo}
+                            />
+                        )}
+
+                        {gameState === 'gameOver' && (
+                            <GameOver
+                                team1Name={team1Name}
+                                team2Name={team2Name}
+                                scores={scores}
+                                onPlayAgain={playAgain}
+                            />
+                        )}
+                    </div>
+                </div>
+            );
+        }
+
+        // Start Screen Component
+        function StartScreen({ team1Name, setTeam1Name, team2Name, setTeam2Name, timerDuration, setTimerDuration, totalRounds, setTotalRounds, onStart }) {
+            return (
+                <div className="bg-white rounded-2xl shadow-2xl p-8">
+                    <h1 className="text-4xl font-bold text-center text-purple-800 mb-2">TABOO</h1>
+                    <p className="text-center text-gray-500 mb-8">The game of unspeakable fun!</p>
+
+                    <div className="space-y-6">
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-2">Team 1 Name</label>
+                            <input
+                                type="text"
+                                value={team1Name}
+                                onChange={(e) => setTeam1Name(e.target.value)}
+                                className="w-full p-3 border-2 border-purple-200 rounded-lg focus:border-purple-500 focus:outline-none"
+                                placeholder="Team 1"
+                            />
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-2">Team 2 Name</label>
+                            <input
+                                type="text"
+                                value={team2Name}
+                                onChange={(e) => setTeam2Name(e.target.value)}
+                                className="w-full p-3 border-2 border-purple-200 rounded-lg focus:border-purple-500 focus:outline-none"
+                                placeholder="Team 2"
+                            />
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-2">Turn Duration</label>
+                            <div className="grid grid-cols-3 gap-2">
+                                {[60, 90, 120].map(seconds => (
+                                    <button
+                                        key={seconds}
+                                        onClick={() => setTimerDuration(seconds)}
+                                        className={`p-3 rounded-lg font-medium transition-colors ${
+                                            timerDuration === seconds
+                                                ? 'bg-purple-600 text-white'
+                                                : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                                        }`}
+                                    >
+                                        {seconds}s
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-2">Number of Rounds</label>
+                            <div className="grid grid-cols-3 gap-2">
+                                {[2, 4, 6].map(rounds => (
+                                    <button
+                                        key={rounds}
+                                        onClick={() => setTotalRounds(rounds)}
+                                        className={`p-3 rounded-lg font-medium transition-colors ${
+                                            totalRounds === rounds
+                                                ? 'bg-purple-600 text-white'
+                                                : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                                        }`}
+                                    >
+                                        {rounds}
+                                    </button>
+                                ))}
+                            </div>
+                            <p className="text-xs text-gray-500 mt-1">Each round = both teams get a turn</p>
+                        </div>
+
+                        <button
+                            onClick={onStart}
+                            className="w-full py-4 bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-xl font-bold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all transform hover:scale-105 shadow-lg"
+                        >
+                            Start Game
+                        </button>
+                    </div>
+                </div>
+            );
+        }
+
+        // Turn Transition Component
+        function TurnTransition({ teamName, currentRound, totalRounds, onReady }) {
+            return (
+                <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                    <div className="text-6xl mb-4">🎯</div>
+                    <p className="text-gray-500 mb-2">Round {currentRound} of {totalRounds}</p>
+                    <h2 className="text-3xl font-bold text-purple-800 mb-4">
+                        {teamName}'s Turn!
+                    </h2>
+                    <p className="text-gray-600 mb-8">
+                        Pass the device to the clue giver on {teamName}.<br />
+                        Don't let the other team see!
+                    </p>
+                    <button
+                        onClick={onReady}
+                        className="w-full py-4 bg-gradient-to-r from-green-500 to-emerald-600 text-white text-xl font-bold rounded-xl hover:from-green-600 hover:to-emerald-700 transition-all transform hover:scale-105 shadow-lg"
+                    >
+                        I'm Ready - Start Timer!
+                    </button>
+                </div>
+            );
+        }
+
+        // Game Play Component
+        function GamePlay({ card, timeLeft, timerDuration, team1Name, team2Name, scores, currentTeam, onCorrect, onSkip, onTaboo }) {
+            const timerPercent = (timeLeft / timerDuration) * 100;
+            const isLowTime = timeLeft <= 10;
+
+            return (
+                <div className="space-y-4">
+                    {/* Header with scores and timer */}
+                    <div className="bg-white rounded-xl p-4 shadow-lg">
+                        <div className="flex justify-between items-center mb-3">
+                            <div className={`text-center ${currentTeam === 1 ? 'font-bold' : ''}`}>
+                                <div className="text-sm text-gray-500">{team1Name}</div>
+                                <div className="text-2xl font-bold text-purple-600">{scores.team1}</div>
+                            </div>
+                            <div className={`text-4xl font-bold ${isLowTime ? 'text-red-600 animate-pulse' : 'text-gray-800'}`}>
+                                {timeLeft}
+                            </div>
+                            <div className={`text-center ${currentTeam === 2 ? 'font-bold' : ''}`}>
+                                <div className="text-sm text-gray-500">{team2Name}</div>
+                                <div className="text-2xl font-bold text-indigo-600">{scores.team2}</div>
+                            </div>
+                        </div>
+                        {/* Timer bar */}
+                        <div className="w-full bg-gray-200 rounded-full h-2 overflow-hidden">
+                            <div
+                                className={`h-full transition-all duration-1000 ${isLowTime ? 'bg-red-500' : 'bg-purple-500'}`}
+                                style={{ width: `${timerPercent}%` }}
+                            />
+                        </div>
+                    </div>
+
+                    {/* Card */}
+                    <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
+                        {/* Target word */}
+                        <div className="bg-gradient-to-r from-purple-600 to-indigo-600 p-6">
+                            <h2 className="text-4xl font-bold text-white text-center">
+                                {card.word}
+                            </h2>
+                        </div>
+
+                        {/* Taboo words */}
+                        <div className="p-6">
+                            <p className="text-sm font-medium text-red-600 mb-3 text-center">DON'T SAY:</p>
+                            <div className="space-y-2">
+                                {card.taboo.map((word, index) => (
+                                    <div
+                                        key={index}
+                                        className="bg-red-50 border-2 border-red-200 rounded-lg p-3 text-center"
+                                    >
+                                        <span className="text-red-700 font-medium text-lg">{word}</span>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Controls */}
+                    <div className="grid grid-cols-3 gap-3">
+                        <button
+                            onClick={onTaboo}
+                            className="py-4 bg-red-500 hover:bg-red-600 text-white font-bold rounded-xl transition-colors shadow-lg"
+                        >
+                            TABOO!<br />
+                            <span className="text-sm font-normal">-1 pt</span>
+                        </button>
+                        <button
+                            onClick={onSkip}
+                            className="py-4 bg-gray-400 hover:bg-gray-500 text-white font-bold rounded-xl transition-colors shadow-lg"
+                        >
+                            SKIP<br />
+                            <span className="text-sm font-normal">0 pts</span>
+                        </button>
+                        <button
+                            onClick={onCorrect}
+                            className="py-4 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-colors shadow-lg"
+                        >
+                            CORRECT!<br />
+                            <span className="text-sm font-normal">+1 pt</span>
+                        </button>
+                    </div>
+                </div>
+            );
+        }
+
+        // Game Over Component
+        function GameOver({ team1Name, team2Name, scores, onPlayAgain }) {
+            const winner = scores.team1 > scores.team2 ? team1Name
+                : scores.team2 > scores.team1 ? team2Name
+                : null;
+
+            return (
+                <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                    <div className="text-6xl mb-4">
+                        {winner ? '🏆' : '🤝'}
+                    </div>
+                    <h2 className="text-3xl font-bold text-purple-800 mb-2">
+                        Game Over!
+                    </h2>
+                    {winner ? (
+                        <p className="text-xl text-gray-700 mb-6">
+                            <span className="font-bold text-purple-600">{winner}</span> wins!
+                        </p>
+                    ) : (
+                        <p className="text-xl text-gray-700 mb-6">It's a tie!</p>
+                    )}
+
+                    <div className="flex justify-center gap-8 mb-8">
+                        <div className="text-center">
+                            <div className="text-sm text-gray-500">{team1Name}</div>
+                            <div className="text-4xl font-bold text-purple-600">{scores.team1}</div>
+                        </div>
+                        <div className="text-4xl text-gray-300">vs</div>
+                        <div className="text-center">
+                            <div className="text-sm text-gray-500">{team2Name}</div>
+                            <div className="text-4xl font-bold text-indigo-600">{scores.team2}</div>
+                        </div>
+                    </div>
+
+                    <button
+                        onClick={onPlayAgain}
+                        className="w-full py-4 bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-xl font-bold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all transform hover:scale-105 shadow-lg"
+                    >
+                        Play Again
+                    </button>
+                </div>
+            );
+        }
+
+        // Render the app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
