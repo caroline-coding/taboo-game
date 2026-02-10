@@ -89,8 +89,8 @@
       "shell",
       "slow",
       "reptile",
-      "shelled",
-      "amphibian"
+      "amphibian",
+      "pond"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -244,7 +244,7 @@
     "taboo": [
       "buzz",
       "honey",
-      "sting",
+      "Sting",
       "flower",
       "hive"
     ],
@@ -317,8 +317,8 @@
       "wool",
       "baa",
       "farm",
-      "wool",
-      "flock"
+      "flock",
+      "lamb"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -737,7 +737,7 @@
       "swamp",
       "teeth",
       "reptile",
-      "florida",
+      "Florida",
       "green"
     ],
     "difficulty": "easy",
@@ -819,7 +819,7 @@
     "word": "Walrus",
     "taboo": [
       "tusks",
-      "arctic",
+      "Arctic",
       "whiskers",
       "ice",
       "marine"
@@ -882,7 +882,7 @@
       "forest",
       "feline",
       "predator",
-      "tufts"
+      "Tufts"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -892,7 +892,7 @@
     "taboo": [
       "marine",
       "gentle",
-      "florida",
+      "Florida",
       "slow",
       "dugong"
     ],
@@ -976,7 +976,7 @@
     "taboo": [
       "hood",
       "venomous",
-      "india",
+      "India",
       "dangerous",
       "snake"
     ],
@@ -1120,7 +1120,7 @@
     "taboo": [
       "marine",
       "tusk",
-      "arctic",
+      "Arctic",
       "whale",
       "unicorn"
     ],
@@ -1146,7 +1146,7 @@
       "spray",
       "striped",
       "mammal",
-      "striped"
+      "odor"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -1157,7 +1157,7 @@
       "spots",
       "small",
       "predator",
-      "tufts",
+      "Tufts",
       "Canada"
     ],
     "difficulty": "easy",
@@ -1242,7 +1242,7 @@
       "ocean",
       "flipper",
       "bark",
-      "arctic"
+      "Arctic"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -1419,7 +1419,7 @@
     "word": "Mongoose",
     "taboo": [
       "quick",
-      "india",
+      "India",
       "mammal",
       "sleek",
       "venom"
@@ -1722,7 +1722,7 @@
       "Christmas",
       "sleigh",
       "snow",
-      "arctic"
+      "Arctic"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -1925,8 +1925,8 @@
       "extinct",
       "bird",
       "flightless",
-      "extinct",
-      "Mauritius"
+      "Mauritius",
+      "stupid"
     ],
     "difficulty": "easy",
     "category": "Animals (pets, wild, marine, birds, insects)"
@@ -1959,7 +1959,7 @@
     "word": "Polar bear",
     "taboo": [
       "ice",
-      "arctic",
+      "Arctic",
       "white",
       "fur",
       "dangerous"
@@ -2006,7 +2006,7 @@
   {
     "word": "Honeybee",
     "taboo": [
-      "sting",
+      "Sting",
       "flower",
       "hive",
       "buzz",
@@ -2694,7 +2694,7 @@
       "fruit",
       "oil",
       "pit",
-      "mediterranean"
+      "Mediterranean"
     ],
     "difficulty": "easy",
     "category": "Food and Drinks (meals, ingredients, cuisines, beverages)"
@@ -2706,7 +2706,7 @@
       "kernel",
       "cob",
       "vegetable",
-      "kernels"
+      "maize"
     ],
     "difficulty": "easy",
     "category": "Food and Drinks (meals, ingredients, cuisines, beverages)"
@@ -3363,7 +3363,7 @@
     "word": "Curry",
     "taboo": [
       "spice",
-      "indian",
+      "Indian",
       "yellow",
       "sauce",
       "hot"
@@ -5370,7 +5370,7 @@
       "wall",
       "metal",
       "jacket",
-      "hanger"
+      "closet"
     ],
     "difficulty": "easy",
     "category": "Household items, furniture, appliances, and tools"
@@ -6244,7 +6244,7 @@
     "taboo": [
       "head",
       "wear",
-      "Baseball",
+      "baseball",
       "brim",
       "top"
     ],
@@ -6662,7 +6662,7 @@
   {
     "word": "Denim jacket",
     "taboo": [
-      "Jean",
+      "jean",
       "blue",
       "casual",
       "wear",
@@ -6759,7 +6759,7 @@
     "word": "Earring",
     "taboo": [
       "jewelry",
-      "pierce",
+      "Pierce",
       "wear",
       "pair",
       "hear"
@@ -7470,7 +7470,7 @@
       "fire",
       "outdoors",
       "nature",
-      "tent"
+      "hiking"
     ],
     "difficulty": "easy",
     "category": "Sports, games, and recreational activities"
@@ -7539,7 +7539,7 @@
     "word": "Darts",
     "taboo": [
       "throw",
-      "target",
+      "Target",
       "board",
       "bullseye",
       "points"
@@ -7552,7 +7552,7 @@
     "taboo": [
       "bow",
       "arrow",
-      "target",
+      "Target",
       "aim",
       "bullseye"
     ],
@@ -7601,7 +7601,7 @@
       "kick",
       "chop",
       "belt",
-      "Sensei",
+      "sensei",
       "fighting"
     ],
     "difficulty": "easy",
@@ -8202,7 +8202,7 @@
       "net",
       "ball",
       "spin",
-      "paddles"
+      "pingpong"
     ],
     "difficulty": "easy",
     "category": "Sports, games, and recreational activities"
@@ -8550,7 +8550,7 @@
       "mountain",
       "echo",
       "valley",
-      "Alpine"
+      "alpine"
     ],
     "difficulty": "easy",
     "category": "Sports, games, and recreational activities"
@@ -8583,7 +8583,7 @@
     "word": "Tic-tac-toe",
     "taboo": [
       "grid",
-      "x",
+      "X",
       "O",
       "win",
       "three"
@@ -9066,7 +9066,7 @@
       "number",
       "ball",
       "call",
-      "Mark"
+      "mark"
     ],
     "difficulty": "easy",
     "category": "Sports, games, and recreational activities"
@@ -9114,7 +9114,7 @@
       "throw",
       "bullseye",
       "points",
-      "target"
+      "Target"
     ],
     "difficulty": "easy",
     "category": "Sports, games, and recreational activities"
@@ -9138,7 +9138,7 @@
       "ride",
       "chain",
       "wheels",
-      "pedaling"
+      "bike"
     ],
     "difficulty": "easy",
     "category": "Vehicles, transportation, and travel"
@@ -9606,7 +9606,7 @@
       "long",
       "driver",
       "luxury",
-      "fancy"
+      "chauffeur"
     ],
     "difficulty": "easy",
     "category": "Vehicles, transportation, and travel"
@@ -10673,7 +10673,7 @@
       "peak",
       "high",
       "climb",
-      "rocky",
+      "Rocky",
       "elevation"
     ],
     "difficulty": "easy",
@@ -10971,7 +10971,7 @@
     "word": "Sunrise",
     "taboo": [
       "morning",
-      "east",
+      "East",
       "dawn",
       "orange",
       "daybreak"
@@ -10983,7 +10983,7 @@
     "word": "Sunset",
     "taboo": [
       "evening",
-      "West",
+      "west",
       "dusk",
       "orange",
       "Twilight"
@@ -12399,7 +12399,7 @@
     "word": "Gravel",
     "taboo": [
       "stones",
-      "rocky",
+      "Rocky",
       "path",
       "particles",
       "gray"
@@ -12424,7 +12424,7 @@
     "taboo": [
       "frozen",
       "cold",
-      "arctic",
+      "Arctic",
       "barren",
       "landscape"
     ],
@@ -14593,7 +14593,7 @@
   {
     "word": "Scar",
     "taboo": [
-      "Mark",
+      "mark",
       "wound",
       "healed",
       "skin",
@@ -14693,7 +14693,7 @@
       "rash",
       "itch",
       "sneeze",
-      "reaction"
+      "pollen"
     ],
     "difficulty": "easy",
     "category": "Body parts and health-related terms"
@@ -15521,7 +15521,7 @@
       "security",
       "doors",
       "opening",
-      "keys"
+      "repair"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -15533,7 +15533,7 @@
       "illusion",
       "cards",
       "wand",
-      "tricks"
+      "rabbit"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -15713,7 +15713,7 @@
       "nutrition",
       "health",
       "eat",
-      "nutrition"
+      "calories"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -15773,7 +15773,7 @@
       "precious",
       "metal",
       "craft",
-      "precious"
+      "ring"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -16025,7 +16025,7 @@
       "argument",
       "philosophy",
       "thinking",
-      "reasoning"
+      "logic"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -16489,7 +16489,7 @@
   {
     "word": "Radiologist",
     "taboo": [
-      "X-ray",
+      "x-ray",
       "imaging",
       "scan",
       "diagnosis",
@@ -16649,7 +16649,7 @@
       "shoot",
       "video",
       "lens",
-      "filming"
+      "movie"
     ],
     "difficulty": "medium",
     "category": "Occupations, jobs, and professions"
@@ -17225,7 +17225,7 @@
       "calm",
       "quiet",
       "mind",
-      "Zen"
+      "zen"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -17282,7 +17282,7 @@
     "word": "Blogging",
     "taboo": [
       "write",
-      "internet",
+      "Internet",
       "website",
       "computer",
       "post"
@@ -17333,7 +17333,7 @@
       "hive",
       "insects",
       "buzzing",
-      "sting"
+      "Sting"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -17740,7 +17740,7 @@
       "audio",
       "microphone",
       "episode",
-      "internet",
+      "Internet",
       "voice"
     ],
     "difficulty": "medium",
@@ -17897,7 +17897,7 @@
       "color",
       "shirt",
       "pattern",
-      "colors"
+      "hippie"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -17944,7 +17944,7 @@
       "study",
       "investigate",
       "facts",
-      "internet",
+      "Internet",
       "learning"
     ],
     "difficulty": "medium",
@@ -18123,9 +18123,9 @@
     "taboo": [
       "bacteria",
       "jar",
-      "bacteria",
       "preservation",
-      "vinegar"
+      "vinegar",
+      "alcohol"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -18281,7 +18281,7 @@
       "clothes",
       "detergent",
       "clean",
-      "washing"
+      "basket"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -18313,7 +18313,7 @@
   {
     "word": "Browsing",
     "taboo": [
-      "internet",
+      "Internet",
       "website",
       "online",
       "search",
@@ -18435,7 +18435,7 @@
     "taboo": [
       "audio",
       "episodes",
-      "internet",
+      "Internet",
       "speakers",
       "hearing"
     ],
@@ -19001,7 +19001,7 @@
       "tools",
       "belt",
       "wallet",
-      "tooling"
+      "cow"
     ],
     "difficulty": "medium",
     "category": "Hobbies, activities, and everyday actions"
@@ -19156,7 +19156,7 @@
       "costumes",
       "candy",
       "pumpkins",
-      "october",
+      "October",
       "scary"
     ],
     "difficulty": "medium",
@@ -19227,7 +19227,7 @@
     "taboo": [
       "candles",
       "menorah",
-      "jewish",
+      "Jewish",
       "eight",
       "lights"
     ],
@@ -19238,7 +19238,7 @@
     "word": "Diwali",
     "taboo": [
       "lights",
-      "indian",
+      "Indian",
       "festival",
       "lamps",
       "Hindu"
@@ -19273,7 +19273,7 @@
   {
     "word": "Bar Mitzvah",
     "taboo": [
-      "jewish",
+      "Jewish",
       "thirteen",
       "ceremony",
       "coming-of-age",
@@ -19286,7 +19286,7 @@
     "word": "Mother's Day",
     "taboo": [
       "gifts",
-      "may",
+      "May",
       "card",
       "honor",
       "mom"
@@ -19513,7 +19513,7 @@
   {
     "word": "Passover",
     "taboo": [
-      "jewish",
+      "Jewish",
       "Egypt",
       "Moses",
       "freedom",
@@ -19525,7 +19525,7 @@
   {
     "word": "Rosh Hashanah",
     "taboo": [
-      "jewish",
+      "Jewish",
       "apples",
       "honey",
       "trumpet",
@@ -19538,10 +19538,10 @@
     "word": "Eid al-Fitr",
     "taboo": [
       "Muslim",
-      "ramadan",
+      "Ramadan",
       "celebration",
       "feast",
-      "islamic"
+      "Islamic"
     ],
     "difficulty": "medium",
     "category": "Holidays, celebrations, and traditions"
@@ -19610,7 +19610,7 @@
     "word": "Sweetest Day",
     "taboo": [
       "candy",
-      "october",
+      "October",
       "gifts",
       "romance",
       "chocolate"
@@ -19729,7 +19729,7 @@
   {
     "word": "Yom Kippur",
     "taboo": [
-      "jewish",
+      "Jewish",
       "atonement",
       "fasting",
       "holiest",
@@ -19815,8 +19815,8 @@
     "taboo": [
       "January",
       "gifts",
-      "christian",
-      "magi",
+      "Christian",
+      "Magi",
       "dozen"
     ],
     "difficulty": "medium",
@@ -19825,7 +19825,7 @@
   {
     "word": "Lent",
     "taboo": [
-      "christian",
+      "Christian",
       "fasting",
       "Easter",
       "sacrifice",
@@ -19837,7 +19837,7 @@
   {
     "word": "Pentecost",
     "taboo": [
-      "christian",
+      "Christian",
       "tongues",
       "Easter",
       "ghost",
@@ -19849,7 +19849,7 @@
   {
     "word": "Sukkot",
     "taboo": [
-      "jewish",
+      "Jewish",
       "booths",
       "harvest",
       "tabernacle",
@@ -19861,7 +19861,7 @@
   {
     "word": "Simchat Torah",
     "taboo": [
-      "jewish",
+      "Jewish",
       "scrolls",
       "celebrating",
       "dancing",
@@ -19912,7 +19912,7 @@
       "war",
       "military",
       "celebration",
-      "may",
+      "May",
       "Russia"
     ],
     "difficulty": "medium",
@@ -19921,7 +19921,7 @@
   {
     "word": "Holi",
     "taboo": [
-      "india",
+      "India",
       "colors",
       "paint",
       "spring",
@@ -19936,7 +19936,7 @@
       "explorer",
       "America",
       "discovery",
-      "october",
+      "October",
       "sail"
     ],
     "difficulty": "medium",
@@ -19981,7 +19981,7 @@
   {
     "word": "Purim",
     "taboo": [
-      "jewish",
+      "Jewish",
       "costumes",
       "Persia",
       "Esther",
@@ -20271,7 +20271,7 @@
     "taboo": [
       "water",
       "religious",
-      "christian",
+      "Christian",
       "baby",
       "church"
     ],
@@ -20309,7 +20309,7 @@
       "oath",
       "ceremony",
       "government",
-      "ceremony"
+      "swearing"
     ],
     "difficulty": "medium",
     "category": "Holidays, celebrations, and traditions"
@@ -20368,7 +20368,7 @@
       "Muslim",
       "feast",
       "fasting",
-      "islamic",
+      "Islamic",
       "celebration"
     ],
     "difficulty": "medium",
@@ -20439,7 +20439,7 @@
     "taboo": [
       "Celtic",
       "fire",
-      "may",
+      "May",
       "ancient",
       "pagan"
     ],
@@ -20597,7 +20597,7 @@
       "briefcase",
       "guns",
       "dance",
-      "vincenzo"
+      "Vincenzo"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -20621,7 +20621,7 @@
       "blue",
       "aliens",
       "Cameron",
-      "na'vi"
+      "Na'vi"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -20653,7 +20653,7 @@
   {
     "word": "Parasite",
     "taboo": [
-      "korean",
+      "Korean",
       "class",
       "staircase",
       "Kim",
@@ -20717,7 +20717,7 @@
       "amber",
       "Isla",
       "Nublar",
-      "speilberg"
+      "Spielberg"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -20725,10 +20725,10 @@
   {
     "word": "Casablanca",
     "taboo": [
-      "ingrid",
+      "Ingrid",
       "Humphrey",
       "Morocco",
-      "rick",
+      "Rick",
       "Ilsa"
     ],
     "difficulty": "medium",
@@ -20737,11 +20737,11 @@
   {
     "word": "Schindler's List",
     "taboo": [
-      "holocaust",
+      "Holocaust",
       "Spielberg",
       "Jews",
       "factory",
-      "germany"
+      "Germany"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -20750,7 +20750,7 @@
     "word": "Blade Runner",
     "taboo": [
       "replicants",
-      "Android",
+      "android",
       "dystopian",
       "Harrison",
       "Ford"
@@ -20775,9 +20775,9 @@
     "taboo": [
       "mystery",
       "donut",
-      "donuts",
       "detective",
-      "murder"
+      "murder",
+      "whodunit"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -20847,7 +20847,7 @@
     "taboo": [
       "alien",
       "phone",
-      "reese's",
+      "Reese's",
       "pieces",
       "bicycle"
     ],
@@ -20869,7 +20869,7 @@
   {
     "word": "The Avengers",
     "taboo": [
-      "marvel",
+      "Marvel",
       "iron",
       "man",
       "Thanos",
@@ -20929,7 +20929,7 @@
   {
     "word": "Minari",
     "taboo": [
-      "korean",
+      "Korean",
       "American",
       "family",
       "Arkansas",
@@ -20966,7 +20966,7 @@
     "word": "Sherlock",
     "taboo": [
       "detective",
-      "221b",
+      "221B",
       "crimes",
       "deduction",
       "actor"
@@ -21052,7 +21052,7 @@
       "coming-of-age",
       "identity",
       "ocean",
-      "miami",
+      "Miami",
       "masculinity"
     ],
     "difficulty": "medium",
@@ -21074,7 +21074,7 @@
     "word": "Spotlight",
     "taboo": [
       "journalism",
-      "boston",
+      "Boston",
       "investigation",
       "scandal",
       "religion"
@@ -21169,7 +21169,7 @@
   {
     "word": "Squid Game",
     "taboo": [
-      "korean",
+      "Korean",
       "Netflix",
       "marbles",
       "survival",
@@ -21197,7 +21197,7 @@
       "gothic",
       "daughter",
       "character",
-      "gothic"
+      "Addams"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -21245,7 +21245,7 @@
       "sins",
       "murderer",
       "actor",
-      "actor"
+      "thriller"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -21338,7 +21338,7 @@
     "word": "Avengers: Endgame",
     "taboo": [
       "Thanos",
-      "marvel",
+      "Marvel",
       "snap",
       "hero",
       "robbery"
@@ -21361,7 +21361,7 @@
   {
     "word": "Peaky Blinders",
     "taboo": [
-      "birmingham",
+      "Birmingham",
       "gangster",
       "post-war",
       "Irish",
@@ -21375,7 +21375,7 @@
     "taboo": [
       "superhero",
       "corrupt",
-      "amazon",
+      "Amazon",
       "Homelander",
       "twisted"
     ],
@@ -21421,7 +21421,7 @@
   {
     "word": "Citizen Kane",
     "taboo": [
-      "Rosebud",
+      "rosebud",
       "newspaper",
       "sled",
       "legacy",
@@ -21485,7 +21485,7 @@
       "magic",
       "sister",
       "sisters",
-      "magic"
+      "Elsa"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -21638,7 +21638,7 @@
     "word": "Fargo",
     "taboo": [
       "kidnapping",
-      "minnesota",
+      "Minnesota",
       "snow",
       "chipper",
       "directors"
@@ -21757,7 +21757,7 @@
   {
     "word": "The Wire",
     "taboo": [
-      "baltimore",
+      "Baltimore",
       "drugs",
       "police",
       "crime",
@@ -21771,7 +21771,7 @@
     "taboo": [
       "space",
       "disaster",
-      "nasa",
+      "NASA",
       "impact",
       "satellite"
     ],
@@ -21781,7 +21781,7 @@
   {
     "word": "Avengers",
     "taboo": [
-      "marvel",
+      "Marvel",
       "Thanos",
       "superhero",
       "assembled",
@@ -21881,7 +21881,7 @@
       "memory",
       "implant",
       "corporation",
-      "Apple"
+      "apple"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -21998,7 +21998,7 @@
     "word": "Loki",
     "taboo": [
       "god",
-      "marvel",
+      "Marvel",
       "variants",
       "temporal",
       "actor"
@@ -22024,8 +22024,8 @@
       "con",
       "1970s",
       "actor",
-      "actor",
-      "swindler"
+      "swindler",
+      "Newman"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -22037,7 +22037,7 @@
       "Twilight",
       "wedding",
       "baby",
-      "bella"
+      "Bella"
     ],
     "difficulty": "medium",
     "category": "Famous movies, TV shows, and entertainment"
@@ -22105,7 +22105,7 @@
   {
     "word": "Taj Mahal",
     "taboo": [
-      "india",
+      "India",
       "mausoleum",
       "marble",
       "white",
@@ -22275,7 +22275,7 @@
     "taboo": [
       "Spain",
       "Gaud\u00ed",
-      "mediterranean",
+      "Mediterranean",
       "Catalan",
       "cathedral"
     ],
@@ -22301,7 +22301,7 @@
       "mountains",
       "peaks",
       "skiing",
-      "Alpine"
+      "alpine"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22360,8 +22360,8 @@
       "Africa",
       "Sahara",
       "bazaars",
-      "islamic",
-      "mediterranean"
+      "Islamic",
+      "Mediterranean"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22384,7 +22384,7 @@
       "safari",
       "wildlife",
       "Maasai",
-      "kilimanjaro",
+      "Kilimanjaro",
       "continent"
     ],
     "difficulty": "medium",
@@ -22393,8 +22393,8 @@
   {
     "word": "Croatia",
     "taboo": [
-      "adriatic",
-      "dalmatia",
+      "Adriatic",
+      "Dalmatia",
       "medieval",
       "European",
       "filming"
@@ -22405,9 +22405,9 @@
   {
     "word": "Greece",
     "taboo": [
-      "athens",
+      "Athens",
       "islands",
-      "mediterranean",
+      "Mediterranean",
       "ancient",
       "mythology"
     ],
@@ -22417,11 +22417,11 @@
   {
     "word": "Portugal",
     "taboo": [
-      "lisbon",
+      "Lisbon",
       "Cork",
       "Atlantic",
       "wine",
-      "europe"
+      "Europe"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22441,7 +22441,7 @@
   {
     "word": "Vietnam",
     "taboo": [
-      "hanoi",
+      "Hanoi",
       "communist",
       "bay",
       "region",
@@ -22537,10 +22537,10 @@
   {
     "word": "Lebanon",
     "taboo": [
-      "Cedars",
+      "cedars",
       "Beirut",
       "mountains",
-      "mediterranean",
+      "Mediterranean",
       "region"
     ],
     "difficulty": "medium",
@@ -22561,7 +22561,7 @@
   {
     "word": "Nepal",
     "taboo": [
-      "everest",
+      "Everest",
       "Himalayas",
       "Kathmandu",
       "mountains",
@@ -22598,9 +22598,9 @@
     "word": "Athens",
     "taboo": [
       "Greece",
-      "parthenon",
+      "Parthenon",
       "ancient",
-      "mediterranean",
+      "Mediterranean",
       "democracy"
     ],
     "difficulty": "medium",
@@ -22609,7 +22609,7 @@
   {
     "word": "Berlin",
     "taboo": [
-      "germany",
+      "Germany",
       "wall",
       "history",
       "divided",
@@ -22621,11 +22621,11 @@
   {
     "word": "Vienna",
     "taboo": [
-      "austria",
+      "Austria",
       "music",
       "classical",
       "Mozart",
-      "danube"
+      "Danube"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22720,7 +22720,7 @@
       "Scandinavia",
       "fjords",
       "cold",
-      "vikings",
+      "Vikings",
       "Aurora"
     ],
     "difficulty": "medium",
@@ -22766,7 +22766,7 @@
     "word": "Peru",
     "taboo": [
       "Inca",
-      "amazon",
+      "Amazon",
       "llamas",
       "ruins",
       "continent"
@@ -22792,7 +22792,7 @@
       "Louisiana",
       "jazz",
       "swamp",
-      "creole",
+      "Creole",
       "festival"
     ],
     "difficulty": "medium",
@@ -22837,10 +22837,10 @@
   {
     "word": "Parthenon",
     "taboo": [
-      "athens",
+      "Athens",
       "Greece",
       "ancient",
-      "athena",
+      "Athena",
       "temple"
     ],
     "difficulty": "medium",
@@ -22849,11 +22849,11 @@
   {
     "word": "Berlin Wall",
     "taboo": [
-      "germany",
+      "Germany",
       "divided",
       "concrete",
       "communism",
-      "east"
+      "East"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22913,7 +22913,7 @@
       "capital",
       "sprouts",
       "chocolate",
-      "atomium"
+      "Atomium"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -22984,7 +22984,7 @@
       "Poland",
       "medieval",
       "historic",
-      "europe",
+      "Europe",
       "river"
     ],
     "difficulty": "medium",
@@ -23163,7 +23163,7 @@
     "taboo": [
       "Chile",
       "statues",
-      "moai",
+      "Moai",
       "Pacific",
       "mystery"
     ],
@@ -23284,7 +23284,7 @@
       "Viking",
       "Copenhagen",
       "Scandinavian",
-      "lego",
+      "LEGO",
       "butter"
     ],
     "difficulty": "medium",
@@ -23308,7 +23308,7 @@
       "Vienna",
       "Alps",
       "Mozart",
-      "danube",
+      "Danube",
       "symphony"
     ],
     "difficulty": "medium",
@@ -23329,7 +23329,7 @@
   {
     "word": "Leaning tower",
     "taboo": [
-      "pisa",
+      "Pisa",
       "Italy",
       "tilted",
       "gravity",
@@ -23389,7 +23389,7 @@
   {
     "word": "Mumbai",
     "taboo": [
-      "india",
+      "India",
       "Bollywood",
       "crowded",
       "monsoon",
@@ -23413,7 +23413,7 @@
   {
     "word": "Miami",
     "taboo": [
-      "florida",
+      "Florida",
       "beaches",
       "warm",
       "ocean",
@@ -23441,7 +23441,7 @@
       "mountains",
       "altitude",
       "skiing",
-      "rocky"
+      "Rocky"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -23464,7 +23464,7 @@
       "Iceland",
       "sky",
       "green",
-      "arctic",
+      "Arctic",
       "phenomenon"
     ],
     "difficulty": "medium",
@@ -23545,7 +23545,7 @@
   {
     "word": "Malta",
     "taboo": [
-      "mediterranean",
+      "Mediterranean",
       "island",
       "limestone",
       "British",
@@ -23582,7 +23582,7 @@
     "word": "Dubrovnik",
     "taboo": [
       "Croatia",
-      "adriatic",
+      "Adriatic",
       "walled",
       "series",
       "tiles"
@@ -23608,7 +23608,7 @@
       "Canada",
       "French",
       "cobblestone",
-      "french-speaking",
+      "French-speaking",
       "historic"
     ],
     "difficulty": "medium",
@@ -23665,7 +23665,7 @@
   {
     "word": "Varanasi",
     "taboo": [
-      "india",
+      "India",
       "Ganges",
       "sacred",
       "Hinduism",
@@ -23690,7 +23690,7 @@
     "word": "Budapest",
     "taboo": [
       "Hungary",
-      "danube",
+      "Danube",
       "bridge",
       "romantic",
       "spas"
@@ -23726,7 +23726,7 @@
     "word": "Lake Como",
     "taboo": [
       "Italy",
-      "Alpine",
+      "alpine",
       "resort",
       "celebrities",
       "scenic"
@@ -23739,7 +23739,7 @@
     "taboo": [
       "ruins",
       "stone",
-      "african",
+      "African",
       "ancient",
       "country"
     ],
@@ -23774,7 +23774,7 @@
     "word": "Sweden",
     "taboo": [
       "Scandinavia",
-      "stockholm",
+      "Stockholm",
       "blonde",
       "IKEA",
       "award"
@@ -23882,7 +23882,7 @@
     "word": "Greenland",
     "taboo": [
       "ice",
-      "arctic",
+      "Arctic",
       "polar",
       "Denmark",
       "Nordic"
@@ -23893,7 +23893,7 @@
   {
     "word": "Russia",
     "taboo": [
-      "Vodka",
+      "vodka",
       "Kremlin",
       "largest",
       "cold",
@@ -23965,7 +23965,7 @@
   {
     "word": "Mediterranean Sea",
     "taboo": [
-      "europe",
+      "Europe",
       "Africa",
       "warm",
       "saltwater",
@@ -24050,7 +24050,7 @@
     "word": "WiFi",
     "taboo": [
       "wireless",
-      "internet",
+      "Internet",
       "router",
       "connection",
       "password"
@@ -24121,7 +24121,7 @@
   {
     "word": "Website",
     "taboo": [
-      "internet",
+      "Internet",
       "browser",
       "page",
       "online",
@@ -24149,7 +24149,7 @@
       "symbol",
       "emotion",
       "text",
-      "Smiley"
+      "smiley"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -24169,7 +24169,7 @@
   {
     "word": "Download",
     "taboo": [
-      "internet",
+      "Internet",
       "file",
       "computer",
       "transfer",
@@ -24217,8 +24217,8 @@
   {
     "word": "Router",
     "taboo": [
-      "wifi",
-      "internet",
+      "WiFi",
+      "Internet",
       "device",
       "network",
       "wireless"
@@ -24277,7 +24277,7 @@
   {
     "word": "Browser",
     "taboo": [
-      "internet",
+      "Internet",
       "search",
       "webpage",
       "chrome",
@@ -24289,7 +24289,7 @@
   {
     "word": "Bandwidth",
     "taboo": [
-      "internet",
+      "Internet",
       "speed",
       "data",
       "connection",
@@ -24353,7 +24353,7 @@
       "network",
       "host",
       "data",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -24398,7 +24398,7 @@
     "word": "VPN",
     "taboo": [
       "privacy",
-      "internet",
+      "Internet",
       "connection",
       "hidden",
       "network"
@@ -24409,7 +24409,7 @@
   {
     "word": "Forum",
     "taboo": [
-      "internet",
+      "Internet",
       "discussion",
       "community",
       "post",
@@ -24435,7 +24435,7 @@
     "taboo": [
       "video",
       "online",
-      "internet",
+      "Internet",
       "watch",
       "continuous"
     ],
@@ -24447,7 +24447,7 @@
     "taboo": [
       "slow",
       "speed",
-      "internet",
+      "Internet",
       "limit",
       "control"
     ],
@@ -24543,7 +24543,7 @@
     "taboo": [
       "delay",
       "lag",
-      "internet",
+      "Internet",
       "speed",
       "response"
     ],
@@ -24557,7 +24557,7 @@
       "server",
       "connection",
       "hide",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -24569,7 +24569,7 @@
       "file",
       "sharing",
       "peer",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -24639,7 +24639,7 @@
     "taboo": [
       "file",
       "send",
-      "internet",
+      "Internet",
       "cloud",
       "server"
     ],
@@ -24664,7 +24664,7 @@
       "artificial",
       "automated",
       "program",
-      "ai",
+      "AI",
       "machine"
     ],
     "difficulty": "medium",
@@ -24771,7 +24771,7 @@
     "taboo": [
       "anonymous",
       "hide",
-      "internet",
+      "Internet",
       "connection",
       "secure"
     ],
@@ -24785,7 +24785,7 @@
       "seminar",
       "video",
       "presentation",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -24806,7 +24806,7 @@
     "word": "Email",
     "taboo": [
       "message",
-      "internet",
+      "Internet",
       "inbox",
       "send",
       "correspondence"
@@ -24877,7 +24877,7 @@
   {
     "word": "Modem",
     "taboo": [
-      "internet",
+      "Internet",
       "connection",
       "provider",
       "device",
@@ -24927,7 +24927,7 @@
     "taboo": [
       "website",
       "writing",
-      "internet",
+      "Internet",
       "post",
       "article"
     ],
@@ -24949,7 +24949,7 @@
   {
     "word": "Meme",
     "taboo": [
-      "internet",
+      "Internet",
       "funny",
       "image",
       "viral",
@@ -24987,9 +24987,9 @@
     "taboo": [
       "website",
       "address",
-      "internet",
+      "Internet",
       "name",
-      "url"
+      "URL"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -25071,7 +25071,7 @@
     "taboo": [
       "Google",
       "find",
-      "internet",
+      "Internet",
       "query",
       "results"
     ],
@@ -25297,7 +25297,7 @@
   {
     "word": "Protocol",
     "taboo": [
-      "internet",
+      "Internet",
       "standard",
       "rules",
       "connection",
@@ -25466,7 +25466,7 @@
     "word": "URL",
     "taboo": [
       "website",
-      "internet",
+      "Internet",
       "address",
       "link",
       "browser"
@@ -25493,7 +25493,7 @@
       "connection",
       "network",
       "computer",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Technology, gadgets, and internet terms"
@@ -25501,7 +25501,7 @@
   {
     "word": "Wi-Fi",
     "taboo": [
-      "internet",
+      "Internet",
       "wireless",
       "connection",
       "router",
@@ -25516,7 +25516,7 @@
       "improvisation",
       "trumpet",
       "blues",
-      "Bebop",
+      "bebop",
       "swing"
     ],
     "difficulty": "medium",
@@ -25573,7 +25573,7 @@
   {
     "word": "Reggae",
     "taboo": [
-      "jamaica",
+      "Jamaica",
       "relaxed",
       "rhythm",
       "Rastafarian",
@@ -25657,7 +25657,7 @@
   {
     "word": "Hotel California",
     "taboo": [
-      "Eagles",
+      "eagles",
       "1976",
       "checkout",
       "desert",
@@ -25777,7 +25777,7 @@
   {
     "word": "Yesterday",
     "taboo": [
-      "beatles",
+      "Beatles",
       "nostalgic",
       "melancholic",
       "famous",
@@ -25789,7 +25789,7 @@
   {
     "word": "K-Pop",
     "taboo": [
-      "korean",
+      "Korean",
       "synchronized",
       "dance",
       "boyband",
@@ -25924,8 +25924,8 @@
       "alternative",
       "underground",
       "guitar-based",
-      "alternative",
-      "modern"
+      "modern",
+      "band"
     ],
     "difficulty": "medium",
     "category": "Music genres, instruments, and famous songs"
@@ -25961,7 +25961,7 @@
       "angry",
       "nineties",
       "flannel",
-      "nirvana"
+      "Nirvana"
     ],
     "difficulty": "medium",
     "category": "Music genres, instruments, and famous songs"
@@ -26042,7 +26042,7 @@
     "word": "Gospel",
     "taboo": [
       "church",
-      "christian",
+      "Christian",
       "spiritual",
       "soul",
       "choir"
@@ -26213,7 +26213,7 @@
       "rhythm",
       "Wizkid",
       "modern",
-      "african"
+      "African"
     ],
     "difficulty": "medium",
     "category": "Music genres, instruments, and famous songs"
@@ -26224,7 +26224,7 @@
       "space",
       "androgynous",
       "70s",
-      "ziggy",
+      "Ziggy",
       "theatrical"
     ],
     "difficulty": "medium",
@@ -26261,7 +26261,7 @@
       "hi-hats",
       "aggressive",
       "synthetic",
-      "atlanta"
+      "Atlanta"
     ],
     "difficulty": "medium",
     "category": "Music genres, instruments, and famous songs"
@@ -28023,9 +28023,9 @@
     "taboo": [
       "contradiction",
       "conflict",
-      "contradiction",
       "inconsistency",
-      "confusion"
+      "confusion",
+      "psychology"
     ],
     "difficulty": "hard",
     "category": "Emotions, feelings, and mental states"
@@ -28432,8 +28432,8 @@
       "contradiction",
       "words",
       "opposite",
-      "contradiction",
-      "rhetoric"
+      "rhetoric",
+      "paradox"
     ],
     "difficulty": "hard",
     "category": "Abstract concepts and ideas"
@@ -29619,9 +29619,9 @@
     "taboo": [
       "dying",
       "dead",
-      "dying",
       "obsolete",
-      "decline"
+      "decline",
+      "stagnant"
     ],
     "difficulty": "hard",
     "category": "Abstract concepts and ideas"
@@ -30352,8 +30352,8 @@
       "destroy",
       "relationships",
       "fire",
-      "relationships",
-      "sever"
+      "sever",
+      "alienate"
     ],
     "difficulty": "hard",
     "category": "Idioms, phrases, and expressions"
@@ -33341,7 +33341,7 @@
       "waterfall",
       "structured",
       "bonds",
-      "priority"
+      "securities"
     ],
     "difficulty": "hard",
     "category": "Business, economics, and finance terms"
@@ -33685,7 +33685,7 @@
     "word": "Kantian ethics",
     "taboo": [
       "duty",
-      "maxim",
+      "Maxim",
       "reason",
       "imperative",
       "philosopher"
@@ -33736,7 +33736,7 @@
       "semantics",
       "syntax",
       "understanding",
-      "ai"
+      "AI"
     ],
     "difficulty": "expert",
     "category": "Philosophy, ethics, and deep concepts"
@@ -33888,7 +33888,7 @@
   {
     "word": "Perspectivism",
     "taboo": [
-      "nietzsche",
+      "Nietzsche",
       "viewpoint",
       "truth",
       "interpretation",
@@ -33936,7 +33936,7 @@
   {
     "word": "Amor Fati",
     "taboo": [
-      "nietzsche",
+      "Nietzsche",
       "love",
       "fate",
       "acceptance",
@@ -33951,7 +33951,7 @@
       "Kant",
       "duty",
       "moral",
-      "maxim",
+      "Maxim",
       "principle"
     ],
     "difficulty": "expert",
@@ -34574,9 +34574,9 @@
     "taboo": [
       "foreigner",
       "fear",
-      "foreign",
       "hatred",
-      "prejudice"
+      "prejudice",
+      "intolerance"
     ],
     "difficulty": "expert",
     "category": "Scientific and technical concepts"
@@ -34586,7 +34586,7 @@
     "taboo": [
       "powerhouse",
       "cell",
-      "atp",
+      "ATP",
       "energy",
       "organelle"
     ],
@@ -35138,7 +35138,8 @@
       "read",
       "daily",
       "print",
-      "articles"
+      "articles",
+      "journalism"
     ],
     "difficulty": "easy",
     "category": "Common objects and everyday items"
@@ -35210,7 +35211,7 @@
       "connect",
       "electric",
       "television",
-      "internet"
+      "Internet"
     ],
     "difficulty": "easy",
     "category": "Common objects and everyday items"
@@ -35520,7 +35521,7 @@
     "taboo": [
       "playwright",
       "Romeo",
-      "juliet",
+      "Juliet",
       "English",
       "theater"
     ],
@@ -35542,7 +35543,7 @@
   {
     "word": "Gandhi",
     "taboo": [
-      "india",
+      "India",
       "peaceful",
       "independence",
       "leader",
@@ -35893,7 +35894,7 @@
       "singer",
       "crooner",
       "Vegas",
-      "Ratpack",
+      "Rat Pack",
       "blue"
     ],
     "difficulty": "medium",
@@ -35986,7 +35987,7 @@
   {
     "word": "Lennon",
     "taboo": [
-      "beatles",
+      "Beatles",
       "musician",
       "peace",
       "imagine",
@@ -36118,7 +36119,7 @@
   {
     "word": "Robinson",
     "taboo": [
-      "Baseball",
+      "baseball",
       "breaking",
       "barrier",
       "number",
@@ -36145,7 +36146,7 @@
       "actor",
       "wonderful",
       "life",
-      "everyman",
+      "Everyman",
       "stammering"
     ],
     "difficulty": "medium",
@@ -36289,7 +36290,7 @@
       "actress",
       "singer",
       "rainbow",
-      "Wizard",
+      "wizard",
       "shoes"
     ],
     "difficulty": "medium",
@@ -36335,7 +36336,7 @@
     "word": "Garbo",
     "taboo": [
       "actress",
-      "swedish",
+      "Swedish",
       "mysterious",
       "reclusive",
       "beautiful"
@@ -36445,7 +36446,8 @@
       "actor",
       "graduate",
       "rain",
-      "short"
+      "short",
+      "Dustin"
     ],
     "difficulty": "medium",
     "category": "Famous people, celebrities, historical figures"
@@ -36513,7 +36515,7 @@
   {
     "word": "Batman",
     "taboo": [
-      "gotham",
+      "Gotham",
       "Wayne",
       "superhero",
       "cave",
@@ -36552,7 +36554,7 @@
       "serial",
       "killer",
       "forensics",
-      "miami",
+      "Miami",
       "vigilante"
     ],
     "difficulty": "medium",
@@ -36561,7 +36563,7 @@
   {
     "word": "Jeopardy",
     "taboo": [
-      "alex",
+      "Alex",
       "Trebek",
       "questions",
       "answers",
@@ -36585,10 +36587,10 @@
   {
     "word": "Harry Potter",
     "taboo": [
-      "Wizard",
+      "wizard",
       "Hogwarts",
       "magic",
-      "hermione",
+      "Hermione",
       "wand"
     ],
     "difficulty": "medium",
@@ -36599,7 +36601,7 @@
     "taboo": [
       "parties",
       "twenties",
-      "Daisy",
+      "daisy",
       "wealth",
       "green"
     ],
@@ -36621,7 +36623,7 @@
   {
     "word": "Hobbit",
     "taboo": [
-      "tolkien",
+      "Tolkien",
       "dragon",
       "ring",
       "adventure",
@@ -36717,7 +36719,7 @@
   {
     "word": "Romeo",
     "taboo": [
-      "juliet",
+      "Juliet",
       "Shakespeare",
       "balcony",
       "tragedy",
@@ -36853,7 +36855,7 @@
       "engine",
       "algorithm",
       "results",
-      "internet"
+      "Internet"
     ],
     "difficulty": "medium",
     "category": "Movies, TV shows, books, and media"
@@ -36861,11 +36863,11 @@
   {
     "word": "iPhone",
     "taboo": [
-      "Apple",
+      "apple",
       "smartphone",
       "touchscreen",
       "apps",
-      "siri"
+      "Siri"
     ],
     "difficulty": "medium",
     "category": "Movies, TV shows, books, and media"
@@ -36983,7 +36985,7 @@
     "taboo": [
       "machine",
       "artificial",
-      "Android",
+      "android",
       "automation",
       "metal"
     ],
@@ -37968,7 +37970,8 @@
       "basketball",
       "purple",
       "yellow",
-      "nba"
+      "NBA",
+      "Angeles"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -37976,10 +37979,11 @@
   {
     "word": "Yankees",
     "taboo": [
-      "Baseball",
+      "baseball",
       "pinstripes",
       "Bronx",
-      "championships"
+      "championships",
+      "Manhattan"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -37999,9 +38003,11 @@
   {
     "word": "Patriots",
     "taboo": [
-      "boston",
+      "Boston",
       "Brady",
-      "football"
+      "football",
+      "England",
+      "quarterback"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38012,7 +38018,8 @@
       "basketball",
       "curry",
       "California",
-      "championship"
+      "championship",
+      "golden"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38020,7 +38027,7 @@
   {
     "word": "Celtics",
     "taboo": [
-      "boston",
+      "Boston",
       "green",
       "basketball",
       "shamrock",
@@ -38032,9 +38039,11 @@
   {
     "word": "Dodgers",
     "taboo": [
-      "Baseball",
+      "baseball",
       "blue",
-      "Brooklyn"
+      "Brooklyn",
+      "Angeles",
+      "stadium"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38044,7 +38053,9 @@
     "taboo": [
       "football",
       "red",
-      "Mahomes"
+      "Mahomes",
+      "Kansas",
+      "quarterback"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38077,8 +38088,8 @@
     "word": "Lebron James",
     "taboo": [
       "basketball",
-      "cleveland",
-      "miami",
+      "Cleveland",
+      "Miami",
       "Lakers",
       "king"
     ],
@@ -38091,7 +38102,8 @@
       "quarterback",
       "Patriots",
       "rings",
-      "seven"
+      "seven",
+      "Tampa"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38114,7 +38126,8 @@
       "tennis",
       "sister",
       "champion",
-      "Venus"
+      "Venus",
+      "racket"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38123,7 +38136,7 @@
     "word": "Tiger Woods",
     "taboo": [
       "golf",
-      "Masters",
+      "masters",
       "green",
       "jacket",
       "Augusta"
@@ -38137,7 +38150,8 @@
       "soccer",
       "Portugal",
       "goals",
-      "manchester"
+      "Manchester",
+      "Madrid"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38149,7 +38163,7 @@
       "Argentina",
       "Barcelona",
       "ballon",
-      "miami"
+      "Miami"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38160,7 +38174,8 @@
       "basketball",
       "warriors",
       "three",
-      "pointer"
+      "pointer",
+      "shooter"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38168,7 +38183,7 @@
   {
     "word": "Aaron Judge",
     "taboo": [
-      "Baseball",
+      "baseball",
       "Yankees",
       "home",
       "runs",
@@ -38204,9 +38219,9 @@
   {
     "word": "World Series",
     "taboo": [
-      "Baseball",
+      "baseball",
       "championship",
-      "october",
+      "October",
       "games",
       "seven"
     ],
@@ -38302,7 +38317,7 @@
     "taboo": [
       "horse",
       "racing",
-      "louisville",
+      "Louisville",
       "roses",
       "mint"
     ],
@@ -38336,7 +38351,7 @@
   {
     "word": "Pitcher",
     "taboo": [
-      "Baseball",
+      "baseball",
       "mound",
       "throws",
       "strikes",
@@ -38396,7 +38411,7 @@
   {
     "word": "Shortstop",
     "taboo": [
-      "Baseball",
+      "baseball",
       "infield",
       "double",
       "plays",
@@ -38408,7 +38423,7 @@
   {
     "word": "Umpire",
     "taboo": [
-      "Baseball",
+      "baseball",
       "calls",
       "strikes",
       "balls",
@@ -38432,7 +38447,7 @@
   {
     "word": "Home run",
     "taboo": [
-      "Baseball",
+      "baseball",
       "four",
       "bases",
       "fence",
@@ -38528,7 +38543,7 @@
   {
     "word": "Double play",
     "taboo": [
-      "Baseball",
+      "baseball",
       "two",
       "outs",
       "infield",
@@ -38567,7 +38582,8 @@
       "extra",
       "tied",
       "sudden",
-      "death"
+      "death",
+      "extended"
     ],
     "difficulty": "medium",
     "category": "Sports teams, athletes, and sporting events"
@@ -38660,7 +38676,7 @@
     "word": "Stairway",
     "taboo": [
       "heaven",
-      "zeppelin",
+      "Zeppelin",
       "guitar",
       "solo",
       "rock"
@@ -38696,7 +38712,7 @@
     "word": "Radiohead",
     "taboo": [
       "Thom",
-      "yorke",
+      "Yorke",
       "creep",
       "ok",
       "computer"
@@ -38733,7 +38749,7 @@
     "taboo": [
       "teen",
       "spirit",
-      "nirvana",
+      "Nirvana",
       "grunge",
       "Kurt"
     ],
@@ -38767,7 +38783,7 @@
   {
     "word": "Abbey Road",
     "taboo": [
-      "beatles",
+      "Beatles",
       "crosswalk",
       "Paul",
       "dead",
@@ -38805,9 +38821,9 @@
     "taboo": [
       "Neil",
       "diamond",
-      "boston",
+      "Boston",
       "red",
-      "sox"
+      "Sox"
     ],
     "difficulty": "medium",
     "category": "Musical artists, bands, albums, and songs"
@@ -38816,9 +38832,10 @@
     "word": "Guns Roses",
     "taboo": [
       "Axl",
-      "Slash",
+      "slash",
       "welcome",
-      "jungle"
+      "jungle",
+      "band"
     ],
     "difficulty": "medium",
     "category": "Musical artists, bands, albums, and songs"
@@ -38854,7 +38871,7 @@
       "Jagger",
       "satisfaction",
       "Keith",
-      "richards"
+      "Richards"
     ],
     "difficulty": "medium",
     "category": "Musical artists, bands, albums, and songs"
@@ -38910,7 +38927,7 @@
   {
     "word": "Hey Jude",
     "taboo": [
-      "beatles",
+      "Beatles",
       "Paul",
       "McCartney",
       "better",
@@ -38924,7 +38941,7 @@
     "taboo": [
       "Freddie",
       "Mercury",
-      "Bohemian",
+      "bohemian",
       "rhapsody",
       "rock"
     ],
@@ -38936,7 +38953,7 @@
     "taboo": [
       "hotel",
       "California",
-      "henley",
+      "Henley",
       "desperado",
       "band"
     ],
@@ -38961,7 +38978,8 @@
       "master",
       "puppets",
       "James",
-      "Hetfield"
+      "Hetfield",
+      "metal"
     ],
     "difficulty": "medium",
     "category": "Musical artists, bands, albums, and songs"
@@ -38993,7 +39011,7 @@
   {
     "word": "Livin Prayer",
     "taboo": [
-      "bon",
+      "Bon",
       "Jovi",
       "hold",
       "hand",
@@ -39006,7 +39024,7 @@
     "word": "Eye Tiger",
     "taboo": [
       "survivor",
-      "rocky",
+      "Rocky",
       "movie",
       "fight",
       "rising"
@@ -39044,7 +39062,7 @@
       "pearl",
       "jam",
       "Eddie",
-      "vedder",
+      "Vedder",
       "grunge"
     ],
     "difficulty": "medium",
@@ -39090,7 +39108,7 @@
     "word": "Dancing Queen",
     "taboo": [
       "ABBA",
-      "swedish",
+      "Swedish",
       "disco",
       "young",
       "sweet"
@@ -39149,8 +39167,8 @@
   {
     "word": "Shake",
     "taboo": [
-      "taylor",
-      "swift",
+      "Taylor",
+      "Swift",
       "haters",
       "gonna",
       "hate"
@@ -39245,7 +39263,7 @@
   {
     "word": "Old Town",
     "taboo": [
-      "lil",
+      "Lil",
       "Nas",
       "country",
       "rap",
@@ -39318,7 +39336,7 @@
     "word": "Fortnite",
     "taboo": [
       "battle",
-      "royale",
+      "Royale",
       "building",
       "storm",
       "island"
@@ -39437,7 +39455,7 @@
   {
     "word": "Hearts",
     "taboo": [
-      "spades",
+      "Spades",
       "Queen",
       "tricks",
       "points",
@@ -39488,7 +39506,8 @@
       "flippers",
       "machine",
       "bumpers",
-      "tilt"
+      "tilt",
+      "arcade"
     ],
     "difficulty": "medium",
     "category": "Video games, board games, and card games"
@@ -39607,7 +39626,8 @@
       "children",
       "colors",
       "path",
-      "sweet"
+      "sweet",
+      "board"
     ],
     "difficulty": "medium",
     "category": "Video games, board games, and card games"
@@ -39747,7 +39767,7 @@
   {
     "word": "Armani",
     "taboo": [
-      "giorgio",
+      "Giorgio",
       "suits",
       "Milan",
       "minimalist",
@@ -39846,7 +39866,7 @@
       "red",
       "soles",
       "heels",
-      "christian",
+      "Christian",
       "shoes"
     ],
     "difficulty": "medium",
@@ -39999,7 +40019,7 @@
   {
     "word": "Bottega",
     "taboo": [
-      "veneta",
+      "Veneta",
       "woven",
       "leather",
       "Italian",
@@ -40158,7 +40178,8 @@
       "milk",
       "heating",
       "bacteria",
-      "sterilization"
+      "sterilization",
+      "process"
     ],
     "difficulty": "hard",
     "category": "Scientific discoveries and inventions"
@@ -40166,7 +40187,7 @@
   {
     "word": "X-rays",
     "taboo": [
-      "roentgen",
+      "Roentgen",
       "bones",
       "radiation",
       "medical",
@@ -40194,7 +40215,7 @@
       "hormone",
       "glucose",
       "pancreas",
-      "Banting"
+      "banting"
     ],
     "difficulty": "hard",
     "category": "Scientific discoveries and inventions"
@@ -40298,7 +40319,7 @@
   {
     "word": "Periodic",
     "taboo": [
-      "mendeleev",
+      "Mendeleev",
       "elements",
       "table",
       "atomic",
@@ -40527,7 +40548,7 @@
     "word": "Zeus",
     "taboo": [
       "thunder",
-      "olympus",
+      "Olympus",
       "lightning",
       "king",
       "gods"
@@ -40540,8 +40561,8 @@
     "taboo": [
       "snakes",
       "stone",
-      "gorgon",
-      "perseus",
+      "Gorgon",
+      "Perseus",
       "hair"
     ],
     "difficulty": "hard",
@@ -40550,7 +40571,7 @@
   {
     "word": "Odin",
     "taboo": [
-      "ravens",
+      "Ravens",
       "Valhalla",
       "Norse",
       "wisdom",
