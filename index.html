@@ -138,7 +138,7 @@
                 <div className="min-h-screen p-4 flex items-center justify-center">
                     <div className="w-full max-w-md">
                         {gameState === 'setup' && <StartScreen team1Name={team1Name} setTeam1Name={setTeam1Name} team2Name={team2Name} setTeam2Name={setTeam2Name} difficulties={difficulties} toggleDifficulty={toggleDifficulty} onStart={startGame} />}
-                        {gameState === 'transition' && <TurnTransition teamName={currentTeam === 1 ? team1Name : team2Name} currentRound={currentRound} totalRounds={totalRounds} onReady={startTurn} />}
+                        {gameState === 'transition' && <TurnTransition teamName={currentTeam === 1 ? team1Name : team2Name} currentRound={currentRound} totalRounds={totalRounds} team1Name={team1Name} team2Name={team2Name} scores={scores} onReady={startTurn} />}
                         {gameState === 'playing' && cards.length > 0 && <GamePlay card={cards[currentCardIndex]} timeLeft={timeLeft} timerDuration={timerDuration} team1Name={team1Name} team2Name={team2Name} scores={scores} currentTeam={currentTeam} skipsUsed={skipsUsed} onCorrect={handleCorrect} onSkip={handleSkip} onTaboo={handleTaboo} />}
                         {gameState === 'gameOver' && <GameOver team1Name={team1Name} team2Name={team2Name} scores={scores} onPlayAgain={playAgain} />}
                     </div>
@@ -180,9 +180,20 @@
             );
         }
 
-        function TurnTransition({ teamName, currentRound, totalRounds, onReady }) {
+        function TurnTransition({ teamName, currentRound, totalRounds, team1Name, team2Name, scores, onReady }) {
             return (
                 <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                    <div className="flex justify-center gap-8 mb-6">
+                        <div className="text-center">
+                            <div className="text-sm text-gray-500">{team1Name}</div>
+                            <div className="text-3xl font-bold text-purple-600">{scores.team1}</div>
+                        </div>
+                        <div className="text-2xl text-gray-300 self-center">-</div>
+                        <div className="text-center">
+                            <div className="text-sm text-gray-500">{team2Name}</div>
+                            <div className="text-3xl font-bold text-indigo-600">{scores.team2}</div>
+                        </div>
+                    </div>
                     <p className="text-gray-500 mb-2">Round {currentRound} of {totalRounds}</p>
                     <h2 className="text-3xl font-bold text-purple-800 mb-4">{teamName}</h2>
                     <p className="text-gray-600 mb-8">Pass the device to the clue giver on {teamName}.</p>
