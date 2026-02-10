@@ -42,6 +42,7 @@
             const [cards, setCards] = useState([]);
             const [currentCardIndex, setCurrentCardIndex] = useState(0);
             const [difficulties, setDifficulties] = useState(['easy', 'medium', 'hard', 'expert']);
+            const [skipsUsed, setSkipsUsed] = useState(0);
 
             const toggleDifficulty = (diff) => {
                 setDifficulties(prev =>
@@ -67,6 +68,7 @@
 
             const startTurn = () => {
                 setTimeLeft(timerDuration);
+                setSkipsUsed(0);
                 setGameState('playing');
             };
 
@@ -78,7 +80,17 @@
                 nextCard();
             };
 
-            const handleSkip = () => nextCard();
+            const handleSkip = () => {
+                if (skipsUsed >= 1) {
+                    // After first skip, skipping costs 1 point
+                    setScores(prev => ({
+                        ...prev,
+                        [currentTeam === 1 ? 'team1' : 'team2']: prev[currentTeam === 1 ? 'team1' : 'team2'] - 1
+                    }));
+                }
+                setSkipsUsed(prev => prev + 1);
+                nextCard();
+            };
 
             const handleTaboo = () => {
                 setScores(prev => ({
@@ -127,7 +139,7 @@
                     <div className="w-full max-w-md">
                         {gameState === 'setup' && <StartScreen team1Name={team1Name} setTeam1Name={setTeam1Name} team2Name={team2Name} setTeam2Name={setTeam2Name} difficulties={difficulties} toggleDifficulty={toggleDifficulty} onStart={startGame} />}
                         {gameState === 'transition' && <TurnTransition teamName={currentTeam === 1 ? team1Name : team2Name} currentRound={currentRound} totalRounds={totalRounds} onReady={startTurn} />}
-                        {gameState === 'playing' && cards.length > 0 && <GamePlay card={cards[currentCardIndex]} timeLeft={timeLeft} timerDuration={timerDuration} team1Name={team1Name} team2Name={team2Name} scores={scores} currentTeam={currentTeam} onCorrect={handleCorrect} onSkip={handleSkip} onTaboo={handleTaboo} />}
+                        {gameState === 'playing' && cards.length > 0 && <GamePlay card={cards[currentCardIndex]} timeLeft={timeLeft} timerDuration={timerDuration} team1Name={team1Name} team2Name={team2Name} scores={scores} currentTeam={currentTeam} skipsUsed={skipsUsed} onCorrect={handleCorrect} onSkip={handleSkip} onTaboo={handleTaboo} />}
                         {gameState === 'gameOver' && <GameOver team1Name={team1Name} team2Name={team2Name} scores={scores} onPlayAgain={playAgain} />}
                     </div>
                 </div>
@@ -172,14 +184,14 @@
             return (
                 <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
                     <p className="text-gray-500 mb-2">Round {currentRound} of {totalRounds}</p>
-                    <h2 className="text-3xl font-bold text-purple-800 mb-4">{teamName}'s Turn!</h2>
-                    <p className="text-gray-600 mb-8">Pass the device to the clue giver on {teamName}.<br />Don't let the other team see!</p>
-                    <button onClick={onReady} className="w-full py-4 bg-gradient-to-r from-green-500 to-emerald-600 text-white text-xl font-bold rounded-xl hover:from-green-600 hover:to-emerald-700 transition-all transform hover:scale-105 shadow-lg">I'm Ready - Start Timer!</button>
+                    <h2 className="text-3xl font-bold text-purple-800 mb-4">{teamName}</h2>
+                    <p className="text-gray-600 mb-8">Pass the device to the clue giver on {teamName}.</p>
+                    <button onClick={onReady} className="w-full py-4 bg-gradient-to-r from-green-500 to-emerald-600 text-white text-xl font-bold rounded-xl hover:from-green-600 hover:to-emerald-700 transition-all transform hover:scale-105 shadow-lg">Start</button>
                 </div>
             );
         }
 
-        function GamePlay({ card, timeLeft, timerDuration, team1Name, team2Name, scores, currentTeam, onCorrect, onSkip, onTaboo }) {
+        function GamePlay({ card, timeLeft, timerDuration, team1Name, team2Name, scores, currentTeam, skipsUsed, onCorrect, onSkip, onTaboo }) {
             const timerPercent = (timeLeft / timerDuration) * 100;
             const isLowTime = timeLeft <= 10;
             return (
@@ -217,7 +229,7 @@
                     </div>
                     <div className="grid grid-cols-3 gap-3">
                         <button onClick={onTaboo} className="py-4 bg-red-500 hover:bg-red-600 text-white font-bold rounded-xl transition-colors shadow-lg">TABOO!<br /><span className="text-sm font-normal">-1 pt</span></button>
-                        <button onClick={onSkip} className="py-4 bg-gray-400 hover:bg-gray-500 text-white font-bold rounded-xl transition-colors shadow-lg">SKIP<br /><span className="text-sm font-normal">0 pts</span></button>
+                        <button onClick={onSkip} className={`py-4 ${skipsUsed >= 1 ? 'bg-yellow-500 hover:bg-yellow-600' : 'bg-gray-400 hover:bg-gray-500'} text-white font-bold rounded-xl transition-colors shadow-lg`}>SKIP<br /><span className="text-sm font-normal">{skipsUsed >= 1 ? '-1 pt' : '0 pts'}</span></button>
                         <button onClick={onCorrect} className="py-4 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-colors shadow-lg">CORRECT!<br /><span className="text-sm font-normal">+1 pt</span></button>
                     </div>
                 </div>
