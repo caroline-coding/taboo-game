@@ -35,18 +35,25 @@
             const [team2Name, setTeam2Name] = useState('Team 2');
             const [scores, setScores] = useState({ team1: 0, team2: 0 });
             const [currentTeam, setCurrentTeam] = useState(1);
-            const [timerDuration, setTimerDuration] = useState(60);
-            const [totalRounds, setTotalRounds] = useState(4);
+            const timerDuration = 60;
+            const totalRounds = 4;
             const [currentRound, setCurrentRound] = useState(1);
             const [timeLeft, setTimeLeft] = useState(60);
             const [cards, setCards] = useState([]);
             const [currentCardIndex, setCurrentCardIndex] = useState(0);
-            const [difficulty, setDifficulty] = useState('all');
+            const [difficulties, setDifficulties] = useState(['easy', 'medium', 'hard', 'expert']);
+
+            const toggleDifficulty = (diff) => {
+                setDifficulties(prev =>
+                    prev.includes(diff)
+                        ? prev.filter(d => d !== diff)
+                        : [...prev, diff]
+                );
+            };
 
             const getFilteredCards = useCallback(() => {
-                if (difficulty === 'all') return ALL_CARDS;
-                return ALL_CARDS.filter(card => card.difficulty === difficulty);
-            }, [difficulty]);
+                return ALL_CARDS.filter(card => difficulties.includes(card.difficulty));
+            }, [difficulties]);
 
             const startGame = () => {
                 const filteredCards = getFilteredCards();
@@ -91,6 +98,8 @@
             };
 
             const endTurn = useCallback(() => {
+                // Move to a new card so the next team doesn't see the same one
+                nextCard();
                 if (currentRound >= totalRounds && currentTeam === 2) {
                     setGameState('gameOver');
                 } else {
@@ -116,7 +125,7 @@
             return (
                 <div className="min-h-screen p-4 flex items-center justify-center">
                     <div className="w-full max-w-md">
-                        {gameState === 'setup' && <StartScreen team1Name={team1Name} setTeam1Name={setTeam1Name} team2Name={team2Name} setTeam2Name={setTeam2Name} timerDuration={timerDuration} setTimerDuration={setTimerDuration} totalRounds={totalRounds} setTotalRounds={setTotalRounds} difficulty={difficulty} setDifficulty={setDifficulty} onStart={startGame} />}
+                        {gameState === 'setup' && <StartScreen team1Name={team1Name} setTeam1Name={setTeam1Name} team2Name={team2Name} setTeam2Name={setTeam2Name} difficulties={difficulties} toggleDifficulty={toggleDifficulty} onStart={startGame} />}
                         {gameState === 'transition' && <TurnTransition teamName={currentTeam === 1 ? team1Name : team2Name} currentRound={currentRound} totalRounds={totalRounds} onReady={startTurn} />}
                         {gameState === 'playing' && cards.length > 0 && <GamePlay card={cards[currentCardIndex]} timeLeft={timeLeft} timerDuration={timerDuration} team1Name={team1Name} team2Name={team2Name} scores={scores} currentTeam={currentTeam} onCorrect={handleCorrect} onSkip={handleSkip} onTaboo={handleTaboo} />}
                         {gameState === 'gameOver' && <GameOver team1Name={team1Name} team2Name={team2Name} scores={scores} onPlayAgain={playAgain} />}
@@ -125,9 +134,8 @@
             );
         }
 
-        function StartScreen({ team1Name, setTeam1Name, team2Name, setTeam2Name, timerDuration, setTimerDuration, totalRounds, setTotalRounds, difficulty, setDifficulty, onStart }) {
+        function StartScreen({ team1Name, setTeam1Name, team2Name, setTeam2Name, difficulties, toggleDifficulty, onStart }) {
             const difficultyOptions = [
-                { value: 'all', label: 'All' },
                 { value: 'easy', label: 'Easy' },
                 { value: 'medium', label: 'Medium' },
                 { value: 'hard', label: 'Hard' },
@@ -137,7 +145,6 @@
             return (
                 <div className="bg-white rounded-2xl shadow-2xl p-8">
                     <h1 className="text-4xl font-bold text-center text-purple-800 mb-2">TABOO</h1>
-                    <p className="text-center text-gray-500 mb-8">The game of unspeakable fun!</p>
                     <div className="space-y-6">
                         <div>
                             <label className="block text-sm font-medium text-gray-700 mb-2">Team 1 Name</label>
@@ -149,30 +156,13 @@
                         </div>
                         <div>
                             <label className="block text-sm font-medium text-gray-700 mb-2">Difficulty</label>
-                            <div className="grid grid-cols-5 gap-1">
+                            <div className="grid grid-cols-4 gap-2">
                                 {difficultyOptions.map(opt => (
-                                    <button key={opt.value} onClick={() => setDifficulty(opt.value)} className={`p-2 rounded-lg font-medium transition-colors text-sm ${difficulty === opt.value ? 'bg-purple-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>{opt.label}</button>
+                                    <button key={opt.value} onClick={() => toggleDifficulty(opt.value)} className={`p-2 rounded-lg font-medium transition-colors text-sm ${difficulties.includes(opt.value) ? 'bg-purple-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>{opt.label}</button>
                                 ))}
                             </div>
                         </div>
-                        <div>
-                            <label className="block text-sm font-medium text-gray-700 mb-2">Turn Duration</label>
-                            <div className="grid grid-cols-3 gap-2">
-                                {[60, 90, 120].map(seconds => (
-                                    <button key={seconds} onClick={() => setTimerDuration(seconds)} className={`p-3 rounded-lg font-medium transition-colors ${timerDuration === seconds ? 'bg-purple-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>{seconds}s</button>
-                                ))}
-                            </div>
-                        </div>
-                        <div>
-                            <label className="block text-sm font-medium text-gray-700 mb-2">Number of Rounds</label>
-                            <div className="grid grid-cols-3 gap-2">
-                                {[2, 4, 6].map(rounds => (
-                                    <button key={rounds} onClick={() => setTotalRounds(rounds)} className={`p-3 rounded-lg font-medium transition-colors ${totalRounds === rounds ? 'bg-purple-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>{rounds}</button>
-                                ))}
-                            </div>
-                            <p className="text-xs text-gray-500 mt-1">Each round = both teams get a turn</p>
-                        </div>
-                        <button onClick={onStart} className="w-full py-4 bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-xl font-bold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all transform hover:scale-105 shadow-lg">Start Game</button>
+                        <button onClick={onStart} disabled={difficulties.length === 0} className={`w-full py-4 text-white text-xl font-bold rounded-xl transition-all shadow-lg ${difficulties.length === 0 ? 'bg-gray-400 cursor-not-allowed' : 'bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 transform hover:scale-105'}`}>{difficulties.length === 0 ? 'Select at least one difficulty' : 'Start Game'}</button>
                     </div>
                 </div>
             );
