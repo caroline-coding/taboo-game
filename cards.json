@@ -1565,7 +1565,7 @@
       "tusks",
       "Africa",
       "snout",
-      "pig-like",
+      "pig",
       "wild"
     ],
     "difficulty": "easy",
@@ -2406,7 +2406,7 @@
       "vegetable",
       "healthy",
       "florets",
-      "tree-like"
+      "tree"
     ],
     "difficulty": "easy",
     "category": "Food and Drinks (meals, ingredients, cuisines, beverages)"
@@ -25875,7 +25875,7 @@
     "taboo": [
       "alternative",
       "underground",
-      "guitar-based",
+      "guitar",
       "modern",
       "band"
     ],
@@ -31361,7 +31361,7 @@
       "spiteful",
       "retaliatory",
       "malicious",
-      "grudge-holding"
+      "grudge"
     ],
     "difficulty": "hard",
     "category": "Personality traits and human characteristics"
@@ -31419,7 +31419,7 @@
     "taboo": [
       "shy",
       "timid",
-      "lacking-confidence",
+      "confidence",
       "self-conscious",
       "bashful"
     ],
@@ -31469,7 +31469,7 @@
       "intelligent",
       "smart",
       "clever",
-      "sound-judgment"
+      "judgment"
     ],
     "difficulty": "hard",
     "category": "Personality traits and human characteristics"
@@ -32257,7 +32257,7 @@
   {
     "word": "Pedantry",
     "taboo": [
-      "detail-obsessed",
+      "nitpicking",
       "nitpicky",
       "fussy",
       "bookish",
@@ -33337,7 +33337,7 @@
   {
     "word": "Zombie company",
     "taboo": [
-      "debt-ridden",
+      "indebted",
       "unprofitable",
       "survival",
       "undead",
@@ -33769,7 +33769,7 @@
     "word": "Transcendental idealism",
     "taboo": [
       "Kant",
-      "mind-dependent",
+      "subjective",
       "categories",
       "objective",
       "forms"
@@ -34084,7 +34084,7 @@
       "validate",
       "reinforce",
       "filter",
-      "echo-chamber"
+      "echo"
     ],
     "difficulty": "expert",
     "category": "Psychology and cognitive terms"
@@ -34200,7 +34200,7 @@
   {
     "word": "Working memory",
     "taboo": [
-      "attention-based",
+      "focused",
       "conscious",
       "manipulation",
       "rehearsal",
@@ -34357,7 +34357,7 @@
     "word": "False memory",
     "taboo": [
       "remember",
-      "never-happened",
+      "fabricated",
       "confabulation",
       "suggestible",
       "implanted"
@@ -35493,7 +35493,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Picasso",
+    "word": "Pablo Picasso",
     "taboo": [
       "painter",
       "cubism",
@@ -35517,7 +35517,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Lincoln",
+    "word": "Abraham Lincoln",
     "taboo": [
       "president",
       "assassination",
@@ -35553,7 +35553,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Monroe",
+    "word": "Marilyn Monroe",
     "taboo": [
       "actress",
       "blonde",
@@ -35577,7 +35577,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Kennedy",
+    "word": "John F. Kennedy",
     "taboo": [
       "president",
       "Dallas",
@@ -35589,7 +35589,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Mandela",
+    "word": "Nelson Mandela",
     "taboo": [
       "Africa",
       "prison",
@@ -35613,7 +35613,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Winfrey",
+    "word": "Oprah Winfrey",
     "taboo": [
       "television",
       "host",
@@ -35637,7 +35637,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Washington",
+    "word": "George Washington",
     "taboo": [
       "president",
       "father",
@@ -35649,7 +35649,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Presley",
+    "word": "Elvis Presley",
     "taboo": [
       "singer",
       "rock",
@@ -35673,7 +35673,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Chaplin",
+    "word": "Charlie Chaplin",
     "taboo": [
       "comedy",
       "silent",
@@ -35709,7 +35709,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Warhol",
+    "word": "Andy Warhol",
     "taboo": [
       "artist",
       "soup",
@@ -35733,7 +35733,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Disney",
+    "word": "Walt Disney",
     "taboo": [
       "animation",
       "Mickey",
@@ -35745,7 +35745,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Jackson",
+    "word": "Michael Jackson",
     "taboo": [
       "singer",
       "moonwalk",
@@ -35769,7 +35769,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Roosevelt",
+    "word": "Franklin Roosevelt",
     "taboo": [
       "president",
       "depression",
@@ -35793,7 +35793,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hemingway",
+    "word": "Ernest Hemingway",
     "taboo": [
       "writer",
       "novels",
@@ -35817,7 +35817,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hitchcock",
+    "word": "Alfred Hitchcock",
     "taboo": [
       "director",
       "suspense",
@@ -35829,7 +35829,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Sinatra",
+    "word": "Frank Sinatra",
     "taboo": [
       "singer",
       "crooner",
@@ -35841,7 +35841,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Spielberg",
+    "word": "Steven Spielberg",
     "taboo": [
       "director",
       "movies",
@@ -35865,7 +35865,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Decaprio",
+    "word": "Leonardo DiCaprio",
     "taboo": [
       "actor",
       "Titanic",
@@ -35877,7 +35877,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Angelou",
+    "word": "Maya Angelou",
     "taboo": [
       "poet",
       "writer",
@@ -35889,7 +35889,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Streep",
+    "word": "Meryl Streep",
     "taboo": [
       "actress",
       "accents",
@@ -35901,7 +35901,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hanks",
+    "word": "Tom Hanks",
     "taboo": [
       "actor",
       "Forrest",
@@ -35925,7 +35925,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Lennon",
+    "word": "John Lennon",
     "taboo": [
       "Beatles",
       "musician",
@@ -35937,7 +35937,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Fitzgerald",
+    "word": "F. Scott Fitzgerald",
     "taboo": [
       "writer",
       "Gatsby",
@@ -35961,7 +35961,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Twain",
+    "word": "Mark Twain",
     "taboo": [
       "writer",
       "Mississippi",
@@ -35997,7 +35997,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Kafka",
+    "word": "Franz Kafka",
     "taboo": [
       "writer",
       "metamorphosis",
@@ -36021,7 +36021,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Wonder",
+    "word": "Stevie Wonder",
     "taboo": [
       "musician",
       "blind",
@@ -36033,7 +36033,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Streisand",
+    "word": "Barbra Streisand",
     "taboo": [
       "singer",
       "actress",
@@ -36069,7 +36069,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Douglas",
+    "word": "Kirk Douglas",
     "taboo": [
       "actor",
       "dynasty",
@@ -36081,7 +36081,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Stewart",
+    "word": "Jimmy Stewart",
     "taboo": [
       "actor",
       "wonderful",
@@ -36093,7 +36093,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Bogart",
+    "word": "Humphrey Bogart",
     "taboo": [
       "actor",
       "Casablanca",
@@ -36105,7 +36105,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Brando",
+    "word": "Marlon Brando",
     "taboo": [
       "actor",
       "method",
@@ -36117,7 +36117,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hepburn",
+    "word": "Audrey Hepburn",
     "taboo": [
       "actress",
       "Roman",
@@ -36129,9 +36129,9 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Tracy",
+    "word": "Spencer Tracy",
     "taboo": [
-      "actress",
+      "actor",
       "comedian",
       "Broadway",
       "movies",
@@ -36141,7 +36141,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Grant",
+    "word": "Cary Grant",
     "taboo": [
       "actor",
       "British",
@@ -36153,7 +36153,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Davis",
+    "word": "Bette Davis",
     "taboo": [
       "actress",
       "eyes",
@@ -36165,7 +36165,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Crawford",
+    "word": "Joan Crawford",
     "taboo": [
       "actress",
       "wire",
@@ -36177,7 +36177,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Wayne",
+    "word": "John Wayne",
     "taboo": [
       "actor",
       "cowboy",
@@ -36189,7 +36189,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Cooper",
+    "word": "Gary Cooper",
     "taboo": [
       "actor",
       "western",
@@ -36201,7 +36201,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Gable",
+    "word": "Clark Gable",
     "taboo": [
       "actor",
       "gone",
@@ -36213,7 +36213,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Lombard",
+    "word": "Carole Lombard",
     "taboo": [
       "actress",
       "comedy",
@@ -36225,7 +36225,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Garland",
+    "word": "Judy Garland",
     "taboo": [
       "actress",
       "singer",
@@ -36249,7 +36249,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Astaire",
+    "word": "Fred Astaire",
     "taboo": [
       "dancer",
       "movies",
@@ -36273,7 +36273,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Garbo",
+    "word": "Greta Garbo",
     "taboo": [
       "actress",
       "Swedish",
@@ -36285,7 +36285,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Dietrich",
+    "word": "Marlene Dietrich",
     "taboo": [
       "actress",
       "cabaret",
@@ -36297,7 +36297,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Peck",
+    "word": "Gregory Peck",
     "taboo": [
       "actor",
       "mockingbird",
@@ -36309,7 +36309,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hudson",
+    "word": "Rock Hudson",
     "taboo": [
       "actor",
       "romantic",
@@ -36321,7 +36321,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Newman",
+    "word": "Paul Newman",
     "taboo": [
       "actor",
       "blue",
@@ -36333,7 +36333,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Redford",
+    "word": "Robert Redford",
     "taboo": [
       "actor",
       "director",
@@ -36345,7 +36345,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Eastwood",
+    "word": "Clint Eastwood",
     "taboo": [
       "actor",
       "director",
@@ -36357,7 +36357,7 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Pacino",
+    "word": "Al Pacino",
     "taboo": [
       "actor",
       "Scarface",
@@ -36381,19 +36381,19 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Hoffman",
+    "word": "Dustin Hoffman",
     "taboo": [
       "actor",
       "graduate",
       "rain",
       "short",
-      "Dustin"
+      "Tootsie"
     ],
     "difficulty": "medium",
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Nicholson",
+    "word": "Jack Nicholson",
     "taboo": [
       "actor",
       "shining",
@@ -36405,12 +36405,12 @@
     "category": "Famous people, celebrities, historical figures"
   },
   {
-    "word": "Ford",
+    "word": "Harrison Ford",
     "taboo": [
       "actor",
       "Indiana",
       "Jones",
-      "Harrison",
+      "Star Wars",
       "carpenter"
     ],
     "difficulty": "medium",
