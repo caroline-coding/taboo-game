@@ -50606,5 +50606,10004 @@
       "injury"
     ],
     "difficulty": "medium"
+  },
+  {
+    "word": "Aberrant",
+    "taboo": [
+      "abnormal",
+      "deviant",
+      "unusual",
+      "deviation",
+      "irregular"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Abdicate",
+    "taboo": [
+      "throne",
+      "resign",
+      "renounce",
+      "king",
+      "give up"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Abhor",
+    "taboo": [
+      "hate",
+      "detest",
+      "despise",
+      "loathe",
+      "disgusted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Abrogate",
+    "taboo": [
+      "repeal",
+      "abolish",
+      "cancel",
+      "revoke",
+      "nullify"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Abstruse",
+    "taboo": [
+      "difficult",
+      "obscure",
+      "complex",
+      "confusing",
+      "unclear"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Acme",
+    "taboo": [
+      "peak",
+      "summit",
+      "highest",
+      "top",
+      "pinnacle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Acrimonious",
+    "taboo": [
+      "bitter",
+      "angry",
+      "hostile",
+      "harsh",
+      "spiteful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Acumen",
+    "taboo": [
+      "insight",
+      "intelligence",
+      "shrewdness",
+      "keen",
+      "sharp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Adept",
+    "taboo": [
+      "skilled",
+      "expert",
+      "proficient",
+      "master",
+      "talented"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Admonish",
+    "taboo": [
+      "scold",
+      "rebuke",
+      "warn",
+      "criticize",
+      "reprimand"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Adroit",
+    "taboo": [
+      "clever",
+      "skillful",
+      "nimble",
+      "dexterous",
+      "resourceful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Adulation",
+    "taboo": [
+      "flattery",
+      "praise",
+      "worship",
+      "admiration",
+      "excessive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Adulterate",
+    "taboo": [
+      "contaminate",
+      "dilute",
+      "pollute",
+      "impure",
+      "cheapen"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Adumbrate",
+    "taboo": [
+      "foreshadow",
+      "hint",
+      "suggest",
+      "outline",
+      "preview"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Aegis",
+    "taboo": [
+      "protection",
+      "sponsorship",
+      "shield",
+      "patronage",
+      "auspices"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Aerie",
+    "taboo": [
+      "eagle",
+      "nest",
+      "mountain",
+      "high",
+      "bird"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aesthetic",
+    "taboo": [
+      "artistic",
+      "beauty",
+      "visual",
+      "appearance",
+      "taste"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Affable",
+    "taboo": [
+      "friendly",
+      "pleasant",
+      "approachable",
+      "personable",
+      "warm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Affrontary",
+    "taboo": [
+      "insult",
+      "offense",
+      "disrespect",
+      "outrage",
+      "humiliation"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Agglomeration",
+    "taboo": [
+      "cluster",
+      "collection",
+      "mass",
+      "gathering",
+      "accumulation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aggrandize",
+    "taboo": [
+      "enlarge",
+      "exaggerate",
+      "magnify",
+      "elevate",
+      "glorify"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Aleatory",
+    "taboo": [
+      "random",
+      "chance",
+      "luck",
+      "unpredictable",
+      "dice"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Allay",
+    "taboo": [
+      "calm",
+      "soothe",
+      "ease",
+      "reassure",
+      "reduce"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Allude",
+    "taboo": [
+      "reference",
+      "hint",
+      "suggest",
+      "mention indirectly",
+      "imply"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Altercation",
+    "taboo": [
+      "argument",
+      "fight",
+      "quarrel",
+      "dispute",
+      "confrontation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amalgam",
+    "taboo": [
+      "mixture",
+      "blend",
+      "combination",
+      "composite",
+      "merge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ambidextrous",
+    "taboo": [
+      "both hands",
+      "skillful",
+      "versatile",
+      "left and right",
+      "equally skilled"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amble",
+    "taboo": [
+      "walk slowly",
+      "stroll",
+      "leisurely",
+      "saunter",
+      "wander"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ambrosia",
+    "taboo": [
+      "food of gods",
+      "delicious",
+      "nectar",
+      "mythology",
+      "divine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ambulatory",
+    "taboo": [
+      "walking",
+      "mobile",
+      "movable",
+      "not stationary",
+      "able to walk"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ameliorate",
+    "taboo": [
+      "improve",
+      "make better",
+      "enhance",
+      "better",
+      "upgrade"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amenable",
+    "taboo": [
+      "agreeable",
+      "willing",
+      "cooperative",
+      "responsive",
+      "open to"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amity",
+    "taboo": [
+      "friendship",
+      "peace",
+      "goodwill",
+      "alliance",
+      "harmony"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amorphous",
+    "taboo": [
+      "shapeless",
+      "formless",
+      "vague",
+      "undefined",
+      "no shape"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amulet",
+    "taboo": [
+      "charm",
+      "talisman",
+      "protect",
+      "magical",
+      "superstition"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anachronistic",
+    "taboo": [
+      "out of time",
+      "wrong period",
+      "old-fashioned",
+      "doesn't fit era",
+      "historical error"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Analgesia",
+    "taboo": [
+      "pain relief",
+      "numbness",
+      "medical",
+      "without pain",
+      "insensitive"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Analogous",
+    "taboo": [
+      "similar",
+      "comparable",
+      "alike",
+      "parallel",
+      "resembling"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anathema",
+    "taboo": [
+      "curse",
+      "strongly opposed",
+      "forbidden",
+      "hateful",
+      "detested"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ancillary",
+    "taboo": [
+      "supporting",
+      "secondary",
+      "helper",
+      "supplementary",
+      "minor"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Animadversion",
+    "taboo": [
+      "criticism",
+      "disapproval",
+      "rebuke",
+      "comment",
+      "censure"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Animosity",
+    "taboo": [
+      "hatred",
+      "hostility",
+      "enmity",
+      "anger",
+      "ill will"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Animus",
+    "taboo": [
+      "hostility",
+      "intention",
+      "spirit",
+      "motivation",
+      "animosity"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Annals",
+    "taboo": [
+      "historical records",
+      "chronicles",
+      "yearly accounts",
+      "history",
+      "archives"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anneal",
+    "taboo": [
+      "heat metal",
+      "strengthen",
+      "harden",
+      "cool slowly",
+      "toughen"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anodyne",
+    "taboo": [
+      "pain reliever",
+      "soothing",
+      "comfort",
+      "remedy",
+      "painkiller"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Anomalous",
+    "taboo": [
+      "abnormal",
+      "irregular",
+      "unusual",
+      "doesn't fit",
+      "atypical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antagonism",
+    "taboo": [
+      "hostility",
+      "opposition",
+      "conflict",
+      "enmity",
+      "disagreement"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antecedents",
+    "taboo": [
+      "previous events",
+      "history",
+      "ancestors",
+      "what came before",
+      "background"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antedate",
+    "taboo": [
+      "come before",
+      "earlier than",
+      "precede",
+      "date back",
+      "predate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antediluvian",
+    "taboo": [
+      "ancient",
+      "before flood",
+      "archaic",
+      "very old",
+      "primitive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anthropoid",
+    "taboo": [
+      "ape-like",
+      "human-like",
+      "primate",
+      "resembling human",
+      "hominid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Anthropomorphic",
+    "taboo": [
+      "human characteristics",
+      "animals acting human",
+      "personification",
+      "attribution",
+      "humanlike"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antipathy",
+    "taboo": [
+      "strong dislike",
+      "aversion",
+      "hatred",
+      "opposition",
+      "repugnance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antipode",
+    "taboo": [
+      "opposite side of earth",
+      "opposite point",
+      "Australia from Europe",
+      "antithesis",
+      "polar opposite"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Antithetical",
+    "taboo": [
+      "opposite",
+      "contradictory",
+      "opposing",
+      "contrary",
+      "conflicting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apercu",
+    "taboo": [
+      "brief summary",
+      "outline",
+      "witty insight",
+      "overview",
+      "short view"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Aphasia",
+    "taboo": [
+      "speech disorder",
+      "unable to speak",
+      "language loss",
+      "brain damage",
+      "communicate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aphorism",
+    "taboo": [
+      "short saying",
+      "maxim",
+      "proverb",
+      "wise statement",
+      "pithy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apiarist",
+    "taboo": [
+      "bee keeper",
+      "honey",
+      "bees",
+      "apiary owner",
+      "beekeeping"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apiary",
+    "taboo": [
+      "bee farm",
+      "beehives",
+      "honey production",
+      "bees",
+      "apiarist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apiculture",
+    "taboo": [
+      "beekeeping",
+      "raising bees",
+      "honey production",
+      "beehives",
+      "honey farming"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Apocalyptic",
+    "taboo": [
+      "end of world",
+      "catastrophic",
+      "revealing",
+      "doom",
+      "revelation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apocryphal",
+    "taboo": [
+      "false",
+      "not genuine",
+      "questionable",
+      "doubtful origin",
+      "inauthentic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apogee",
+    "taboo": [
+      "highest point",
+      "peak",
+      "climax",
+      "farthest from earth",
+      "zenith"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apoplectic",
+    "taboo": [
+      "furious",
+      "enraged",
+      "angry",
+      "stroke-related",
+      "prone to stroke"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apoplexy",
+    "taboo": [
+      "stroke",
+      "sudden paralysis",
+      "fit of rage",
+      "brain attack",
+      "seizure"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apostate",
+    "taboo": [
+      "betrayer of faith",
+      "renegade",
+      "defector",
+      "turncoat",
+      "abandoned beliefs"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apothecary",
+    "taboo": [
+      "pharmacist",
+      "druggist",
+      "potion maker",
+      "medicine shop",
+      "herbs"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apothegm",
+    "taboo": [
+      "short saying",
+      "witty remark",
+      "maxim",
+      "pithy statement",
+      "aphorism"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Appellation",
+    "taboo": [
+      "name",
+      "title",
+      "designation",
+      "called",
+      "termed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apposite",
+    "taboo": [
+      "appropriate",
+      "relevant",
+      "suitable",
+      "fitting",
+      "apt"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Apprise",
+    "taboo": [
+      "inform",
+      "notify",
+      "tell",
+      "update",
+      "make aware"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Approbation",
+    "taboo": [
+      "approval",
+      "praise",
+      "endorsement",
+      "agreement",
+      "acceptance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apropos",
+    "taboo": [
+      "relevant",
+      "timely",
+      "appropriate",
+      "concerning",
+      "regarding"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aquiline",
+    "taboo": [
+      "eagle-like",
+      "hooked nose",
+      "curved",
+      "sharp",
+      "Roman nose"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Arabesque",
+    "taboo": [
+      "ornate pattern",
+      "design",
+      "scroll work",
+      "intricate",
+      "decoration"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Archaic",
+    "taboo": [
+      "old",
+      "ancient",
+      "outdated",
+      "obsolete",
+      "former"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Argot",
+    "taboo": [
+      "slang",
+      "jargon",
+      "dialect",
+      "language",
+      "cant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Artifice",
+    "taboo": [
+      "deception",
+      "trick",
+      "cunning",
+      "clever device",
+      "stratagem"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ascetic",
+    "taboo": [
+      "austere",
+      "monk",
+      "self-denial",
+      "abstinent",
+      "renunciation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aspersion",
+    "taboo": [
+      "slander",
+      "insult",
+      "accusation",
+      "criticism",
+      "calumny"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Assay",
+    "taboo": [
+      "test",
+      "analyze",
+      "examine",
+      "evaluate",
+      "chemical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Asseverate",
+    "taboo": [
+      "assert",
+      "swear",
+      "declare",
+      "affirm",
+      "insist"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Assiduous",
+    "taboo": [
+      "diligent",
+      "hardworking",
+      "persistent",
+      "careful",
+      "devoted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Assuage",
+    "taboo": [
+      "calm",
+      "soothe",
+      "ease",
+      "relieve",
+      "satisfy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Atavism",
+    "taboo": [
+      "reversion",
+      "ancestral",
+      "primitive",
+      "throwback",
+      "evolution"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Attenuate",
+    "taboo": [
+      "weaken",
+      "thin",
+      "reduce",
+      "dilute",
+      "diminish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Attrition",
+    "taboo": [
+      "wearing down",
+      "loss",
+      "friction",
+      "gradual reduction",
+      "wear"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Augury",
+    "taboo": [
+      "omen",
+      "sign",
+      "prophecy",
+      "portent",
+      "prediction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Austere",
+    "taboo": [
+      "severe",
+      "stern",
+      "sparse",
+      "strict",
+      "harsh"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Authoritarian",
+    "taboo": [
+      "dictatorial",
+      "autocratic",
+      "oppressive",
+      "control",
+      "dominating"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Authoritative",
+    "taboo": [
+      "credible",
+      "expert",
+      "reliable",
+      "commanding",
+      "official"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Autocratic",
+    "taboo": [
+      "dictatorial",
+      "absolute",
+      "tyranny",
+      "one-ruler",
+      "despotic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Autonomous",
+    "taboo": [
+      "independent",
+      "self-governing",
+      "free",
+      "self-rule",
+      "separate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Aver",
+    "taboo": [
+      "assert",
+      "claim",
+      "declare",
+      "insist",
+      "affirm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Avocation",
+    "taboo": [
+      "hobby",
+      "pastime",
+      "secondary",
+      "interest",
+      "activity"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Avow",
+    "taboo": [
+      "declare",
+      "assert",
+      "confess",
+      "admit",
+      "proclaim"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Avuncular",
+    "taboo": [
+      "uncle-like",
+      "kindly",
+      "paternal",
+      "warm",
+      "affectionate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Axiom",
+    "taboo": [
+      "principle",
+      "truth",
+      "self-evident",
+      "assumption",
+      "theorem"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bacchanal",
+    "taboo": [
+      "party",
+      "celebration",
+      "drunken",
+      "wine",
+      "revelry"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bacchanalian",
+    "taboo": [
+      "wild",
+      "drunken",
+      "revelry",
+      "excess",
+      "indulgence"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Badinage",
+    "taboo": [
+      "banter",
+      "teasing",
+      "witty",
+      "playful",
+      "joking"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Baleful",
+    "taboo": [
+      "threatening",
+      "sinister",
+      "evil",
+      "ominous",
+      "harmful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Banal",
+    "taboo": [
+      "ordinary",
+      "clich\u00e9",
+      "commonplace",
+      "trite",
+      "dull"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bantering",
+    "taboo": [
+      "joking",
+      "teasing",
+      "witty",
+      "playful",
+      "banter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Barefaced",
+    "taboo": [
+      "blatant",
+      "obvious",
+      "shameless",
+      "undisguised",
+      "bold"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Baroque",
+    "taboo": [
+      "ornate",
+      "elaborate",
+      "style",
+      "art",
+      "excessive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bastion",
+    "taboo": [
+      "fortress",
+      "stronghold",
+      "protection",
+      "defense",
+      "castle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bathyscaphe",
+    "taboo": [
+      "submarine",
+      "deep",
+      "ocean",
+      "vessel",
+      "underwater"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Bawdy",
+    "taboo": [
+      "crude",
+      "sexual",
+      "lewd",
+      "obscene",
+      "indecent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Beatify",
+    "taboo": [
+      "blessed",
+      "saint",
+      "religious",
+      "holy",
+      "Catholic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bedizen",
+    "taboo": [
+      "dress",
+      "adorn",
+      "fancy",
+      "decorate",
+      "clothe"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Beguile",
+    "taboo": [
+      "charm",
+      "deceive",
+      "seduce",
+      "trick",
+      "enchant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Behemoth",
+    "taboo": [
+      "giant",
+      "huge",
+      "enormous",
+      "massive",
+      "monster"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Beholden",
+    "taboo": [
+      "indebted",
+      "obligated",
+      "grateful",
+      "owing",
+      "gratitude"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Belabor",
+    "taboo": [
+      "overemphasize",
+      "labor",
+      "work",
+      "repeat",
+      "dwell"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Beleaguer",
+    "taboo": [
+      "besiege",
+      "harass",
+      "trouble",
+      "pester",
+      "plague"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Belie",
+    "taboo": [
+      "contradict",
+      "falsify",
+      "deny",
+      "disprove",
+      "betray"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Belligerent",
+    "taboo": [
+      "aggressive",
+      "hostile",
+      "warlike",
+      "combative",
+      "fighting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Benediction",
+    "taboo": [
+      "blessing",
+      "prayer",
+      "religious",
+      "holy",
+      "sacred"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Beneficent",
+    "taboo": [
+      "charitable",
+      "kind",
+      "generous",
+      "helpful",
+      "benevolent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Benign",
+    "taboo": [
+      "harmless",
+      "kind",
+      "gentle",
+      "mild",
+      "friendly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bequeath",
+    "taboo": [
+      "inherit",
+      "will",
+      "leave",
+      "legacy",
+      "pass"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Beseech",
+    "taboo": [
+      "beg",
+      "plead",
+      "implore",
+      "request",
+      "pray"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Besmirch",
+    "taboo": [
+      "dirty",
+      "soil",
+      "damage",
+      "reputation",
+      "stain"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bespoke",
+    "taboo": [
+      "custom",
+      "tailored",
+      "made",
+      "specific",
+      "ordered"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bestial",
+    "taboo": [
+      "animal",
+      "brutal",
+      "savage",
+      "vicious",
+      "primitive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bestow",
+    "taboo": [
+      "give",
+      "grant",
+      "award",
+      "present",
+      "confer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Betoken",
+    "taboo": [
+      "indicate",
+      "suggest",
+      "signal",
+      "show",
+      "symbolize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Betroth",
+    "taboo": [
+      "engage",
+      "marry",
+      "promise",
+      "wedding",
+      "bride"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bibulous",
+    "taboo": [
+      "drinking",
+      "alcohol",
+      "drunk",
+      "wine",
+      "drunkard"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bicameral",
+    "taboo": [
+      "legislature",
+      "Congress",
+      "Senate",
+      "House",
+      "government"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bifurcated",
+    "taboo": [
+      "split",
+      "divided",
+      "fork",
+      "branch",
+      "two"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bilious",
+    "taboo": [
+      "irritable",
+      "cranky",
+      "angry",
+      "bad",
+      "pessimistic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Biophilia",
+    "taboo": [
+      "nature",
+      "love",
+      "life",
+      "connection",
+      "innate"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Bivouac",
+    "taboo": [
+      "camp",
+      "temporary",
+      "military",
+      "shelter",
+      "encampment"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Blandishment",
+    "taboo": [
+      "flattery",
+      "charm",
+      "coax",
+      "persuade",
+      "compliment"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Blasphemy",
+    "taboo": [
+      "insult",
+      "God",
+      "religion",
+      "sacred",
+      "cursing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Blatant",
+    "taboo": [
+      "obvious",
+      "obvious",
+      "shameless",
+      "open",
+      "clear"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bode",
+    "taboo": [
+      "predict",
+      "foretell",
+      "omen",
+      "portend",
+      "signal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Boisterous",
+    "taboo": [
+      "loud",
+      "noisy",
+      "wild",
+      "rowdy",
+      "energetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bolster",
+    "taboo": [
+      "support",
+      "strengthen",
+      "cushion",
+      "pillow",
+      "reinforce"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bombast",
+    "taboo": [
+      "boastful",
+      "exaggerated",
+      "pompous",
+      "grandiose",
+      "inflated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Boorish",
+    "taboo": [
+      "rude",
+      "crude",
+      "impolite",
+      "rough",
+      "vulgar"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bourgeois",
+    "taboo": [
+      "middle-class",
+      "conventional",
+      "materialistic",
+      "citizen",
+      "capitalist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bovine",
+    "taboo": [
+      "cow",
+      "cattle",
+      "stupid",
+      "dull",
+      "sluggish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bowdlerize",
+    "taboo": [
+      "censor",
+      "edit",
+      "expurgate",
+      "soften",
+      "remove"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Brackish",
+    "taboo": [
+      "salty",
+      "water",
+      "unpleasant",
+      "mixture",
+      "bitter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Braggadocio",
+    "taboo": [
+      "boasting",
+      "arrogance",
+      "braggart",
+      "swagger",
+      "vanity"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Braggart",
+    "taboo": [
+      "boaster",
+      "brag",
+      "arrogant",
+      "show-off",
+      "egoist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Brandish",
+    "taboo": [
+      "wave",
+      "flourish",
+      "display",
+      "wield",
+      "show"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bravado",
+    "taboo": [
+      "swagger",
+      "false",
+      "boldness",
+      "pretense",
+      "arrogance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Brazen",
+    "taboo": [
+      "bold",
+      "brass",
+      "shameless",
+      "defiant",
+      "audacious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Brevity",
+    "taboo": [
+      "shortness",
+      "brief",
+      "concise",
+      "conciseness",
+      "terseness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bricolage",
+    "taboo": [
+      "craft",
+      "DIY",
+      "assemble",
+      "makeshift",
+      "cobbled"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Bridle",
+    "taboo": [
+      "horse",
+      "restraint",
+      "strap",
+      "check",
+      "reins"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Broach",
+    "taboo": [
+      "bring up",
+      "introduce",
+      "topic",
+      "discuss",
+      "mention"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Brocade",
+    "taboo": [
+      "fabric",
+      "silk",
+      "ornate",
+      "textile",
+      "pattern"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bromide",
+    "taboo": [
+      "clich\u00e9",
+      "platitude",
+      "overused",
+      "trite",
+      "saying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Browbeat",
+    "taboo": [
+      "intimidate",
+      "bully",
+      "threaten",
+      "coerce",
+      "dominate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Brusque",
+    "taboo": [
+      "abrupt",
+      "rude",
+      "curt",
+      "blunt",
+      "gruff"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bucolic",
+    "taboo": [
+      "rural",
+      "pastoral",
+      "countryside",
+      "peaceful",
+      "idyllic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bulwark",
+    "taboo": [
+      "defense",
+      "protection",
+      "wall",
+      "barrier",
+      "rampart"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Burgeon",
+    "taboo": [
+      "grow",
+      "flourish",
+      "expand",
+      "thrive",
+      "sprout"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Burnish",
+    "taboo": [
+      "polish",
+      "shine",
+      "enhance",
+      "smooth",
+      "gloss"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Byzantine",
+    "taboo": [
+      "complex",
+      "intricate",
+      "convoluted",
+      "complicated",
+      "Istanbul"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cabal",
+    "taboo": [
+      "conspiracy",
+      "group",
+      "secret",
+      "plot",
+      "faction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cacophonous",
+    "taboo": [
+      "harsh",
+      "noise",
+      "discord",
+      "sound",
+      "jarring"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cadaverous",
+    "taboo": [
+      "corpse-like",
+      "pale",
+      "thin",
+      "gaunt",
+      "skeletal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cajole",
+    "taboo": [
+      "persuade",
+      "coax",
+      "flatter",
+      "wheedle",
+      "charm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Callous",
+    "taboo": [
+      "insensitive",
+      "hardened",
+      "cruel",
+      "unfeeling",
+      "cold"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Callow",
+    "taboo": [
+      "inexperienced",
+      "immature",
+      "young",
+      "naive",
+      "green"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Calumny",
+    "taboo": [
+      "slander",
+      "defamation",
+      "libel",
+      "false",
+      "insult"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Camaraderie",
+    "taboo": [
+      "friendship",
+      "trust",
+      "solidarity",
+      "brotherhood",
+      "togetherness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Canard",
+    "taboo": [
+      "rumor",
+      "lie",
+      "false",
+      "hoax",
+      "deception"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Canny",
+    "taboo": [
+      "shrewd",
+      "clever",
+      "cautious",
+      "wise",
+      "knowing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Canon",
+    "taboo": [
+      "rule",
+      "law",
+      "standard",
+      "principle",
+      "accepted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cant",
+    "taboo": [
+      "hypocrisy",
+      "insincere",
+      "jargon",
+      "slang",
+      "tilt"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Canter",
+    "taboo": [
+      "gait",
+      "horse",
+      "gallop",
+      "run",
+      "stride"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Capacious",
+    "taboo": [
+      "spacious",
+      "large",
+      "roomy",
+      "vast",
+      "expansive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Caprice",
+    "taboo": [
+      "whim",
+      "impulse",
+      "sudden",
+      "fancy",
+      "mood"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Captious",
+    "taboo": [
+      "critical",
+      "fault-finding",
+      "nitpicky",
+      "carping",
+      "pedantic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Carapace",
+    "taboo": [
+      "shell",
+      "turtle",
+      "armor",
+      "exoskeleton",
+      "protection"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Carping",
+    "taboo": [
+      "complaining",
+      "nagging",
+      "critical",
+      "fault-finding",
+      "whining"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Castigate",
+    "taboo": [
+      "punish",
+      "scold",
+      "rebuke",
+      "reprimand",
+      "criticize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cataclysm",
+    "taboo": [
+      "disaster",
+      "catastrophe",
+      "upheaval",
+      "flood",
+      "deluge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Catechism",
+    "taboo": [
+      "questions",
+      "answers",
+      "religious",
+      "instruction",
+      "doctrine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Caustic",
+    "taboo": [
+      "sarcastic",
+      "biting",
+      "corrosive",
+      "harsh",
+      "bitter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cauterize",
+    "taboo": [
+      "burn",
+      "sear",
+      "medical",
+      "wound",
+      "sterilize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cavalcade",
+    "taboo": [
+      "procession",
+      "parade",
+      "sequence",
+      "series",
+      "march"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cavil",
+    "taboo": [
+      "quibble",
+      "complain",
+      "object",
+      "nitpick",
+      "criticize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Celerity",
+    "taboo": [
+      "speed",
+      "quickness",
+      "haste",
+      "swiftness",
+      "velocity"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Censorious",
+    "taboo": [
+      "critical",
+      "disapproving",
+      "judgmental",
+      "condemning",
+      "severe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ceremonious",
+    "taboo": [
+      "formal",
+      "ritual",
+      "dignified",
+      "elaborate",
+      "solemn"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Certitude",
+    "taboo": [
+      "certainty",
+      "conviction",
+      "assurance",
+      "confidence",
+      "sureness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cession",
+    "taboo": [
+      "surrender",
+      "transfer",
+      "yield",
+      "give up",
+      "territory"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Chicanery",
+    "taboo": [
+      "trickery",
+      "deception",
+      "fraud",
+      "dishonesty",
+      "scheming"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Chimerical",
+    "taboo": [
+      "imaginary",
+      "fantastical",
+      "unrealistic",
+      "fanciful",
+      "illusory"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Choleric",
+    "taboo": [
+      "angry",
+      "irritable",
+      "temperamental",
+      "hot-headed",
+      "moody"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Churlish",
+    "taboo": [
+      "rude",
+      "impolite",
+      "crude",
+      "grumpy",
+      "unfriendly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Clemency",
+    "taboo": [
+      "mercy",
+      "forgiveness",
+      "leniency",
+      "compassion",
+      "pardon"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cloying",
+    "taboo": [
+      "overly sweet",
+      "excessive",
+      "sickening",
+      "nauseating",
+      "annoying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Coagulate",
+    "taboo": [
+      "clot",
+      "solidify",
+      "thicken",
+      "curdle",
+      "congeal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Coalesce",
+    "taboo": [
+      "combine",
+      "merge",
+      "unite",
+      "blend",
+      "fuse"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cogent",
+    "taboo": [
+      "persuasive",
+      "convincing",
+      "compelling",
+      "strong",
+      "logical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cogitate",
+    "taboo": [
+      "think",
+      "ponder",
+      "contemplate",
+      "reflect",
+      "meditate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cohere",
+    "taboo": [
+      "stick together",
+      "hold",
+      "unite",
+      "consistent",
+      "logical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Colloquial",
+    "taboo": [
+      "informal",
+      "conversational",
+      "everyday",
+      "casual",
+      "spoken"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Comely",
+    "taboo": [
+      "attractive",
+      "beautiful",
+      "handsome",
+      "lovely",
+      "pretty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Comestible",
+    "taboo": [
+      "food",
+      "edible",
+      "eat",
+      "consumable",
+      "eatable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Commensurate",
+    "taboo": [
+      "proportional",
+      "equal",
+      "matching",
+      "corresponding",
+      "appropriate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Commiserate",
+    "taboo": [
+      "sympathize",
+      "empathize",
+      "pity",
+      "comfort",
+      "share sorrow"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Commodious",
+    "taboo": [
+      "spacious",
+      "roomy",
+      "large",
+      "comfortable",
+      "ample"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Comity",
+    "taboo": [
+      "courtesy",
+      "civility",
+      "friendliness",
+      "respect",
+      "politeness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Complaisant",
+    "taboo": [
+      "agreeable",
+      "accommodating",
+      "obliging",
+      "willing",
+      "compliant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Compendium",
+    "taboo": [
+      "summary",
+      "collection",
+      "digest",
+      "overview",
+      "reference"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Circumlocution",
+    "taboo": [
+      "talking around",
+      "roundabout",
+      "verbose",
+      "indirect",
+      "wordy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Circumscribe",
+    "taboo": [
+      "limit",
+      "restrict",
+      "confine",
+      "define",
+      "boundary"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Conciliatory",
+    "taboo": [
+      "peaceful",
+      "apologetic",
+      "peacemaking",
+      "reconcile",
+      "soothing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Concomitant",
+    "taboo": [
+      "accompanying",
+      "simultaneous",
+      "alongside",
+      "concurrent",
+      "together"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Confluence",
+    "taboo": [
+      "meeting",
+      "rivers",
+      "joining",
+      "convergence",
+      "intersection"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Contentious",
+    "taboo": [
+      "argumentative",
+      "quarrelsome",
+      "controversial",
+      "hostile",
+      "disputatious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Contiguous",
+    "taboo": [
+      "adjacent",
+      "touching",
+      "neighboring",
+      "next to",
+      "bordering"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Contrite",
+    "taboo": [
+      "sorry",
+      "repentant",
+      "remorseful",
+      "guilt",
+      "apologetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Convivial",
+    "taboo": [
+      "social",
+      "friendly",
+      "festive",
+      "cheerful",
+      "enjoyable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Convoluted",
+    "taboo": [
+      "complicated",
+      "twisted",
+      "complex",
+      "confusing",
+      "intricate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Copious",
+    "taboo": [
+      "abundant",
+      "plentiful",
+      "plenty",
+      "large amount",
+      "generous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corollary",
+    "taboo": [
+      "consequence",
+      "result",
+      "logical",
+      "follows",
+      "conclusion"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corporeal",
+    "taboo": [
+      "physical",
+      "body",
+      "material",
+      "tangible",
+      "flesh"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corpulent",
+    "taboo": [
+      "fat",
+      "obese",
+      "overweight",
+      "heavy",
+      "plump"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corroborate",
+    "taboo": [
+      "confirm",
+      "verify",
+      "support",
+      "evidence",
+      "validate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corrosive",
+    "taboo": [
+      "acid",
+      "harsh",
+      "damaging",
+      "eating",
+      "destructive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Corvine",
+    "taboo": [
+      "ravens",
+      "crows",
+      "black",
+      "birds",
+      "feathered"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Coterie",
+    "taboo": [
+      "group",
+      "clique",
+      "circle",
+      "exclusive",
+      "friends"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Countermand",
+    "taboo": [
+      "cancel",
+      "revoke",
+      "order",
+      "override",
+      "reverse"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Covetous",
+    "taboo": [
+      "greedy",
+      "envious",
+      "desire",
+      "want",
+      "jealous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Craven",
+    "taboo": [
+      "cowardly",
+      "coward",
+      "fearful",
+      "timid",
+      "afraid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Curmudgeon",
+    "taboo": [
+      "grumpy",
+      "old",
+      "cranky",
+      "man",
+      "grouch"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cupidity",
+    "taboo": [
+      "greed",
+      "desire",
+      "lust",
+      "money",
+      "avarice"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cynosure",
+    "taboo": [
+      "center",
+      "attention",
+      "focus",
+      "attraction",
+      "star"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Debacle",
+    "taboo": [
+      "disaster",
+      "failure",
+      "collapse",
+      "fiasco",
+      "defeat"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Debauch",
+    "taboo": [
+      "indulge",
+      "excess",
+      "degrade",
+      "corrupt",
+      "party"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Decry",
+    "taboo": [
+      "criticize",
+      "denounce",
+      "condemn",
+      "protest",
+      "oppose"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deify",
+    "taboo": [
+      "worship",
+      "god",
+      "glorify",
+      "idolize",
+      "revere"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deign",
+    "taboo": [
+      "condescend",
+      "lower oneself",
+      "agree",
+      "accept",
+      "stoop"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deleterious",
+    "taboo": [
+      "harmful",
+      "damaging",
+      "negative",
+      "bad",
+      "injurious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Delineate",
+    "taboo": [
+      "describe",
+      "outline",
+      "draw",
+      "depict",
+      "portray"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Demagogue",
+    "taboo": [
+      "politician",
+      "manipulative",
+      "crowd",
+      "inflammatory",
+      "leader"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Demur",
+    "taboo": [
+      "object",
+      "protest",
+      "disagree",
+      "hesitate",
+      "refuse"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Denigrate",
+    "taboo": [
+      "insult",
+      "criticize",
+      "belittle",
+      "disrespect",
+      "blacken"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Denizen",
+    "taboo": [
+      "resident",
+      "inhabitant",
+      "creature",
+      "dweller",
+      "citizen"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deplore",
+    "taboo": [
+      "condemn",
+      "disapprove",
+      "lament",
+      "regret",
+      "hate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Depose",
+    "taboo": [
+      "remove",
+      "overthrow",
+      "dethrone",
+      "testify",
+      "unseat"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Depravity",
+    "taboo": [
+      "wickedness",
+      "evil",
+      "corruption",
+      "immorality",
+      "vice"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deprecate",
+    "taboo": [
+      "disapprove",
+      "protest",
+      "oppose",
+      "plead against",
+      "discount"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Depreciate",
+    "taboo": [
+      "decrease",
+      "diminish",
+      "undervalue",
+      "belittle",
+      "decline"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Depredation",
+    "taboo": [
+      "plunder",
+      "theft",
+      "robbery",
+      "destruction",
+      "pillaging"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Derelict",
+    "taboo": [
+      "abandoned",
+      "neglectful",
+      "homeless",
+      "rundown",
+      "duty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Deride",
+    "taboo": [
+      "mock",
+      "ridicule",
+      "laugh at",
+      "scorn",
+      "jeer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Derogatory",
+    "taboo": [
+      "insulting",
+      "disrespectful",
+      "offensive",
+      "disparaging",
+      "critical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Descry",
+    "taboo": [
+      "spot",
+      "see",
+      "notice",
+      "discover",
+      "glimpse"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Desecrate",
+    "taboo": [
+      "profane",
+      "defile",
+      "disrespect",
+      "sacred",
+      "pollute"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Desiccate",
+    "taboo": [
+      "dry",
+      "dehydrate",
+      "moisture",
+      "shrivel",
+      "preserve"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Desultory",
+    "taboo": [
+      "random",
+      "scattered",
+      "aimless",
+      "haphazard",
+      "unfocused"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Determinate",
+    "taboo": [
+      "fixed",
+      "definite",
+      "decided",
+      "specific",
+      "determined"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Detraction",
+    "taboo": [
+      "criticism",
+      "slander",
+      "disparagement",
+      "belittling",
+      "defamation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Devolve",
+    "taboo": [
+      "transfer",
+      "delegate",
+      "pass down",
+      "revert",
+      "descend"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Diatribe",
+    "taboo": [
+      "rant",
+      "tirade",
+      "speech",
+      "angry",
+      "criticism"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dictum",
+    "taboo": [
+      "statement",
+      "pronouncement",
+      "decree",
+      "saying",
+      "rule"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Didactic",
+    "taboo": [
+      "educational",
+      "teaching",
+      "instructive",
+      "preachy",
+      "moralistic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dilettante",
+    "taboo": [
+      "amateur",
+      "dabbler",
+      "superficial",
+      "hobbyist",
+      "pretender"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dint",
+    "taboo": [
+      "force",
+      "effort",
+      "power",
+      "means",
+      "dent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disabuse",
+    "taboo": [
+      "correct",
+      "undeceive",
+      "enlighten",
+      "reveal truth",
+      "disillusion"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disapprobation",
+    "taboo": [
+      "disapproval",
+      "criticism",
+      "condemnation",
+      "disfavor",
+      "censure"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disburse",
+    "taboo": [
+      "pay",
+      "distribute",
+      "spend",
+      "allot",
+      "dispense"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Discomfit",
+    "taboo": [
+      "embarrass",
+      "frustrate",
+      "confuse",
+      "thwart",
+      "discomfort"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disconsolate",
+    "taboo": [
+      "sad",
+      "depressed",
+      "inconsolable",
+      "forlorn",
+      "melancholy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Discordant",
+    "taboo": [
+      "conflicting",
+      "disharmonious",
+      "clashing",
+      "disagreeing",
+      "harsh"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Discrete",
+    "taboo": [
+      "separate",
+      "distinct",
+      "individual",
+      "isolated",
+      "discontinuous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Discursive",
+    "taboo": [
+      "rambling",
+      "digressive",
+      "wordy",
+      "meandering",
+      "talkative"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disenfranchise",
+    "taboo": [
+      "deny vote",
+      "deprive rights",
+      "exclude",
+      "remove power",
+      "strip"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disgorge",
+    "taboo": [
+      "vomit",
+      "expel",
+      "eject",
+      "discharge",
+      "spew"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disinclination",
+    "taboo": [
+      "reluctance",
+      "unwillingness",
+      "aversion",
+      "hesitation",
+      "resistance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disingenuous",
+    "taboo": [
+      "insincere",
+      "deceptive",
+      "dishonest",
+      "false",
+      "cunning"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disinterested",
+    "taboo": [
+      "impartial",
+      "unbiased",
+      "neutral",
+      "objective",
+      "detached"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disparate",
+    "taboo": [
+      "different",
+      "distinct",
+      "unrelated",
+      "varied",
+      "dissimilar"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disparity",
+    "taboo": [
+      "inequality",
+      "difference",
+      "gap",
+      "imbalance",
+      "unequal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dispassionate",
+    "taboo": [
+      "objective",
+      "impartial",
+      "calm",
+      "unemotional",
+      "detached"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dissemble",
+    "taboo": [
+      "deceive",
+      "disguise",
+      "pretend",
+      "hide",
+      "fake"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Disseminate",
+    "taboo": [
+      "spread",
+      "distribute",
+      "broadcast",
+      "scatter",
+      "propagate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dissonance",
+    "taboo": [
+      "discord",
+      "disagreement",
+      "conflict",
+      "harsh sound",
+      "inconsistency"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Distrait",
+    "taboo": [
+      "absent-minded",
+      "inattentive",
+      "distracted",
+      "preoccupied",
+      "unfocused"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Diurnal",
+    "taboo": [
+      "daily",
+      "daytime",
+      "occurring daily",
+      "sun",
+      "24 hours"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Divest",
+    "taboo": [
+      "remove",
+      "strip",
+      "undress",
+      "deprive",
+      "sell off"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Doctrinaire",
+    "taboo": [
+      "dogmatic",
+      "rigid",
+      "ideological",
+      "inflexible",
+      "stubborn"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Doggerel",
+    "taboo": [
+      "bad poetry",
+      "crude verse",
+      "poor poem",
+      "rhyming",
+      "amateur poem"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dogmatic",
+    "taboo": [
+      "stubborn",
+      "rigid",
+      "opinionated",
+      "inflexible",
+      "arrogant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dolorous",
+    "taboo": [
+      "sad",
+      "mournful",
+      "sorrowful",
+      "gloomy",
+      "melancholy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Domineer",
+    "taboo": [
+      "bully",
+      "tyrannize",
+      "control",
+      "intimidate",
+      "boss around"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Draconian",
+    "taboo": [
+      "harsh",
+      "severe",
+      "strict",
+      "brutal",
+      "cruel"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dross",
+    "taboo": [
+      "waste",
+      "garbage",
+      "impurity",
+      "junk",
+      "trash"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ductile",
+    "taboo": [
+      "flexible",
+      "bendable",
+      "malleable",
+      "adaptable",
+      "pliable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dulcet",
+    "taboo": [
+      "sweet",
+      "pleasant",
+      "melodious",
+      "soothing",
+      "musical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dyspeptic",
+    "taboo": [
+      "gloomy",
+      "grumpy",
+      "irritable",
+      "pessimistic",
+      "bad-tempered"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Efface",
+    "taboo": [
+      "erase",
+      "remove",
+      "obliterate",
+      "eliminate",
+      "wipe out"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Effectual",
+    "taboo": [
+      "effective",
+      "successful",
+      "producing results",
+      "capable",
+      "working"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Effectuate",
+    "taboo": [
+      "carry out",
+      "accomplish",
+      "achieve",
+      "bring about",
+      "execute"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Efficacy",
+    "taboo": [
+      "effectiveness",
+      "success",
+      "power",
+      "potency",
+      "ability"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Effrontery",
+    "taboo": [
+      "nerve",
+      "audacity",
+      "impudence",
+      "disrespect",
+      "boldness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Effulgent",
+    "taboo": [
+      "bright",
+      "radiant",
+      "shining",
+      "glowing",
+      "brilliant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Effusion",
+    "taboo": [
+      "outpouring",
+      "gush",
+      "overflow",
+      "expression",
+      "enthusiasm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ecclesia",
+    "taboo": [
+      "church",
+      "assembly",
+      "congregation",
+      "religious",
+      "gathering"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Edify",
+    "taboo": [
+      "educate",
+      "improve",
+      "enlighten",
+      "instruct",
+      "uplift"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Elucidate",
+    "taboo": [
+      "clarify",
+      "explain",
+      "illuminate",
+      "make clear",
+      "interpret"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Encomium",
+    "taboo": [
+      "praise",
+      "tribute",
+      "compliment",
+      "laudatory",
+      "flattery"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Endemic",
+    "taboo": [
+      "native",
+      "local",
+      "disease",
+      "regional",
+      "characteristic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Enervate",
+    "taboo": [
+      "weaken",
+      "drain",
+      "exhaust",
+      "deplete",
+      "sap strength"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Enjoin",
+    "taboo": [
+      "order",
+      "command",
+      "instruct",
+      "forbid",
+      "direct"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Enormity",
+    "taboo": [
+      "hugeness",
+      "massive",
+      "extreme",
+      "scale",
+      "wickedness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Epigram",
+    "taboo": [
+      "witty",
+      "saying",
+      "clever",
+      "short poem",
+      "quip"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Epithet",
+    "taboo": [
+      "name",
+      "title",
+      "descriptor",
+      "adjective",
+      "insult"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Equable",
+    "taboo": [
+      "calm",
+      "even-tempered",
+      "steady",
+      "uniform",
+      "tranquil"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Equivocal",
+    "taboo": [
+      "ambiguous",
+      "unclear",
+      "uncertain",
+      "vague",
+      "doubtful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Equivocate",
+    "taboo": [
+      "be vague",
+      "dodge",
+      "mislead",
+      "avoid",
+      "hedge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Eschew",
+    "taboo": [
+      "avoid",
+      "shun",
+      "reject",
+      "abstain",
+      "refrain"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Esoteric",
+    "taboo": [
+      "obscure",
+      "secret",
+      "hidden",
+      "mysterious",
+      "specialized"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Espouse",
+    "taboo": [
+      "support",
+      "adopt",
+      "marry",
+      "believe",
+      "champion"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Estimable",
+    "taboo": [
+      "worthy",
+      "respectable",
+      "admirable",
+      "honorable",
+      "esteemed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Esurient",
+    "taboo": [
+      "hungry",
+      "greedy",
+      "craving",
+      "lustful",
+      "ravenous"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Etymology",
+    "taboo": [
+      "word origin",
+      "language",
+      "roots",
+      "history",
+      "derivation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Evince",
+    "taboo": [
+      "show",
+      "reveal",
+      "demonstrate",
+      "display",
+      "exhibit"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Evocative",
+    "taboo": [
+      "nostalgic",
+      "memories",
+      "emotional",
+      "suggestive",
+      "stirring"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exacerbate",
+    "taboo": [
+      "worsen",
+      "aggravate",
+      "intensify",
+      "worse",
+      "inflame"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exchequer",
+    "taboo": [
+      "treasury",
+      "government",
+      "money",
+      "finances",
+      "royal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Excoriate",
+    "taboo": [
+      "criticize",
+      "harsh",
+      "condemn",
+      "attack",
+      "scold"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Execrable",
+    "taboo": [
+      "terrible",
+      "awful",
+      "detestable",
+      "horrible",
+      "abominable"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Execrate",
+    "taboo": [
+      "curse",
+      "damn",
+      "hate",
+      "condemn",
+      "denounce"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Exemplar",
+    "taboo": [
+      "model",
+      "ideal",
+      "perfect",
+      "standard",
+      "example"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exegesis",
+    "taboo": [
+      "interpretation",
+      "explanation",
+      "analysis",
+      "biblical",
+      "commentary"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Exhort",
+    "taboo": [
+      "urge",
+      "encourage",
+      "persuade",
+      "plead",
+      "insist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exigent",
+    "taboo": [
+      "urgent",
+      "demanding",
+      "critical",
+      "pressing",
+      "requirement"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exonerate",
+    "taboo": [
+      "clear",
+      "innocent",
+      "blame",
+      "acquit",
+      "vindicate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Exorbitant",
+    "taboo": [
+      "expensive",
+      "excessive",
+      "outrageous",
+      "price",
+      "overpriced"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expatiate",
+    "taboo": [
+      "elaborate",
+      "expand",
+      "discuss",
+      "dwell",
+      "discourse"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Expatriate",
+    "taboo": [
+      "exile",
+      "abroad",
+      "foreign",
+      "banish",
+      "country"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expedient",
+    "taboo": [
+      "convenient",
+      "practical",
+      "advantage",
+      "self-interest",
+      "shortcut"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expedite",
+    "taboo": [
+      "speed",
+      "hasten",
+      "quick",
+      "rush",
+      "accelerate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expeditious",
+    "taboo": [
+      "fast",
+      "speedy",
+      "quick",
+      "efficient",
+      "rapid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expiate",
+    "taboo": [
+      "atone",
+      "sin",
+      "redemption",
+      "punishment",
+      "forgiveness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Explicate",
+    "taboo": [
+      "explain",
+      "clarify",
+      "interpret",
+      "detail",
+      "unfold"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expound",
+    "taboo": [
+      "explain",
+      "elaborate",
+      "describe",
+      "expound",
+      "discuss"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expropriate",
+    "taboo": [
+      "seize",
+      "confiscate",
+      "government",
+      "property",
+      "steal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expunge",
+    "taboo": [
+      "erase",
+      "remove",
+      "delete",
+      "record",
+      "obliterate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Expurgate",
+    "taboo": [
+      "remove",
+      "censor",
+      "edit",
+      "cleanse",
+      "obscene"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Extant",
+    "taboo": [
+      "surviving",
+      "existing",
+      "still",
+      "remains",
+      "present"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extemporaneous",
+    "taboo": [
+      "impromptu",
+      "spontaneous",
+      "unrehearsed",
+      "improvised",
+      "unplanned"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extenuate",
+    "taboo": [
+      "mitigate",
+      "excuse",
+      "lessen",
+      "reduce",
+      "justify"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extirpate",
+    "taboo": [
+      "destroy",
+      "eradicate",
+      "eliminate",
+      "root",
+      "uproot"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Extol",
+    "taboo": [
+      "praise",
+      "glorify",
+      "celebrate",
+      "commend",
+      "laud"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extraneous",
+    "taboo": [
+      "irrelevant",
+      "unrelated",
+      "external",
+      "unnecessary",
+      "outside"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extrapolation",
+    "taboo": [
+      "extend",
+      "estimate",
+      "project",
+      "inference",
+      "assumption"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Extricate",
+    "taboo": [
+      "free",
+      "remove",
+      "escape",
+      "untangle",
+      "liberate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Facetious",
+    "taboo": [
+      "joking",
+      "humorous",
+      "sarcastic",
+      "witty",
+      "playful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Facile",
+    "taboo": [
+      "easy",
+      "superficial",
+      "simple",
+      "shallow",
+      "glib"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Factious",
+    "taboo": [
+      "divisive",
+      "disruptive",
+      "rebellious",
+      "quarrelsome",
+      "conflict"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Factitious",
+    "taboo": [
+      "artificial",
+      "fake",
+      "contrived",
+      "false",
+      "manufactured"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Factotum",
+    "taboo": [
+      "assistant",
+      "handyman",
+      "do-everything",
+      "servant",
+      "jack-of-all-trades"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Fallacious",
+    "taboo": [
+      "false",
+      "flawed",
+      "incorrect",
+      "logic",
+      "reasoning"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fallible",
+    "taboo": [
+      "human",
+      "mistake",
+      "imperfect",
+      "error",
+      "wrong"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fatuous",
+    "taboo": [
+      "foolish",
+      "silly",
+      "stupid",
+      "inane",
+      "senseless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Febrile",
+    "taboo": [
+      "fever",
+      "hot",
+      "feverish",
+      "illness",
+      "excited"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Feculent",
+    "taboo": [
+      "filthy",
+      "dirty",
+      "murky",
+      "gross",
+      "foul"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Fecundity",
+    "taboo": [
+      "fertility",
+      "productivity",
+      "procreation",
+      "abundance",
+      "fruitful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fervid",
+    "taboo": [
+      "passionate",
+      "intense",
+      "ardent",
+      "zealous",
+      "enthusiastic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fetid",
+    "taboo": [
+      "stink",
+      "smell",
+      "disgusting",
+      "foul",
+      "rotten"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fiat",
+    "taboo": [
+      "decree",
+      "order",
+      "command",
+      "authorization",
+      "edict"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fiduciary",
+    "taboo": [
+      "trust",
+      "financial",
+      "responsible",
+      "entrusted",
+      "legal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Filial",
+    "taboo": [
+      "child",
+      "parent",
+      "family",
+      "duty",
+      "relationship"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Filigree",
+    "taboo": [
+      "ornate",
+      "delicate",
+      "jewelry",
+      "metal",
+      "intricate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Florid",
+    "taboo": [
+      "ornate",
+      "flowery",
+      "flushed",
+      "red",
+      "elaborate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Flout",
+    "taboo": [
+      "defy",
+      "ignore",
+      "disregard",
+      "scorn",
+      "mock"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Flummox",
+    "taboo": [
+      "confuse",
+      "perplex",
+      "bewilder",
+      "puzzle",
+      "stump"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Foible",
+    "taboo": [
+      "weakness",
+      "flaw",
+      "fault",
+      "quirk",
+      "character"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Foment",
+    "taboo": [
+      "incite",
+      "encourage",
+      "provoke",
+      "instigate",
+      "stir"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Foppish",
+    "taboo": [
+      "vain",
+      "fashionable",
+      "dandy",
+      "superficial",
+      "concerned"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Forestall",
+    "taboo": [
+      "prevent",
+      "anticipate",
+      "preclude",
+      "hinder",
+      "block"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Forswear",
+    "taboo": [
+      "renounce",
+      "deny",
+      "swear",
+      "reject",
+      "abandon"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fortuitous",
+    "taboo": [
+      "lucky",
+      "chance",
+      "accidental",
+      "fortunate",
+      "coincidence"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fracas",
+    "taboo": [
+      "fight",
+      "brawl",
+      "quarrel",
+      "conflict",
+      "disturbance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fractious",
+    "taboo": [
+      "irritable",
+      "quarrelsome",
+      "cranky",
+      "argumentative",
+      "grumpy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Frieze",
+    "taboo": [
+      "decoration",
+      "band",
+      "design",
+      "ornament",
+      "border"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Furtive",
+    "taboo": [
+      "sneaky",
+      "secretive",
+      "hidden",
+      "stealthy",
+      "sly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fusillade",
+    "taboo": [
+      "barrage",
+      "gunfire",
+      "shooting",
+      "volley",
+      "burst"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gadfly",
+    "taboo": [
+      "pest",
+      "nuisance",
+      "critic",
+      "insect",
+      "troublemaker"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gainsay",
+    "taboo": [
+      "deny",
+      "contradict",
+      "dispute",
+      "refute",
+      "challenge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Galvanize",
+    "taboo": [
+      "shock",
+      "stimulate",
+      "motivate",
+      "electric",
+      "action"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gambit",
+    "taboo": [
+      "chess",
+      "opening move",
+      "strategy",
+      "tactic",
+      "ploy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gambol",
+    "taboo": [
+      "jump",
+      "frolic",
+      "play",
+      "skip",
+      "prance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gastronomy",
+    "taboo": [
+      "cooking",
+      "cuisine",
+      "food",
+      "culinary",
+      "art"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gauche",
+    "taboo": [
+      "left",
+      "rude",
+      "tasteless",
+      "awkward",
+      "crude"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Genteel",
+    "taboo": [
+      "refined",
+      "elegant",
+      "polite",
+      "proper",
+      "dignified"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gentry",
+    "taboo": [
+      "nobility",
+      "upper class",
+      "aristocracy",
+      "landowners",
+      "elite"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Genuflect",
+    "taboo": [
+      "kneel",
+      "bow",
+      "worship",
+      "respect",
+      "prayer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gerrymander",
+    "taboo": [
+      "district",
+      "voting",
+      "manipulation",
+      "politics",
+      "unfair"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gesticulation",
+    "taboo": [
+      "gesture",
+      "hand movement",
+      "expression",
+      "motion",
+      "wild"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gibe",
+    "taboo": [
+      "mock",
+      "taunt",
+      "jeer",
+      "insult",
+      "ridicule"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gossamer",
+    "taboo": [
+      "delicate",
+      "thin",
+      "filmy",
+      "transparent",
+      "cobweb"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gourmand",
+    "taboo": [
+      "glutton",
+      "eater",
+      "greedy",
+      "food lover",
+      "overeating"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Grandiloquence",
+    "taboo": [
+      "flowery speech",
+      "pompous",
+      "bombastic",
+      "grandiose",
+      "eloquent"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Grandiose",
+    "taboo": [
+      "pompous",
+      "impressive",
+      "ambitious",
+      "exaggerated",
+      "grand"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gratuitous",
+    "taboo": [
+      "unnecessary",
+      "unwarranted",
+      "uncalled for",
+      "free",
+      "unjustified"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gravid",
+    "taboo": [
+      "pregnant",
+      "expectant",
+      "heavy",
+      "laden",
+      "expecting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Grotesque",
+    "taboo": [
+      "bizarre",
+      "ugly",
+      "distorted",
+      "monstrous",
+      "strange"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Guileless",
+    "taboo": [
+      "innocent",
+      "naive",
+      "honest",
+      "simple",
+      "artless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Guise",
+    "taboo": [
+      "appearance",
+      "disguise",
+      "pretense",
+      "form",
+      "mask"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gustatory",
+    "taboo": [
+      "taste",
+      "flavor",
+      "tongue",
+      "culinary",
+      "sensation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Guttate",
+    "taboo": [
+      "spotted",
+      "speckled",
+      "drops",
+      "dotted",
+      "droplike"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Habituate",
+    "taboo": [
+      "accustom",
+      "adjust",
+      "adapt",
+      "get used to",
+      "familiarize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hackneyed",
+    "taboo": [
+      "overused",
+      "clich\u00e9",
+      "trite",
+      "worn out",
+      "unoriginal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Halcyon",
+    "taboo": [
+      "peaceful",
+      "calm",
+      "golden age",
+      "tranquil",
+      "idyllic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hapless",
+    "taboo": [
+      "unlucky",
+      "unfortunate",
+      "cursed",
+      "doomed",
+      "miserable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Harangue",
+    "taboo": [
+      "tirade",
+      "rant",
+      "lengthy speech",
+      "lecture",
+      "diatribe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Harbinger",
+    "taboo": [
+      "omen",
+      "sign",
+      "portent",
+      "messenger",
+      "forerunner"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Heinous",
+    "taboo": [
+      "evil",
+      "wicked",
+      "terrible",
+      "atrocious",
+      "abominable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hermetic",
+    "taboo": [
+      "sealed",
+      "airtight",
+      "isolated",
+      "mysterious",
+      "impenetrable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Heterogeneous",
+    "taboo": [
+      "diverse",
+      "different",
+      "varied",
+      "mixed",
+      "assorted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hiatus",
+    "taboo": [
+      "gap",
+      "break",
+      "pause",
+      "interval",
+      "interruption"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hirsute",
+    "taboo": [
+      "hairy",
+      "bearded",
+      "furry",
+      "shaggy",
+      "bristly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Histrionic",
+    "taboo": [
+      "dramatic",
+      "theatrical",
+      "exaggerated",
+      "overdramatic",
+      "affected"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hoary",
+    "taboo": [
+      "gray-haired",
+      "ancient",
+      "old",
+      "frost-covered",
+      "venerable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Homily",
+    "taboo": [
+      "sermon",
+      "speech",
+      "lecture",
+      "moral lesson",
+      "preaching"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Homogeneous",
+    "taboo": [
+      "uniform",
+      "same",
+      "consistent",
+      "identical",
+      "similar"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hortatory",
+    "taboo": [
+      "persuasive",
+      "encouraging",
+      "urging",
+      "exhorting",
+      "motivating"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Hummock",
+    "taboo": [
+      "small hill",
+      "mound",
+      "knoll",
+      "bump",
+      "hillock"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hypercritical",
+    "taboo": [
+      "overly critical",
+      "nitpicking",
+      "fault-finding",
+      "harsh",
+      "judgmental"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hyperopia",
+    "taboo": [
+      "farsightedness",
+      "vision defect",
+      "eyes",
+      "glasses",
+      "nearsighted opposite"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hypochondriac",
+    "taboo": [
+      "health-obsessed",
+      "worries about illness",
+      "anxious",
+      "paranoid",
+      "imaginary symptoms"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Icarian",
+    "taboo": [
+      "reckless",
+      "doomed",
+      "overambitious",
+      "fall",
+      "Icarus myth"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ichthyology",
+    "taboo": [
+      "study of fish",
+      "fish science",
+      "marine biology",
+      "aquatic",
+      "ichthyologist"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Iconoclast",
+    "taboo": [
+      "rebel",
+      "nonconformist",
+      "revolutionary",
+      "breaker of tradition",
+      "critic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Idiosyncrasy",
+    "taboo": [
+      "quirk",
+      "peculiarity",
+      "characteristic",
+      "habit",
+      "oddity"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Idolatry",
+    "taboo": [
+      "worship",
+      "devotion",
+      "obsession",
+      "reverence",
+      "fanaticism"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Idyllic",
+    "taboo": [
+      "peaceful",
+      "picturesque",
+      "perfect",
+      "idyll",
+      "romantic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Igneous",
+    "taboo": [
+      "volcanic",
+      "molten rock",
+      "geology",
+      "formed by fire",
+      "magma"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ignoble",
+    "taboo": [
+      "dishonorable",
+      "base",
+      "shameful",
+      "lowly",
+      "unworthy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ignominious",
+    "taboo": [
+      "shameful",
+      "embarrassing",
+      "humiliating",
+      "degrading",
+      "disgraceful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ignominy",
+    "taboo": [
+      "shame",
+      "disgrace",
+      "humiliation",
+      "dishonor",
+      "degradation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Immutable",
+    "taboo": [
+      "unchangeable",
+      "constant",
+      "permanent",
+      "fixed",
+      "unalterable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impasse",
+    "taboo": [
+      "deadlock",
+      "stalemate",
+      "blocked",
+      "stuck",
+      "standstill"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impassive",
+    "taboo": [
+      "emotionless",
+      "stoic",
+      "calm",
+      "unmoved",
+      "blank"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Imperceptible",
+    "taboo": [
+      "invisible",
+      "unnoticeable",
+      "tiny",
+      "subtle",
+      "microscopic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impermeable",
+    "taboo": [
+      "waterproof",
+      "sealed",
+      "impenetrable",
+      "resistant",
+      "watertight"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impervious",
+    "taboo": [
+      "immune",
+      "unaffected",
+      "resistant",
+      "indifferent",
+      "sealed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impetuous",
+    "taboo": [
+      "rash",
+      "hasty",
+      "impulsive",
+      "spontaneous",
+      "headstrong"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impetus",
+    "taboo": [
+      "momentum",
+      "incentive",
+      "motivation",
+      "driving force",
+      "impulse"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impinge",
+    "taboo": [
+      "encroach",
+      "infringe",
+      "violate",
+      "intrude",
+      "overlap"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Importunate",
+    "taboo": [
+      "persistent",
+      "demanding",
+      "insistent",
+      "annoying",
+      "relentless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Imprecation",
+    "taboo": [
+      "curse",
+      "curse word",
+      "curse upon",
+      "malediction",
+      "oath"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Impregnable",
+    "taboo": [
+      "fortress",
+      "unbreakable",
+      "invincible",
+      "secure",
+      "strong"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impropriety",
+    "taboo": [
+      "misconduct",
+      "inappropriate",
+      "unfit",
+      "unsuitable",
+      "indecorum"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Improvident",
+    "taboo": [
+      "careless",
+      "wasteful",
+      "shortsighted",
+      "unthrifty",
+      "reckless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Imprudent",
+    "taboo": [
+      "reckless",
+      "unwise",
+      "careless",
+      "foolish",
+      "hasty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impugn",
+    "taboo": [
+      "challenge",
+      "question",
+      "dispute",
+      "attack",
+      "criticize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Impute",
+    "taboo": [
+      "attribute",
+      "assign",
+      "accuse",
+      "ascribe",
+      "suggest"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inalienable",
+    "taboo": [
+      "rights",
+      "permanent",
+      "cannot be taken",
+      "inherent",
+      "fundamental"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incarnate",
+    "taboo": [
+      "embodied",
+      "personified",
+      "bodily",
+      "manifest",
+      "evil"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incendiary",
+    "taboo": [
+      "inflammatory",
+      "fire",
+      "bomb",
+      "provocative",
+      "combustible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inchoate",
+    "taboo": [
+      "incomplete",
+      "unformed",
+      "beginning",
+      "formless",
+      "rudimentary"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incipient",
+    "taboo": [
+      "beginning",
+      "early",
+      "emerging",
+      "nascent",
+      "initial"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incisive",
+    "taboo": [
+      "sharp",
+      "keen",
+      "penetrating",
+      "witty",
+      "cutting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inclement",
+    "taboo": [
+      "weather",
+      "harsh",
+      "stormy",
+      "bad",
+      "rainy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inconsequential",
+    "taboo": [
+      "trivial",
+      "unimportant",
+      "minor",
+      "irrelevant",
+      "insignificant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incontrovertible",
+    "taboo": [
+      "undeniable",
+      "irrefutable",
+      "certain",
+      "obvious",
+      "proven"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Incorporeal",
+    "taboo": [
+      "ghostly",
+      "spiritual",
+      "immaterial",
+      "non-physical",
+      "intangible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incorrigible",
+    "taboo": [
+      "unredeemable",
+      "troublemaker",
+      "hopeless",
+      "stubborn",
+      "unchangeable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inculcate",
+    "taboo": [
+      "teach",
+      "instill",
+      "impart",
+      "hammer in",
+      "drill"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Incursion",
+    "taboo": [
+      "invasion",
+      "raid",
+      "intrusion",
+      "attack",
+      "encroachment"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indelible",
+    "taboo": [
+      "permanent",
+      "lasting",
+      "unforgettable",
+      "mark",
+      "lasting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indemnify",
+    "taboo": [
+      "compensate",
+      "reimburse",
+      "insure",
+      "protect",
+      "repay"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indenture",
+    "taboo": [
+      "contract",
+      "bond",
+      "apprentice",
+      "agreement",
+      "slave"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indeterminate",
+    "taboo": [
+      "vague",
+      "unclear",
+      "uncertain",
+      "indefinite",
+      "unknown"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indigence",
+    "taboo": [
+      "poverty",
+      "poorness",
+      "destitution",
+      "need",
+      "hardship"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indigent",
+    "taboo": [
+      "poor",
+      "destitute",
+      "needy",
+      "broke",
+      "penniless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indignity",
+    "taboo": [
+      "insult",
+      "humiliation",
+      "offense",
+      "disrespect",
+      "outrage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indiscriminate",
+    "taboo": [
+      "random",
+      "unselective",
+      "careless",
+      "promiscuous",
+      "blanket"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indisputable",
+    "taboo": [
+      "undeniable",
+      "certain",
+      "proven",
+      "obvious",
+      "clear"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indomitable",
+    "taboo": [
+      "unconquerable",
+      "unbeatable",
+      "invincible",
+      "spirit",
+      "determination"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Indubitable",
+    "taboo": [
+      "undeniable",
+      "certain",
+      "unquestionable",
+      "obvious",
+      "clear"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Indolent",
+    "taboo": [
+      "lazy",
+      "sluggish",
+      "slothful",
+      "inactive",
+      "lethargic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ineluctable",
+    "taboo": [
+      "inevitable",
+      "unavoidable",
+      "inescapable",
+      "certain",
+      "unstoppable"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ineptitude",
+    "taboo": [
+      "incompetence",
+      "clumsiness",
+      "lack of skill",
+      "bungling",
+      "inability"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inequity",
+    "taboo": [
+      "unfairness",
+      "injustice",
+      "inequality",
+      "bias",
+      "discrimination"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inexorable",
+    "taboo": [
+      "relentless",
+      "unstoppable",
+      "inevitable",
+      "unyielding",
+      "implacable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inestimable",
+    "taboo": [
+      "invaluable",
+      "priceless",
+      "incalculable",
+      "immeasurable",
+      "beyond value"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Infraction",
+    "taboo": [
+      "violation",
+      "breach",
+      "breaking rule",
+      "offense",
+      "transgression"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ingenuous",
+    "taboo": [
+      "innocent",
+      "naive",
+      "frank",
+      "sincere",
+      "candid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ingrate",
+    "taboo": [
+      "ungrateful",
+      "unappreciative",
+      "thankless",
+      "rude person",
+      "selfish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inimical",
+    "taboo": [
+      "hostile",
+      "harmful",
+      "antagonistic",
+      "adverse",
+      "unfavorable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inimitable",
+    "taboo": [
+      "unique",
+      "matchless",
+      "incomparable",
+      "unparalleled",
+      "distinctive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Iniquity",
+    "taboo": [
+      "wickedness",
+      "evil",
+      "injustice",
+      "sin",
+      "immorality"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Innocuous",
+    "taboo": [
+      "harmless",
+      "safe",
+      "inoffensive",
+      "benign",
+      "mild"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inopportune",
+    "taboo": [
+      "bad timing",
+      "inconvenient",
+      "untimely",
+      "ill-timed",
+      "unfortunate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inordinate",
+    "taboo": [
+      "excessive",
+      "exaggerated",
+      "extreme",
+      "disproportionate",
+      "unreasonable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inroad",
+    "taboo": [
+      "advance",
+      "encroachment",
+      "intrusion",
+      "progress",
+      "invasion"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insatiable",
+    "taboo": [
+      "never satisfied",
+      "greedy",
+      "endless appetite",
+      "always wanting",
+      "ravenous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inscrutable",
+    "taboo": [
+      "mysterious",
+      "enigmatic",
+      "unreadable",
+      "incomprehensible",
+      "cryptic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insensible",
+    "taboo": [
+      "unconscious",
+      "unaware",
+      "oblivious",
+      "numb",
+      "unfeeling"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insinuate",
+    "taboo": [
+      "hint",
+      "suggest",
+      "imply",
+      "allude",
+      "creep in"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insolence",
+    "taboo": [
+      "rudeness",
+      "disrespect",
+      "impudence",
+      "arrogance",
+      "cheekiness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Instigate",
+    "taboo": [
+      "provoke",
+      "incite",
+      "start",
+      "encourage",
+      "initiate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insubstantial",
+    "taboo": [
+      "flimsy",
+      "weak",
+      "thin",
+      "insignificant",
+      "lacking substance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insular",
+    "taboo": [
+      "isolated",
+      "narrow-minded",
+      "provincial",
+      "island",
+      "closed-off"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insuperable",
+    "taboo": [
+      "insurmountable",
+      "unconquerable",
+      "impossible",
+      "unbeatable",
+      "too great"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Insurgent",
+    "taboo": [
+      "rebel",
+      "revolutionary",
+      "uprising",
+      "fighter",
+      "resistance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insurmountable",
+    "taboo": [
+      "impossible",
+      "unconquerable",
+      "overwhelming",
+      "unbeatable",
+      "unsurpassable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Insurrection",
+    "taboo": [
+      "rebellion",
+      "uprising",
+      "revolt",
+      "mutiny",
+      "revolution"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Intelligentsia",
+    "taboo": [
+      "intellectuals",
+      "educated elite",
+      "scholars",
+      "intelligentsia",
+      "cultured class"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Interminable",
+    "taboo": [
+      "endless",
+      "never-ending",
+      "infinite",
+      "tedious",
+      "prolonged"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Intermittent",
+    "taboo": [
+      "sporadic",
+      "on and off",
+      "periodic",
+      "occasional",
+      "irregular"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Internecine",
+    "taboo": [
+      "internal conflict",
+      "mutually destructive",
+      "civil war",
+      "fratricidal",
+      "group fighting"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Intractable",
+    "taboo": [
+      "stubborn",
+      "difficult",
+      "unmanageable",
+      "inflexible",
+      "uncontrollable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Intransigence",
+    "taboo": [
+      "stubbornness",
+      "refusal to compromise",
+      "inflexibility",
+      "uncompromising attitude",
+      "rigidity"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Intrepid",
+    "taboo": [
+      "brave",
+      "fearless",
+      "bold",
+      "courageous",
+      "daring"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Introspective",
+    "taboo": [
+      "self-reflective",
+      "thoughtful",
+      "inward-looking",
+      "contemplative",
+      "self-aware"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inundate",
+    "taboo": [
+      "flood",
+      "overwhelm",
+      "swamp",
+      "submerge",
+      "deluge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inured",
+    "taboo": [
+      "hardened",
+      "accustomed",
+      "adapted",
+      "used to",
+      "resistant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Invective",
+    "taboo": [
+      "insult",
+      "verbal abuse",
+      "curse",
+      "harsh language",
+      "criticism"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inveigh",
+    "taboo": [
+      "protest",
+      "criticize",
+      "complain",
+      "denounce",
+      "rail against"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Inveigle",
+    "taboo": [
+      "trick",
+      "seduce",
+      "persuade",
+      "coax",
+      "manipulate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Inveterate",
+    "taboo": [
+      "habitual",
+      "chronic",
+      "lifelong",
+      "confirmed",
+      "deep-seated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Invidious",
+    "taboo": [
+      "offensive",
+      "comparing unfairly",
+      "unjust",
+      "discriminatory",
+      "envious"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Inviolable",
+    "taboo": [
+      "sacred",
+      "unbreakable",
+      "untouchable",
+      "protected",
+      "inviolate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Invulnerable",
+    "taboo": [
+      "unbeatable",
+      "impervious",
+      "protected",
+      "immune",
+      "safe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irascible",
+    "taboo": [
+      "irritable",
+      "short-tempered",
+      "angry",
+      "grumpy",
+      "quick-tempered"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irksome",
+    "taboo": [
+      "annoying",
+      "irritating",
+      "frustrating",
+      "vexing",
+      "bothersome"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irreconcilable",
+    "taboo": [
+      "impossible to resolve",
+      "conflicting",
+      "incompatible",
+      "at odds",
+      "opposed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irrefutable",
+    "taboo": [
+      "undeniable",
+      "proven",
+      "indisputable",
+      "conclusive",
+      "certain"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irremediable",
+    "taboo": [
+      "unfixable",
+      "incurable",
+      "hopeless",
+      "irreparable",
+      "permanent"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Irreparable",
+    "taboo": [
+      "unfixable",
+      "permanent",
+      "beyond repair",
+      "irreversible",
+      "hopeless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irrepressible",
+    "taboo": [
+      "unstoppable",
+      "uncontrollable",
+      "exuberant",
+      "lively",
+      "unrestrained"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irreproachable",
+    "taboo": [
+      "perfect",
+      "blameless",
+      "faultless",
+      "beyond criticism",
+      "innocent"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Irresolute",
+    "taboo": [
+      "indecisive",
+      "uncertain",
+      "wavering",
+      "hesitant",
+      "wishy-washy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irretrievable",
+    "taboo": [
+      "lost",
+      "permanent",
+      "cannot recover",
+      "gone forever",
+      "unreclaimable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irreverence",
+    "taboo": [
+      "disrespect",
+      "mockery",
+      "impudence",
+      "lack of respect",
+      "rudeness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Irrevocable",
+    "taboo": [
+      "permanent",
+      "final",
+      "unchangeable",
+      "binding",
+      "irreversible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Itinerant",
+    "taboo": [
+      "traveling",
+      "wandering",
+      "nomadic",
+      "moving around",
+      "not settled"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jaundiced",
+    "taboo": [
+      "biased",
+      "prejudiced",
+      "bitter",
+      "cynical",
+      "yellow"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jetsam",
+    "taboo": [
+      "ocean debris",
+      "discarded cargo",
+      "floating trash",
+      "wreckage",
+      "garbage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jettison",
+    "taboo": [
+      "throw overboard",
+      "discard",
+      "abandon",
+      "dump",
+      "get rid of"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jingoist",
+    "taboo": [
+      "nationalist",
+      "patriotic extremist",
+      "warmonger",
+      "flag-waving",
+      "bellicose"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jocular",
+    "taboo": [
+      "joking",
+      "humorous",
+      "funny",
+      "lighthearted",
+      "witty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jocund",
+    "taboo": [
+      "cheerful",
+      "merry",
+      "happy",
+      "lighthearted",
+      "joyful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jollity",
+    "taboo": [
+      "merriment",
+      "cheerfulness",
+      "gaiety",
+      "happiness",
+      "laughter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Judiciary",
+    "taboo": [
+      "judges",
+      "courts",
+      "legal system",
+      "justice system",
+      "bench"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Judicious",
+    "taboo": [
+      "wise",
+      "careful",
+      "prudent",
+      "sound judgment",
+      "sensible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Juncture",
+    "taboo": [
+      "critical point",
+      "junction",
+      "moment in time",
+      "crossroads",
+      "turning point"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Junta",
+    "taboo": [
+      "military government",
+      "ruling group",
+      "coup",
+      "dictatorship",
+      "faction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Jurisprudence",
+    "taboo": [
+      "philosophy of law",
+      "legal science",
+      "legal system",
+      "lawmaking",
+      "courts"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ken",
+    "taboo": [
+      "knowledge",
+      "understanding",
+      "awareness",
+      "acquaintance",
+      "range of knowledge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Kismet",
+    "taboo": [
+      "fate",
+      "destiny",
+      "fortune",
+      "predetermined",
+      "luck"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Kleptomaniac",
+    "taboo": [
+      "compulsive thief",
+      "shoplifter",
+      "stealing disorder",
+      "impulse disorder",
+      "thief"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Knell",
+    "taboo": [
+      "bell sound",
+      "ring",
+      "death bell",
+      "doom",
+      "solemn sound"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Labile",
+    "taboo": [
+      "unstable",
+      "changeable",
+      "volatile",
+      "reactive",
+      "emotional"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Laborious",
+    "taboo": [
+      "hard work",
+      "difficult",
+      "tedious",
+      "strenuous",
+      "exhausting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lackadaisical",
+    "taboo": [
+      "lazy",
+      "careless",
+      "unmotivated",
+      "dreamy",
+      "listless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Laggard",
+    "taboo": [
+      "slow person",
+      "procrastinator",
+      "straggler",
+      "loiterer",
+      "slacker"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Laity",
+    "taboo": [
+      "non-clergy",
+      "regular people",
+      "ordinary folk",
+      "laypeople",
+      "masses"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lambaste",
+    "taboo": [
+      "criticize harshly",
+      "scold",
+      "attack",
+      "rebuke",
+      "censure"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lampoon",
+    "taboo": [
+      "satirize",
+      "mock",
+      "parody",
+      "ridicule",
+      "caricature"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Languid",
+    "taboo": [
+      "slow",
+      "sluggish",
+      "lethargic",
+      "tired",
+      "weak"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Languish",
+    "taboo": [
+      "weaken",
+      "suffer",
+      "decline",
+      "droop",
+      "fade away"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Largess",
+    "taboo": [
+      "generosity",
+      "gifts",
+      "charity",
+      "generous giving",
+      "bounty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lascivious",
+    "taboo": [
+      "lustful",
+      "lewd",
+      "lecherous",
+      "sexual",
+      "obscene"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Latent",
+    "taboo": [
+      "hidden",
+      "dormant",
+      "potential",
+      "not visible",
+      "underlying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Laud",
+    "taboo": [
+      "praise",
+      "commend",
+      "celebrate",
+      "acclaim",
+      "applaud"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lechery",
+    "taboo": [
+      "lust",
+      "sexual desire",
+      "lewdness",
+      "debauchery",
+      "licentiousness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Legatee",
+    "taboo": [
+      "inheritor",
+      "receiver of bequest",
+      "heir",
+      "beneficiary",
+      "will recipient"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Legerdemain",
+    "taboo": [
+      "magic trick",
+      "sleight of hand",
+      "deception",
+      "illusion",
+      "trickery"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Leonine",
+    "taboo": [
+      "lion-like",
+      "majestic",
+      "regal",
+      "fierce",
+      "lion"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Levity",
+    "taboo": [
+      "humor",
+      "lightness",
+      "frivolity",
+      "lack of seriousness",
+      "gaiety"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lexicon",
+    "taboo": [
+      "dictionary",
+      "vocabulary",
+      "words",
+      "language",
+      "word list"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Libertine",
+    "taboo": [
+      "debauched person",
+      "hedonist",
+      "immoral person",
+      "rake",
+      "womanizer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Libidinous",
+    "taboo": [
+      "lustful",
+      "sexual desire",
+      "lascivious",
+      "lecherous",
+      "erotica"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Libretto",
+    "taboo": [
+      "opera text",
+      "lyrics",
+      "words to song",
+      "script",
+      "sung dialogue"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lien",
+    "taboo": [
+      "legal claim",
+      "mortgage",
+      "debt hold",
+      "security interest",
+      "property claim"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lilliputian",
+    "taboo": [
+      "tiny",
+      "miniature",
+      "small person",
+      "Gulliver's Travels",
+      "diminutive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Limn",
+    "taboo": [
+      "draw",
+      "paint",
+      "depict",
+      "describe",
+      "portray"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Limpid",
+    "taboo": [
+      "clear",
+      "transparent",
+      "pure water",
+      "crystal clear",
+      "easy to understand"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lineaments",
+    "taboo": [
+      "facial features",
+      "outline",
+      "contours",
+      "distinctive marks",
+      "appearance"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lionize",
+    "taboo": [
+      "celebrate",
+      "treat as celebrity",
+      "glorify",
+      "idolize",
+      "make famous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lissome",
+    "taboo": [
+      "flexible",
+      "slender",
+      "agile",
+      "limber",
+      "graceful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Logophile",
+    "taboo": [
+      "word lover",
+      "loves language",
+      "verbose",
+      "lexicon enthusiast",
+      "word nerd"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lucid",
+    "taboo": [
+      "clear",
+      "understandable",
+      "bright",
+      "transparent",
+      "coherent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Luminary",
+    "taboo": [
+      "star",
+      "celebrity",
+      "light",
+      "famous",
+      "leader"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Luminous",
+    "taboo": [
+      "bright",
+      "glowing",
+      "shining",
+      "light",
+      "radiant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lurid",
+    "taboo": [
+      "sensational",
+      "shocking",
+      "gruesome",
+      "vivid",
+      "ghastly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Machiavellian",
+    "taboo": [
+      "cunning",
+      "devious",
+      "scheming",
+      "ruthless",
+      "manipulation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Machinations",
+    "taboo": [
+      "schemes",
+      "plots",
+      "intrigue",
+      "tricks",
+      "conspiracy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Magnate",
+    "taboo": [
+      "tycoon",
+      "billionaire",
+      "powerful",
+      "business",
+      "wealthy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Malevolent",
+    "taboo": [
+      "evil",
+      "wicked",
+      "harmful",
+      "malicious",
+      "sinister"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Malign",
+    "taboo": [
+      "evil",
+      "harmful",
+      "bad",
+      "slander",
+      "attack"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Malleable",
+    "taboo": [
+      "flexible",
+      "adaptable",
+      "bendable",
+      "pliable",
+      "changeable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Maraud",
+    "taboo": [
+      "raid",
+      "plunder",
+      "steal",
+      "attack",
+      "invade"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Martinet",
+    "taboo": [
+      "strict",
+      "disciplinarian",
+      "stern",
+      "demanding",
+      "rigid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Masticate",
+    "taboo": [
+      "chew",
+      "eat",
+      "grind",
+      "mouth",
+      "teeth"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Maudlin",
+    "taboo": [
+      "sentimental",
+      "emotional",
+      "sad",
+      "tearful",
+      "pathetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Maxim",
+    "taboo": [
+      "saying",
+      "motto",
+      "proverb",
+      "principle",
+      "wisdom"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Melee",
+    "taboo": [
+      "fight",
+      "brawl",
+      "chaos",
+      "confused",
+      "combat"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mellifluous",
+    "taboo": [
+      "sweet",
+      "pleasant",
+      "musical",
+      "smooth",
+      "honey"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Menagerie",
+    "taboo": [
+      "animals",
+      "collection",
+      "zoo",
+      "exotic",
+      "cage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Meteoric",
+    "taboo": [
+      "rapid",
+      "rise",
+      "sudden",
+      "success",
+      "fast"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Meticulous",
+    "taboo": [
+      "careful",
+      "detailed",
+      "precise",
+      "thorough",
+      "attention"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Miasma",
+    "taboo": [
+      "fog",
+      "vapor",
+      "noxious",
+      "poisonous",
+      "atmosphere"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Microcosm",
+    "taboo": [
+      "small",
+      "universe",
+      "representation",
+      "miniature",
+      "world"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Milieu",
+    "taboo": [
+      "environment",
+      "setting",
+      "surroundings",
+      "atmosphere",
+      "context"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Minutiae",
+    "taboo": [
+      "details",
+      "small",
+      "specific",
+      "particulars",
+      "fine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Misanthrope",
+    "taboo": [
+      "hates",
+      "people",
+      "antisocial",
+      "cynical",
+      "hermit"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Miscellany",
+    "taboo": [
+      "collection",
+      "assorted",
+      "mixed",
+      "variety",
+      "random"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Miscreant",
+    "taboo": [
+      "villain",
+      "criminal",
+      "evil",
+      "wrongdoer",
+      "bad"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Misogynist",
+    "taboo": [
+      "hates",
+      "women",
+      "sexist",
+      "prejudiced",
+      "discriminatory"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mitigate",
+    "taboo": [
+      "lessen",
+      "reduce",
+      "ease",
+      "soften",
+      "diminish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mnemonic",
+    "taboo": [
+      "memory",
+      "aid",
+      "device",
+      "remember",
+      "acronym"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Modicum",
+    "taboo": [
+      "small",
+      "amount",
+      "little",
+      "bit",
+      "portion"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mollify",
+    "taboo": [
+      "calm",
+      "soothe",
+      "appease",
+      "soften",
+      "pacify"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Momentous",
+    "taboo": [
+      "important",
+      "significant",
+      "crucial",
+      "major",
+      "consequential"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Monolithic",
+    "taboo": [
+      "single",
+      "massive",
+      "unified",
+      "block",
+      "stone"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Morbid",
+    "taboo": [
+      "dark",
+      "death",
+      "gruesome",
+      "unhealthy",
+      "gloomy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mordant",
+    "taboo": [
+      "sharp",
+      "sarcastic",
+      "biting",
+      "witty",
+      "harsh"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mountebank",
+    "taboo": [
+      "fraud",
+      "charlatan",
+      "con",
+      "trickster",
+      "fake"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Myriad",
+    "taboo": [
+      "countless",
+      "many",
+      "numerous",
+      "thousand",
+      "multitude"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Myopic",
+    "taboo": [
+      "shortsighted",
+      "nearsighted",
+      "narrow",
+      "limited",
+      "vision"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nefarious",
+    "taboo": [
+      "evil",
+      "wicked",
+      "villainous",
+      "criminal",
+      "sinister"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Negligible",
+    "taboo": [
+      "insignificant",
+      "trivial",
+      "minor",
+      "small",
+      "negligent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Neophyte",
+    "taboo": [
+      "beginner",
+      "novice",
+      "newcomer",
+      "inexperienced",
+      "apprentice"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nepotism",
+    "taboo": [
+      "favoritism",
+      "family",
+      "bias",
+      "hiring",
+      "corruption"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Niggardly",
+    "taboo": [
+      "stingy",
+      "cheap",
+      "miserly",
+      "selfish",
+      "unwilling"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Nihilist",
+    "taboo": [
+      "nothing",
+      "meaningless",
+      "believes",
+      "philosophy",
+      "disbeliever"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Noisome",
+    "taboo": [
+      "foul",
+      "stench",
+      "smell",
+      "disgusting",
+      "offensive"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Nonplus",
+    "taboo": [
+      "confuse",
+      "perplex",
+      "puzzle",
+      "bewildered",
+      "stumped"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Noxious",
+    "taboo": [
+      "poisonous",
+      "harmful",
+      "toxic",
+      "dangerous",
+      "gas"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nuance",
+    "taboo": [
+      "subtle",
+      "difference",
+      "shading",
+      "fine detail",
+      "distinction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nugatory",
+    "taboo": [
+      "worthless",
+      "invalid",
+      "useless",
+      "futile",
+      "ineffectual"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Obdurate",
+    "taboo": [
+      "stubborn",
+      "unyielding",
+      "hardened",
+      "inflexible",
+      "obstinate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Obeisance",
+    "taboo": [
+      "bow",
+      "respect",
+      "submission",
+      "homage",
+      "deference"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Obstreperous",
+    "taboo": [
+      "loud",
+      "noisy",
+      "unruly",
+      "disruptive",
+      "boisterous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Obtuse",
+    "taboo": [
+      "dull",
+      "slow",
+      "stupid",
+      "angle",
+      "not sharp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Obviate",
+    "taboo": [
+      "prevent",
+      "make unnecessary",
+      "eliminate",
+      "preclude",
+      "remove"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Odious",
+    "taboo": [
+      "hateful",
+      "disgusting",
+      "repugnant",
+      "horrible",
+      "abhorrent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Odoriferous",
+    "taboo": [
+      "fragrant",
+      "smell",
+      "aroma",
+      "scent",
+      "sweet"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Oligarchy",
+    "taboo": [
+      "rule",
+      "few",
+      "government",
+      "power",
+      "elite"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ominous",
+    "taboo": [
+      "threatening",
+      "sinister",
+      "foreboding",
+      "evil",
+      "bad sign"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Omniscient",
+    "taboo": [
+      "all-knowing",
+      "god",
+      "aware",
+      "knows everything",
+      "wise"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Omnivorous",
+    "taboo": [
+      "eats",
+      "everything",
+      "diet",
+      "animal",
+      "indiscriminate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Onerous",
+    "taboo": [
+      "burdensome",
+      "heavy",
+      "difficult",
+      "tedious",
+      "obligation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Opprobrium",
+    "taboo": [
+      "shame",
+      "disgrace",
+      "dishonor",
+      "reproach",
+      "contempt"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Opulence",
+    "taboo": [
+      "wealth",
+      "luxury",
+      "richness",
+      "affluence",
+      "expensive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Oracular",
+    "taboo": [
+      "prophecy",
+      "mysterious",
+      "wise",
+      "cryptic",
+      "oracle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Palatial",
+    "taboo": [
+      "palace",
+      "luxurious",
+      "grand",
+      "mansion",
+      "spacious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Panacea",
+    "taboo": [
+      "cure-all",
+      "solution",
+      "remedy",
+      "fix",
+      "magic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Panache",
+    "taboo": [
+      "style",
+      "flair",
+      "elegance",
+      "flourish",
+      "swagger"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Panegyric",
+    "taboo": [
+      "praise",
+      "eulogy",
+      "tribute",
+      "compliment",
+      "laudatory"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Paragon",
+    "taboo": [
+      "ideal",
+      "model",
+      "perfect",
+      "exemplar",
+      "excellence"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Parochial",
+    "taboo": [
+      "narrow-minded",
+      "provincial",
+      "limited",
+      "local",
+      "insular"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Paroxysm",
+    "taboo": [
+      "outburst",
+      "fit",
+      "spasm",
+      "convulsion",
+      "eruption"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Parsimonious",
+    "taboo": [
+      "stingy",
+      "miserly",
+      "cheap",
+      "frugal",
+      "thrifty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Patina",
+    "taboo": [
+      "coating",
+      "green",
+      "age",
+      "copper",
+      "surface"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Paucity",
+    "taboo": [
+      "scarcity",
+      "lack",
+      "shortage",
+      "fewness",
+      "dearth"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Peccadillo",
+    "taboo": [
+      "minor sin",
+      "petty",
+      "mistake",
+      "fault",
+      "transgression"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pedant",
+    "taboo": [
+      "nitpicker",
+      "academic",
+      "bookish",
+      "overly formal",
+      "rules"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pedantic",
+    "taboo": [
+      "fussy",
+      "overly scholarly",
+      "nitpicky",
+      "formal",
+      "meticulous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Peerless",
+    "taboo": [
+      "unmatched",
+      "incomparable",
+      "superior",
+      "best",
+      "matchless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Peevish",
+    "taboo": [
+      "irritable",
+      "grumpy",
+      "petulant",
+      "cranky",
+      "annoyed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pejorative",
+    "taboo": [
+      "derogatory",
+      "insulting",
+      "negative",
+      "disparaging",
+      "put-down"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pelf",
+    "taboo": [
+      "money",
+      "wealth",
+      "cash",
+      "riches",
+      "profit"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Penchant",
+    "taboo": [
+      "liking",
+      "tendency",
+      "inclination",
+      "preference",
+      "fondness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pendulous",
+    "taboo": [
+      "hanging",
+      "drooping",
+      "dangling",
+      "suspended",
+      "swinging"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Penurious",
+    "taboo": [
+      "stingy",
+      "miserly",
+      "cheap",
+      "poor",
+      "frugal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Perdition",
+    "taboo": [
+      "hell",
+      "damnation",
+      "ruin",
+      "destruction",
+      "eternal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Peregrination",
+    "taboo": [
+      "journey",
+      "travel",
+      "wandering",
+      "pilgrimage",
+      "voyage"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Peremptory",
+    "taboo": [
+      "commanding",
+      "urgent",
+      "absolute",
+      "final",
+      "demanding"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Perfidy",
+    "taboo": [
+      "betrayal",
+      "treachery",
+      "disloyalty",
+      "dishonest",
+      "faithless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Perfunctory",
+    "taboo": [
+      "careless",
+      "halfhearted",
+      "routine",
+      "mechanical",
+      "cursory"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Peripatetic",
+    "taboo": [
+      "wandering",
+      "traveling",
+      "moving",
+      "nomadic",
+      "roaming"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pernicious",
+    "taboo": [
+      "harmful",
+      "dangerous",
+      "evil",
+      "deadly",
+      "destructive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Perquisite",
+    "taboo": [
+      "perk",
+      "benefit",
+      "extra",
+      "bonus",
+      "privilege"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pertinacious",
+    "taboo": [
+      "stubborn",
+      "persistent",
+      "determined",
+      "relentless",
+      "unwilling"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pestilential",
+    "taboo": [
+      "plague",
+      "disease",
+      "noxious",
+      "harmful",
+      "annoying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Phalanx",
+    "taboo": [
+      "formation",
+      "group",
+      "soldiers",
+      "ancient",
+      "Greece"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Phantasmagoria",
+    "taboo": [
+      "illusion",
+      "sequence",
+      "surreal",
+      "dreamlike",
+      "spectacle"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pharisee",
+    "taboo": [
+      "hypocrite",
+      "righteous",
+      "religious",
+      "insincere",
+      "judgmental"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Philistine",
+    "taboo": [
+      "uncultured",
+      "ignorant",
+      "unsophisticated",
+      "boorish",
+      "crass"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Physiognomy",
+    "taboo": [
+      "face",
+      "appearance",
+      "features",
+      "expression",
+      "character"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Piquant",
+    "taboo": [
+      "spicy",
+      "tangy",
+      "flavor",
+      "interesting",
+      "lively"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Placate",
+    "taboo": [
+      "appease",
+      "calm",
+      "soothe",
+      "pacify",
+      "satisfy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Placid",
+    "taboo": [
+      "calm",
+      "peaceful",
+      "serene",
+      "tranquil",
+      "untroubled"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plaintive",
+    "taboo": [
+      "mournful",
+      "sad",
+      "sorrowful",
+      "melancholy",
+      "woeful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plangent",
+    "taboo": [
+      "mournful",
+      "loud",
+      "ringing",
+      "lamenting",
+      "mournful sound"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Platitude",
+    "taboo": [
+      "clich\u00e9",
+      "trite",
+      "obvious",
+      "commonplace",
+      "saying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plaudit",
+    "taboo": [
+      "applause",
+      "praise",
+      "approval",
+      "acclaim",
+      "recognition"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plebeian",
+    "taboo": [
+      "commoner",
+      "ordinary",
+      "common",
+      "lowborn",
+      "vulgar"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plebiscite",
+    "taboo": [
+      "vote",
+      "referendum",
+      "election",
+      "people",
+      "decision"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plenitude",
+    "taboo": [
+      "abundance",
+      "fullness",
+      "plenty",
+      "wealth",
+      "completeness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plethora",
+    "taboo": [
+      "excess",
+      "too much",
+      "abundance",
+      "surplus",
+      "overabundance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pliant",
+    "taboo": [
+      "flexible",
+      "bendable",
+      "compliant",
+      "adaptable",
+      "yielding"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plutocracy",
+    "taboo": [
+      "rule",
+      "wealthy",
+      "rich",
+      "power",
+      "money"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Polder",
+    "taboo": [
+      "land",
+      "reclaimed",
+      "below sea",
+      "Dutch",
+      "dike"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Polemic",
+    "taboo": [
+      "argument",
+      "debate",
+      "criticism",
+      "controversial",
+      "attack"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Polemical",
+    "taboo": [
+      "controversial",
+      "argumentative",
+      "debatable",
+      "contentious",
+      "divisive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Polyglot",
+    "taboo": [
+      "languages",
+      "multilingual",
+      "translator",
+      "fluent",
+      "bilingual"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pomposity",
+    "taboo": [
+      "arrogance",
+      "pretentious",
+      "self-importance",
+      "grandiose",
+      "boastful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ponderous",
+    "taboo": [
+      "slow",
+      "heavy",
+      "tedious",
+      "cumbersome",
+      "sluggish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Portend",
+    "taboo": [
+      "foreshadow",
+      "predict",
+      "omen",
+      "sign",
+      "indicate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Poseur",
+    "taboo": [
+      "fake",
+      "phony",
+      "pretender",
+      "fraud",
+      "charlatan"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Postulate",
+    "taboo": [
+      "assume",
+      "propose",
+      "theory",
+      "hypothesis",
+      "claim"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Potable",
+    "taboo": [
+      "drinkable",
+      "water",
+      "safe",
+      "liquid",
+      "beverage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Potentate",
+    "taboo": [
+      "ruler",
+      "dictator",
+      "monarch",
+      "king",
+      "tyrant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Practicable",
+    "taboo": [
+      "feasible",
+      "possible",
+      "doable",
+      "viable",
+      "workable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Praxis",
+    "taboo": [
+      "practice",
+      "application",
+      "method",
+      "execution",
+      "routine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Precept",
+    "taboo": [
+      "rule",
+      "principle",
+      "instruction",
+      "guideline",
+      "teaching"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Precipitate",
+    "taboo": [
+      "sudden",
+      "hasty",
+      "cause",
+      "rash",
+      "rush"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Precipitous",
+    "taboo": [
+      "steep",
+      "sudden",
+      "dangerous",
+      "cliff",
+      "sharp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Precocious",
+    "taboo": [
+      "talented",
+      "young",
+      "advanced",
+      "gifted",
+      "early"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Precursor",
+    "taboo": [
+      "predecessor",
+      "forerunner",
+      "earlier",
+      "warning",
+      "sign"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Predilection",
+    "taboo": [
+      "preference",
+      "liking",
+      "fondness",
+      "tendency",
+      "inclination"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Preeminent",
+    "taboo": [
+      "superior",
+      "greatest",
+      "leading",
+      "prominent",
+      "foremost"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prefatory",
+    "taboo": [
+      "introductory",
+      "opening",
+      "preface",
+      "preliminary",
+      "before"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prehensile",
+    "taboo": [
+      "grasping",
+      "gripping",
+      "tail",
+      "monkey",
+      "seize"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prelate",
+    "taboo": [
+      "bishop",
+      "clergy",
+      "religious",
+      "church",
+      "priest"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Preponderance",
+    "taboo": [
+      "majority",
+      "most",
+      "greater",
+      "evidence",
+      "weight"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prepossessing",
+    "taboo": [
+      "attractive",
+      "pleasant",
+      "charming",
+      "appealing",
+      "winning"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prerogative",
+    "taboo": [
+      "right",
+      "privilege",
+      "exclusive",
+      "power",
+      "authority"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Presage",
+    "taboo": [
+      "foretell",
+      "omen",
+      "predict",
+      "sign",
+      "foreshadow"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prescience",
+    "taboo": [
+      "foresight",
+      "knowing",
+      "future",
+      "clairvoyant",
+      "prediction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Presentiment",
+    "taboo": [
+      "premonition",
+      "feeling",
+      "intuition",
+      "foreboding",
+      "sense"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Presumptuous",
+    "taboo": [
+      "arrogant",
+      "bold",
+      "rude",
+      "forward",
+      "overconfident"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Preternatural",
+    "taboo": [
+      "supernatural",
+      "mysterious",
+      "paranormal",
+      "unexplained",
+      "eerie"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prevaricate",
+    "taboo": [
+      "lie",
+      "mislead",
+      "evasive",
+      "equivocate",
+      "deception"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Primogeniture",
+    "taboo": [
+      "inheritance",
+      "eldest",
+      "son",
+      "firstborn",
+      "law"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Primordial",
+    "taboo": [
+      "original",
+      "ancient",
+      "primitive",
+      "beginning",
+      "primal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Privation",
+    "taboo": [
+      "deprivation",
+      "poverty",
+      "lack",
+      "hardship",
+      "shortage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Proclivity",
+    "taboo": [
+      "tendency",
+      "inclination",
+      "predisposition",
+      "preference",
+      "leaning"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Procrustean",
+    "taboo": [
+      "forcing",
+      "fitting",
+      "beds",
+      "brutal",
+      "mythology"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Prodigal",
+    "taboo": [
+      "wasteful",
+      "spendthrift",
+      "reckless",
+      "extravagant",
+      "squander"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prodigious",
+    "taboo": [
+      "enormous",
+      "impressive",
+      "amazing",
+      "extraordinary",
+      "marvelous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Proffer",
+    "taboo": [
+      "offer",
+      "present",
+      "propose",
+      "suggest",
+      "extend"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Profligate",
+    "taboo": [
+      "wasteful",
+      "reckless",
+      "dissolute",
+      "immoral",
+      "extravagant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Progenitor",
+    "taboo": [
+      "ancestor",
+      "founder",
+      "parent",
+      "originator",
+      "predecessor"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prognosticate",
+    "taboo": [
+      "predict",
+      "forecast",
+      "prophesy",
+      "foretell",
+      "anticipate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Proletarian",
+    "taboo": [
+      "working class",
+      "labor",
+      "socialist",
+      "poor",
+      "communist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prolix",
+    "taboo": [
+      "wordy",
+      "verbose",
+      "lengthy",
+      "long-winded",
+      "tedious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Promontory",
+    "taboo": [
+      "cliff",
+      "projection",
+      "land",
+      "geography",
+      "cape"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Promulgate",
+    "taboo": [
+      "announce",
+      "declare",
+      "publish",
+      "broadcast",
+      "official"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Propensity",
+    "taboo": [
+      "tendency",
+      "inclination",
+      "predisposition",
+      "natural",
+      "leaning"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prophylactic",
+    "taboo": [
+      "preventive",
+      "protection",
+      "medicine",
+      "contraception",
+      "preventable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Propinquity",
+    "taboo": [
+      "nearness",
+      "proximity",
+      "closeness",
+      "adjacent",
+      "kinship"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Propitious",
+    "taboo": [
+      "favorable",
+      "luck",
+      "good timing",
+      "auspicious",
+      "advantageous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Propriety",
+    "taboo": [
+      "manners",
+      "etiquette",
+      "appropriate",
+      "decorum",
+      "social rules"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Proscribe",
+    "taboo": [
+      "forbid",
+      "ban",
+      "prohibit",
+      "illegal",
+      "outlaw"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Proselytize",
+    "taboo": [
+      "convert",
+      "recruit",
+      "evangelize",
+      "persuade",
+      "missionary"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prosody",
+    "taboo": [
+      "poetry",
+      "rhythm",
+      "meter",
+      "verse",
+      "sound patterns"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Protean",
+    "taboo": [
+      "changeable",
+      "adaptable",
+      "versatile",
+      "shape-shifting",
+      "flexible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Protract",
+    "taboo": [
+      "extend",
+      "lengthen",
+      "prolong",
+      "delay",
+      "stretch out"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Provenance",
+    "taboo": [
+      "origin",
+      "source",
+      "history",
+      "antique",
+      "where it came from"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Prurient",
+    "taboo": [
+      "lustful",
+      "sexual",
+      "obscene",
+      "indecent",
+      "voyeuristic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pulchritude",
+    "taboo": [
+      "beauty",
+      "attractive",
+      "gorgeous",
+      "physically appealing",
+      "lovely"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Putative",
+    "taboo": [
+      "supposed",
+      "alleged",
+      "reputed",
+      "claimed",
+      "believed to be"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Quiescence",
+    "taboo": [
+      "stillness",
+      "inactivity",
+      "calm",
+      "quiet",
+      "dormant state"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Quietude",
+    "taboo": [
+      "silence",
+      "peacefulness",
+      "tranquility",
+      "calm",
+      "serenity"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Quisling",
+    "taboo": [
+      "traitor",
+      "collaborator",
+      "betrayer",
+      "informant",
+      "Nazi sympathizer"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Quotidian",
+    "taboo": [
+      "daily",
+      "ordinary",
+      "routine",
+      "everyday",
+      "commonplace"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Raconteur",
+    "taboo": [
+      "storyteller",
+      "skilled narrator",
+      "entertaining",
+      "tales",
+      "speaker"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rakish",
+    "taboo": [
+      "dashing",
+      "debauched",
+      "jaunty",
+      "carefree",
+      "disreputable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rarefied",
+    "taboo": [
+      "exclusive",
+      "refined",
+      "elite",
+      "thin air",
+      "elevated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ratiocination",
+    "taboo": [
+      "logical thinking",
+      "reasoning",
+      "deduction",
+      "analysis",
+      "logic"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Rebarbative",
+    "taboo": [
+      "unattractive",
+      "repellent",
+      "unpleasant",
+      "ugly",
+      "disgusting"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Rebus",
+    "taboo": [
+      "puzzle",
+      "words",
+      "picture",
+      "riddle",
+      "game"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Recapitulate",
+    "taboo": [
+      "summarize",
+      "repeat",
+      "review",
+      "recap",
+      "main points"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Recidivism",
+    "taboo": [
+      "repeat",
+      "crime",
+      "criminal",
+      "reoffend",
+      "behavior"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reconnaissance",
+    "taboo": [
+      "spy",
+      "scout",
+      "military",
+      "survey",
+      "information"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reconnoiter",
+    "taboo": [
+      "scout",
+      "explore",
+      "survey",
+      "spy",
+      "observe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Recreant",
+    "taboo": [
+      "coward",
+      "disloyal",
+      "traitorous",
+      "afraid",
+      "unfaithful"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Rectitude",
+    "taboo": [
+      "moral",
+      "virtue",
+      "honesty",
+      "integrity",
+      "righteous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Recumbent",
+    "taboo": [
+      "lying",
+      "down",
+      "horizontal",
+      "reclining",
+      "bike"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Redolent",
+    "taboo": [
+      "fragrant",
+      "smell",
+      "scent",
+      "perfume",
+      "aroma"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Redoubtable",
+    "taboo": [
+      "formidable",
+      "fearsome",
+      "powerful",
+      "respected",
+      "impressive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Refractory",
+    "taboo": [
+      "stubborn",
+      "resistant",
+      "difficult",
+      "heat",
+      "defiant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Refulgent",
+    "taboo": [
+      "bright",
+      "shining",
+      "glowing",
+      "radiant",
+      "brilliant"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Regale",
+    "taboo": [
+      "entertain",
+      "feast",
+      "treat",
+      "delight",
+      "host"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Regicide",
+    "taboo": [
+      "kill",
+      "king",
+      "murder",
+      "assassination",
+      "royal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rejoinder",
+    "taboo": [
+      "response",
+      "reply",
+      "retort",
+      "comeback",
+      "answer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Relegate",
+    "taboo": [
+      "banish",
+      "demote",
+      "assign",
+      "lower",
+      "exile"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Remiss",
+    "taboo": [
+      "negligent",
+      "careless",
+      "lax",
+      "duty",
+      "irresponsible"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Remonstrate",
+    "taboo": [
+      "protest",
+      "complain",
+      "object",
+      "argue",
+      "disagree"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Remunerative",
+    "taboo": [
+      "profitable",
+      "money",
+      "paying",
+      "lucrative",
+      "income"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reparable",
+    "taboo": [
+      "fixable",
+      "repair",
+      "damage",
+      "broken",
+      "restore"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reparation",
+    "taboo": [
+      "compensation",
+      "damages",
+      "amends",
+      "payment",
+      "repair"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Repartee",
+    "taboo": [
+      "witty",
+      "banter",
+      "clever",
+      "comeback",
+      "exchange"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Repine",
+    "taboo": [
+      "complain",
+      "dissatisfied",
+      "grumble",
+      "discontent",
+      "lament"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Replete",
+    "taboo": [
+      "full",
+      "filled",
+      "abundant",
+      "complete",
+      "stuffed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reprehensible",
+    "taboo": [
+      "shameful",
+      "blame",
+      "wrong",
+      "immoral",
+      "condemn"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reprise",
+    "taboo": [
+      "repeat",
+      "return",
+      "resume",
+      "encore",
+      "take back"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reprobate",
+    "taboo": [
+      "villain",
+      "wicked",
+      "immoral",
+      "sinner",
+      "evil"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reprove",
+    "taboo": [
+      "scold",
+      "rebuke",
+      "reprimand",
+      "criticize",
+      "disapprove"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Repudiate",
+    "taboo": [
+      "reject",
+      "deny",
+      "refuse",
+      "abandon",
+      "disown"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Requite",
+    "taboo": [
+      "repay",
+      "return",
+      "love",
+      "reward",
+      "reciprocate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rescind",
+    "taboo": [
+      "cancel",
+      "reverse",
+      "repeal",
+      "abolish",
+      "annul"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Resplendent",
+    "taboo": [
+      "brilliant",
+      "shining",
+      "magnificent",
+      "dazzling",
+      "gorgeous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reticent",
+    "taboo": [
+      "quiet",
+      "silent",
+      "shy",
+      "reserved",
+      "reluctant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ribald",
+    "taboo": [
+      "crude",
+      "vulgar",
+      "dirty",
+      "obscene",
+      "lewd"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Risible",
+    "taboo": [
+      "funny",
+      "laughable",
+      "amusing",
+      "ridiculous",
+      "comedy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rococo",
+    "taboo": [
+      "ornate",
+      "elaborate",
+      "decorative",
+      "style",
+      "baroque"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Roil",
+    "taboo": [
+      "disturb",
+      "anger",
+      "agitate",
+      "muddy",
+      "upset"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sacrilegious",
+    "taboo": [
+      "blasphemous",
+      "disrespectful",
+      "profane",
+      "irreverent",
+      "unholy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sacrosanct",
+    "taboo": [
+      "sacred",
+      "inviolable",
+      "protected",
+      "holy",
+      "untouchable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Salacious",
+    "taboo": [
+      "lustful",
+      "sexual",
+      "indecent",
+      "obscene",
+      "crude"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Salient",
+    "taboo": [
+      "prominent",
+      "noticeable",
+      "striking",
+      "important",
+      "obvious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Salubrious",
+    "taboo": [
+      "healthy",
+      "beneficial",
+      "wholesome",
+      "good",
+      "healing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sanctimonious",
+    "taboo": [
+      "hypocritical",
+      "pious",
+      "self-righteous",
+      "holier-than-thou",
+      "smug"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sanguinary",
+    "taboo": [
+      "bloody",
+      "violent",
+      "warfare",
+      "bloodthirsty",
+      "gory"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sardonic",
+    "taboo": [
+      "sarcastic",
+      "mocking",
+      "cynical",
+      "sneering",
+      "bitter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sartorial",
+    "taboo": [
+      "clothing",
+      "fashion",
+      "dress",
+      "tailoring",
+      "wardrobe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Saturnine",
+    "taboo": [
+      "gloomy",
+      "dark",
+      "moody",
+      "pessimistic",
+      "melancholy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Savant",
+    "taboo": [
+      "expert",
+      "genius",
+      "scholar",
+      "intellectual",
+      "knowledgeable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scabrous",
+    "taboo": [
+      "rough",
+      "indecent",
+      "crude",
+      "scandalous",
+      "difficult"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scintilla",
+    "taboo": [
+      "spark",
+      "trace",
+      "tiny",
+      "hint",
+      "bit"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Schism",
+    "taboo": [
+      "split",
+      "divide",
+      "break",
+      "separation",
+      "disagreement"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scholium",
+    "taboo": [
+      "annotation",
+      "note",
+      "commentary",
+      "explanation",
+      "marginal"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Scintillate",
+    "taboo": [
+      "sparkle",
+      "shine",
+      "twinkle",
+      "glitter",
+      "bright"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scion",
+    "taboo": [
+      "heir",
+      "descendant",
+      "child",
+      "offspring",
+      "inheritor"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sclerotic",
+    "taboo": [
+      "hardening",
+      "rigid",
+      "inflexible",
+      "disease",
+      "arteries"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scruple",
+    "taboo": [
+      "doubt",
+      "hesitation",
+      "moral",
+      "conscience",
+      "uncertainty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scrupulous",
+    "taboo": [
+      "careful",
+      "thorough",
+      "meticulous",
+      "honest",
+      "precise"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scurrilous",
+    "taboo": [
+      "insulting",
+      "abusive",
+      "vulgar",
+      "offensive",
+      "slanderous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scurvy",
+    "taboo": [
+      "disease",
+      "vitamin",
+      "pirate",
+      "contemptible",
+      "despicable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sectarian",
+    "taboo": [
+      "religious",
+      "faction",
+      "biased",
+      "partisan",
+      "narrow-minded"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sedition",
+    "taboo": [
+      "rebellion",
+      "treason",
+      "uprising",
+      "revolt",
+      "insurrection"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Seemly",
+    "taboo": [
+      "proper",
+      "appropriate",
+      "decorous",
+      "fitting",
+      "respectable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Seminal",
+    "taboo": [
+      "influential",
+      "original",
+      "important",
+      "foundational",
+      "seed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Senescence",
+    "taboo": [
+      "aging",
+      "old age",
+      "decline",
+      "deterioration",
+      "growing old"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sensuous",
+    "taboo": [
+      "sensory",
+      "appealing",
+      "pleasure",
+      "luxurious",
+      "tactile"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sententious",
+    "taboo": [
+      "preachy",
+      "pompous",
+      "moralizing",
+      "pithy",
+      "self-righteous"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sentient",
+    "taboo": [
+      "conscious",
+      "aware",
+      "alive",
+      "feeling",
+      "thinking"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sequester",
+    "taboo": [
+      "isolate",
+      "separate",
+      "confiscate",
+      "jury",
+      "seclude"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sere",
+    "taboo": [
+      "dried",
+      "withered",
+      "brown",
+      "parched",
+      "dead"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Serpentine",
+    "taboo": [
+      "winding",
+      "snake",
+      "curved",
+      "twisted",
+      "devious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Servile",
+    "taboo": [
+      "submissive",
+      "obsequious",
+      "slave",
+      "subservient",
+      "degrading"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Shibboleth",
+    "taboo": [
+      "slogan",
+      "password",
+      "catchphrase",
+      "test",
+      "principle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sibilant",
+    "taboo": [
+      "hissing",
+      "sound",
+      "s-sound",
+      "whisper",
+      "phonetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sibyl",
+    "taboo": [
+      "prophet",
+      "oracle",
+      "priestess",
+      "fortune-teller",
+      "seer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sibylline",
+    "taboo": [
+      "cryptic",
+      "mysterious",
+      "prophetic",
+      "obscure",
+      "oracle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sidereal",
+    "taboo": [
+      "stars",
+      "astronomy",
+      "cosmic",
+      "celestial",
+      "space"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Simian",
+    "taboo": [
+      "monkey",
+      "ape",
+      "primate",
+      "chimpanzee",
+      "gorilla"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sinecure",
+    "taboo": [
+      "easy job",
+      "cushy",
+      "position",
+      "money",
+      "no work"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sinuous",
+    "taboo": [
+      "curvy",
+      "winding",
+      "graceful",
+      "undulating",
+      "flowing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Slake",
+    "taboo": [
+      "quench",
+      "satisfy",
+      "drink",
+      "thirst",
+      "slurp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Smattering",
+    "taboo": [
+      "little",
+      "knowledge",
+      "scattered",
+      "bit",
+      "superficial"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Soliloquy",
+    "taboo": [
+      "speech",
+      "alone",
+      "monologue",
+      "Hamlet",
+      "talks-to-self"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Somatic",
+    "taboo": [
+      "body",
+      "physical",
+      "bodily",
+      "flesh",
+      "corporal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Somnambulist",
+    "taboo": [
+      "sleep",
+      "walk",
+      "sleepwalker",
+      "unconscious",
+      "night"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Somnolent",
+    "taboo": [
+      "sleepy",
+      "drowsy",
+      "tired",
+      "sleep",
+      "sluggish"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sonorous",
+    "taboo": [
+      "loud",
+      "deep",
+      "resonant",
+      "sound",
+      "booming"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Soothsayer",
+    "taboo": [
+      "prophet",
+      "fortune-teller",
+      "predict",
+      "future",
+      "oracle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sophist",
+    "taboo": [
+      "philosopher",
+      "argument",
+      "rhetoric",
+      "wise",
+      "fallacy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sophomoric",
+    "taboo": [
+      "immature",
+      "foolish",
+      "second-year",
+      "pretentious",
+      "shallow"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Soporific",
+    "taboo": [
+      "sleep",
+      "boring",
+      "drug",
+      "drowsy",
+      "sedative"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Spasmodic",
+    "taboo": [
+      "irregular",
+      "jerky",
+      "sudden",
+      "sporadic",
+      "convulsive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Spate",
+    "taboo": [
+      "flood",
+      "rush",
+      "series",
+      "surge",
+      "abundance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Specious",
+    "taboo": [
+      "false",
+      "plausible",
+      "deceptive",
+      "misleading",
+      "fake"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Spectral",
+    "taboo": [
+      "ghost",
+      "spectrum",
+      "ghostly",
+      "pale",
+      "eerie"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Splendent",
+    "taboo": [
+      "bright",
+      "shining",
+      "brilliant",
+      "splendor",
+      "radiant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sporadic",
+    "taboo": [
+      "irregular",
+      "occasional",
+      "scattered",
+      "random",
+      "infrequent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sportive",
+    "taboo": [
+      "playful",
+      "game",
+      "sport",
+      "fun",
+      "lighthearted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sprezzatura",
+    "taboo": [
+      "nonchalance",
+      "style",
+      "effortless",
+      "Italian",
+      "cool"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Spurious",
+    "taboo": [
+      "false",
+      "fake",
+      "bogus",
+      "counterfeit",
+      "fraudulent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Squalid",
+    "taboo": [
+      "filthy",
+      "dirty",
+      "sordid",
+      "gross",
+      "grimy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Squalor",
+    "taboo": [
+      "filth",
+      "dirty",
+      "poverty",
+      "sordid",
+      "disgusting"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Staid",
+    "taboo": [
+      "serious",
+      "grave",
+      "dignified",
+      "sedate",
+      "conservative"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stalwart",
+    "taboo": [
+      "loyal",
+      "strong",
+      "reliable",
+      "steadfast",
+      "supporter"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stentorian",
+    "taboo": [
+      "loud",
+      "booming",
+      "voice",
+      "powerful",
+      "resonant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stipulate",
+    "taboo": [
+      "specify",
+      "require",
+      "demand",
+      "condition",
+      "agree"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stoic",
+    "taboo": [
+      "impassive",
+      "philosophy",
+      "unfeeling",
+      "patient",
+      "endurance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stratagem",
+    "taboo": [
+      "strategy",
+      "trick",
+      "plan",
+      "ploy",
+      "scheme"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stratified",
+    "taboo": [
+      "layers",
+      "divided",
+      "ranked",
+      "hierarchy",
+      "strata"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stratum",
+    "taboo": [
+      "layer",
+      "class",
+      "level",
+      "social",
+      "geology"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Striated",
+    "taboo": [
+      "striped",
+      "grooved",
+      "lined",
+      "ridged",
+      "grooves"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Strident",
+    "taboo": [
+      "loud",
+      "harsh",
+      "shrill",
+      "grating",
+      "noise"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stringent",
+    "taboo": [
+      "strict",
+      "rigid",
+      "demanding",
+      "severe",
+      "rules"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stultify",
+    "taboo": [
+      "dull",
+      "boring",
+      "stupid",
+      "mind-numbing",
+      "tedious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stygian",
+    "taboo": [
+      "dark",
+      "gloomy",
+      "black",
+      "mythological",
+      "river"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Suavity",
+    "taboo": [
+      "smooth",
+      "charming",
+      "sophisticated",
+      "debonair",
+      "elegant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Subjugate",
+    "taboo": [
+      "conquer",
+      "control",
+      "dominate",
+      "enslave",
+      "suppress"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sublimate",
+    "taboo": [
+      "transform",
+      "refine",
+      "elevate",
+      "psychology",
+      "redirect"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Subterfuge",
+    "taboo": [
+      "deception",
+      "trick",
+      "evasion",
+      "scheme",
+      "dishonest"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Succor",
+    "taboo": [
+      "help",
+      "aid",
+      "relief",
+      "assistance",
+      "support"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sumptuous",
+    "taboo": [
+      "luxurious",
+      "lavish",
+      "expensive",
+      "elegant",
+      "rich"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sunder",
+    "taboo": [
+      "separate",
+      "divide",
+      "split",
+      "break",
+      "tear"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Supine",
+    "taboo": [
+      "lying",
+      "passive",
+      "back",
+      "weak",
+      "horizontal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Supplant",
+    "taboo": [
+      "replace",
+      "usurp",
+      "overthrow",
+      "displace",
+      "substitute"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Surreptitious",
+    "taboo": [
+      "secret",
+      "sneaky",
+      "hidden",
+      "stealthy",
+      "clandestine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Swarthy",
+    "taboo": [
+      "dark",
+      "tanned",
+      "complexion",
+      "brown",
+      "dusky"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Swathe",
+    "taboo": [
+      "wrap",
+      "bandage",
+      "cover",
+      "envelop",
+      "swaddle"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sybarite",
+    "taboo": [
+      "luxury",
+      "pleasure-seeker",
+      "hedonist",
+      "indulgent",
+      "comfort"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Sylvan",
+    "taboo": [
+      "forest",
+      "woods",
+      "trees",
+      "nature",
+      "pastoral"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tacit",
+    "taboo": [
+      "implied",
+      "unspoken",
+      "silent",
+      "understood",
+      "unstated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tantamount",
+    "taboo": [
+      "equivalent",
+      "equal",
+      "same as",
+      "comparable",
+      "essentially"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tautological",
+    "taboo": [
+      "circular",
+      "redundant",
+      "repetitive",
+      "obvious",
+      "logic"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Tawdry",
+    "taboo": [
+      "cheap",
+      "gaudy",
+      "tacky",
+      "showy",
+      "tasteless"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Temerarious",
+    "taboo": [
+      "reckless",
+      "rash",
+      "foolhardy",
+      "daring",
+      "bold"
+    ],
+    "difficulty": "expert"
   }
 ]
