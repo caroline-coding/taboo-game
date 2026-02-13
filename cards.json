@@ -13844,7 +13844,8 @@
       "plaster",
       "roof"
     ],
-    "category": "Buildings, places, and locations"
+    "category": "Buildings, places, and locations",
+    "difficulty": "medium"
   },
   {
     "word": "Casino",
@@ -33607,7 +33608,8 @@
       "connection",
       "isolated"
     ],
-    "category": "Philosophy, ethics, and deep concepts"
+    "category": "Philosophy, ethics, and deep concepts",
+    "difficulty": "medium"
   },
   {
     "word": "Realism",
@@ -34974,7 +34976,8 @@
       "combination",
       "merging"
     ],
-    "category": "Literary devices, wordplay, and language tricks"
+    "category": "Literary devices, wordplay, and language tricks",
+    "difficulty": "medium"
   },
   {
     "word": "Anachronism",
@@ -41417,7 +41420,7 @@
       "rank",
       "commander"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Dinner",
@@ -41758,7 +41761,7 @@
       "state",
       "politics"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Crime",
@@ -41824,7 +41827,7 @@
       "biology",
       "phone"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Machine",
@@ -42385,7 +42388,7 @@
       "free",
       "choice"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Soldiers",
@@ -42583,7 +42586,7 @@
       "knife",
       "patient"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Horses",
@@ -42825,7 +42828,7 @@
       "fate",
       "destiny"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Silver",
@@ -42968,7 +42971,7 @@
       "bravery",
       "strength"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Rat",
@@ -43221,7 +43224,7 @@
       "clever",
       "wisdom"
     ],
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "word": "Technology",
@@ -43650,7 +43653,7 @@
       "chords",
       "pick"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Whistle",
@@ -43661,7 +43664,7 @@
       "tune",
       "referee"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Capital",
@@ -43683,7 +43686,7 @@
       "disguise",
       "cover"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Loan",
@@ -43705,7 +43708,7 @@
       "bowl",
       "serve"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Channel",
@@ -43727,7 +43730,7 @@
       "heading",
       "champion"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Flag",
@@ -43738,7 +43741,7 @@
       "pole",
       "patriotic"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Balance",
@@ -43760,7 +43763,7 @@
       "museum",
       "accumulate"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Package",
@@ -43771,7 +43774,7 @@
       "wrap",
       "bundle"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Navy",
@@ -43804,7 +43807,7 @@
       "track",
       "woods"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Siren",
@@ -43826,7 +43829,7 @@
       "cash",
       "bill"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Concert",
@@ -43837,7 +43840,7 @@
       "stage",
       "audience"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Diamond",
@@ -43848,7 +43851,7 @@
       "sparkle",
       "engagement"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "League",
@@ -43870,7 +43873,7 @@
       "way",
       "entry"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Champion",
@@ -43881,7 +43884,7 @@
       "title",
       "first"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Legend",
@@ -43892,7 +43895,7 @@
       "hero",
       "folklore"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Wing",
@@ -43903,7 +43906,7 @@
       "feather",
       "side"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Gear",
@@ -43914,7 +43917,7 @@
       "machinery",
       "supplies"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Steel",
@@ -43925,7 +43928,7 @@
       "silver",
       "hard"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bible",
@@ -43936,7 +43939,7 @@
       "Christian",
       "sacred"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bond",
@@ -43958,7 +43961,7 @@
       "product",
       "name"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Toy",
@@ -43969,7 +43972,7 @@
       "doll",
       "fun"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Exit",
@@ -43980,7 +43983,7 @@
       "emergency",
       "escape"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Vampire",
@@ -43991,7 +43994,7 @@
       "coffin",
       "dracula"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Routine",
@@ -44002,7 +44005,7 @@
       "normal",
       "regular"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Trigger",
@@ -44013,7 +44016,7 @@
       "shoot",
       "cause"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cage",
@@ -44024,7 +44027,7 @@
       "locked",
       "confined"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pattern",
@@ -44035,7 +44038,7 @@
       "color",
       "fabric"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Costume",
@@ -44046,7 +44049,7 @@
       "outfit",
       "disguise"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Spirits",
@@ -44068,7 +44071,7 @@
       "account",
       "vault"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tribe",
@@ -44079,7 +44082,7 @@
       "community",
       "people"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Stakes",
@@ -44101,7 +44104,7 @@
       "engine",
       "device"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cigarettes",
@@ -44112,7 +44115,7 @@
       "pack",
       "lung"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tradition",
@@ -44123,7 +44126,7 @@
       "heritage",
       "passed"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bishop",
@@ -44134,7 +44137,7 @@
       "church",
       "religious"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Territory",
@@ -44145,7 +44148,7 @@
       "claimed",
       "boundaries"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Adventure",
@@ -44156,7 +44159,7 @@
       "quest",
       "danger"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Atmosphere",
@@ -44178,7 +44181,7 @@
       "storage",
       "package"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pipe",
@@ -44189,7 +44192,7 @@
       "metal",
       "plumbing"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Circus",
@@ -44200,7 +44203,7 @@
       "performance",
       "animals"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Diamonds",
@@ -44211,7 +44214,7 @@
       "engagement",
       "cards"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Fairy",
@@ -44222,7 +44225,7 @@
       "wand",
       "fantasy"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Habit",
@@ -44233,7 +44236,7 @@
       "behavior",
       "pattern"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Knight",
@@ -44244,7 +44247,7 @@
       "sword",
       "horse"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Monk",
@@ -44255,7 +44258,7 @@
       "robes",
       "vow"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Shelter",
@@ -44266,7 +44269,7 @@
       "refuge",
       "roof"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tattoo",
@@ -44277,7 +44280,7 @@
       "design",
       "needle"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Homicide",
@@ -44299,7 +44302,7 @@
       "photo",
       "film"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pitch",
@@ -44321,7 +44324,7 @@
       "afternoon",
       "sun"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Dishes",
@@ -44332,7 +44335,7 @@
       "wash",
       "food"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Charm",
@@ -44343,7 +44346,7 @@
       "spell",
       "bracelet"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Clouds",
@@ -44354,7 +44357,7 @@
       "white",
       "weather"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Citizen",
@@ -44365,7 +44368,7 @@
       "nation",
       "passport"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Corpse",
@@ -44387,7 +44390,7 @@
       "spin",
       "vehicle"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Furniture",
@@ -44398,7 +44401,7 @@
       "house",
       "room"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Romance",
@@ -44409,7 +44412,7 @@
       "dating",
       "passion"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bottles",
@@ -44420,7 +44423,7 @@
       "wine",
       "plastic"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Gambling",
@@ -44431,7 +44434,7 @@
       "money",
       "risk"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Oxygen",
@@ -44453,7 +44456,7 @@
       "performance",
       "audience"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pigs",
@@ -44464,7 +44467,7 @@
       "mud",
       "dirty"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Junk",
@@ -44475,7 +44478,7 @@
       "useless",
       "old"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Blocks",
@@ -44486,7 +44489,7 @@
       "children",
       "Lego"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Matches",
@@ -44497,7 +44500,7 @@
       "burn",
       "sulfur"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Supplies",
@@ -44508,7 +44511,7 @@
       "store",
       "inventory"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Powder",
@@ -44519,7 +44522,7 @@
       "makeup",
       "talc"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Fort",
@@ -44530,7 +44533,7 @@
       "stronghold",
       "defense"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Alley",
@@ -44541,7 +44544,7 @@
       "passage",
       "between"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Supper",
@@ -44552,7 +44555,7 @@
       "eat",
       "food"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pole",
@@ -44563,7 +44566,7 @@
       "South",
       "magnet"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Novel",
@@ -44574,7 +44577,7 @@
       "read",
       "pages"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Locker",
@@ -44585,7 +44588,7 @@
       "lock",
       "metal"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Twins",
@@ -44596,7 +44599,7 @@
       "pair",
       "babies"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "String",
@@ -44607,7 +44610,7 @@
       "tied",
       "thin"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Granny",
@@ -44618,7 +44621,7 @@
       "woman",
       "aged"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Nerves",
@@ -44629,7 +44632,7 @@
       "tension",
       "stress"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Wealth",
@@ -44651,7 +44654,7 @@
       "upper",
       "joint"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tap",
@@ -44662,7 +44665,7 @@
       "spigot",
       "drain"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Hostage",
@@ -44684,7 +44687,7 @@
       "sand",
       "water"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Honeymoon",
@@ -44695,7 +44698,7 @@
       "romance",
       "couple"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Fraud",
@@ -44739,7 +44742,7 @@
       "work",
       "employee"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Throne",
@@ -44750,7 +44753,7 @@
       "palace",
       "rule"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Statue",
@@ -44761,7 +44764,7 @@
       "bronze",
       "carved"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Motor",
@@ -44772,7 +44775,7 @@
       "mechanical",
       "electric"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Motel",
@@ -44783,7 +44786,7 @@
       "night",
       "stay"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Poetry",
@@ -44794,7 +44797,7 @@
       "literature",
       "words"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Rifle",
@@ -44805,7 +44808,7 @@
       "hunting",
       "firearm"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Badge",
@@ -44816,7 +44819,7 @@
       "pin",
       "identification"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Foundation",
@@ -44838,7 +44841,7 @@
       "effort",
       "worker"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Log",
@@ -44849,7 +44852,7 @@
       "fire",
       "cabin"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Poem",
@@ -44860,7 +44863,7 @@
       "stanza",
       "literature"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Jersey",
@@ -44871,7 +44874,7 @@
       "uniform",
       "team"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Privacy",
@@ -44882,7 +44885,7 @@
       "hidden",
       "private"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Chapter",
@@ -44893,7 +44896,7 @@
       "story",
       "division"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Wisdom",
@@ -44904,7 +44907,7 @@
       "sage",
       "intelligence"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Combat",
@@ -44915,7 +44918,7 @@
       "soldier",
       "enemy"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Proposal",
@@ -44926,7 +44929,7 @@
       "ask",
       "suggest"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Coin",
@@ -44937,7 +44940,7 @@
       "penny",
       "flip"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Palm",
@@ -44948,7 +44951,7 @@
       "coconut",
       "tropical"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Nest",
@@ -44959,7 +44962,7 @@
       "tree",
       "feathers"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Blessing",
@@ -44970,7 +44973,7 @@
       "gift",
       "fortunate"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Booze",
@@ -44981,7 +44984,7 @@
       "wine",
       "drunk"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Marine",
@@ -45003,7 +45006,7 @@
       "doctor",
       "symptom"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Chemical",
@@ -45036,7 +45039,7 @@
       "petals",
       "romance"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Computers",
@@ -45047,7 +45050,7 @@
       "internet",
       "typing"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Needle",
@@ -45058,7 +45061,7 @@
       "injection",
       "pine"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Paintings",
@@ -45069,7 +45072,7 @@
       "masterpiece",
       "gallery"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Entertainment",
@@ -45080,7 +45083,7 @@
       "music",
       "enjoyment"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bunny",
@@ -45091,7 +45094,7 @@
       "hoppy",
       "easter"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cellphone",
@@ -45102,7 +45105,7 @@
       "screen",
       "device"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Menu",
@@ -45113,7 +45116,7 @@
       "order",
       "dishes"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Diary",
@@ -45124,7 +45127,7 @@
       "writing",
       "entries"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Ranch",
@@ -45135,7 +45138,7 @@
       "cattle",
       "dressing"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Sheet",
@@ -45146,7 +45149,7 @@
       "blanket",
       "cotton"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Boats",
@@ -45157,7 +45160,7 @@
       "vessel",
       "row"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pearl",
@@ -45168,7 +45171,7 @@
       "jewel",
       "ocean"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Boot",
@@ -45179,7 +45182,7 @@
       "lace",
       "kick"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cattle",
@@ -45190,7 +45193,7 @@
       "farm",
       "animals"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Celebration",
@@ -45201,7 +45204,7 @@
       "balloons",
       "fun"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Combination",
@@ -45223,7 +45226,7 @@
       "basket",
       "shop"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Nap",
@@ -45234,7 +45237,7 @@
       "tired",
       "afternoon"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Nanny",
@@ -45245,7 +45248,7 @@
       "caregiver",
       "governess"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Jewelry",
@@ -45256,7 +45259,7 @@
       "diamond",
       "accessories"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Groom",
@@ -45267,7 +45270,7 @@
       "care",
       "bridegroom"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Lighter",
@@ -45278,7 +45281,7 @@
       "spark",
       "flick"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Alliance",
@@ -45300,7 +45303,7 @@
       "scandal",
       "spread"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Scandal",
@@ -45311,7 +45314,7 @@
       "disgrace",
       "controversy"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Shield",
@@ -45322,7 +45325,7 @@
       "armor",
       "guard"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Coffin",
@@ -45333,7 +45336,7 @@
       "grave",
       "wood"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Puppy",
@@ -45344,7 +45347,7 @@
       "pet",
       "barks"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Mob",
@@ -45355,7 +45358,7 @@
       "group",
       "riot"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cotton",
@@ -45366,7 +45369,7 @@
       "plant",
       "clothing"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Deposit",
@@ -45377,7 +45380,7 @@
       "payment",
       "layer"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Oath",
@@ -45388,7 +45391,7 @@
       "legal",
       "court"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Arrow",
@@ -45399,7 +45402,7 @@
       "weapon",
       "straight"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Purple",
@@ -45410,7 +45413,7 @@
       "grape",
       "lavender"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Suite",
@@ -45443,7 +45446,7 @@
       "travelers",
       "small"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Breast",
@@ -45454,7 +45457,7 @@
       "anatomy",
       "woman"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Medal",
@@ -45465,7 +45468,7 @@
       "honor",
       "winner"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Silk",
@@ -45476,7 +45479,7 @@
       "soft",
       "shiny"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Gum",
@@ -45487,7 +45490,7 @@
       "mouth",
       "flavor"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Acid",
@@ -45498,7 +45501,7 @@
       "corrosive",
       "pH"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Islands",
@@ -45509,7 +45512,7 @@
       "ocean",
       "tropical"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Flame",
@@ -45520,7 +45523,7 @@
       "burning",
       "hot"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Wolves",
@@ -45531,7 +45534,7 @@
       "howl",
       "predator"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Twin",
@@ -45542,7 +45545,7 @@
       "clone",
       "double"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Vault",
@@ -45564,7 +45567,7 @@
       "football",
       "safety"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Envelope",
@@ -45575,7 +45578,7 @@
       "seal",
       "stamp"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Penalty",
@@ -45586,7 +45589,7 @@
       "foul",
       "consequence"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bargain",
@@ -45597,7 +45600,7 @@
       "haggle",
       "sale"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cannon",
@@ -45608,7 +45611,7 @@
       "artillery",
       "blast"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tin",
@@ -45619,7 +45622,7 @@
       "aluminum",
       "container"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Rhythm",
@@ -45641,7 +45644,7 @@
       "oil",
       "drum"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cargo",
@@ -45663,7 +45666,7 @@
       "orbit",
       "celestial"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tapes",
@@ -45674,7 +45677,7 @@
       "audio",
       "sticky"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Trailer",
@@ -45685,7 +45688,7 @@
       "house",
       "advertisement"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tables",
@@ -45696,7 +45699,7 @@
       "flat",
       "surface"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Candles",
@@ -45707,7 +45710,7 @@
       "wax",
       "dark"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Fist",
@@ -45718,7 +45721,7 @@
       "closed",
       "knuckles"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cycle",
@@ -45729,7 +45732,7 @@
       "wheel",
       "round"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Goose",
@@ -45740,7 +45743,7 @@
       "honk",
       "neck"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Gallery",
@@ -45751,7 +45754,7 @@
       "display",
       "viewer"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Coal",
@@ -45762,7 +45765,7 @@
       "burn",
       "mining"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Perfume",
@@ -45773,7 +45776,7 @@
       "spray",
       "flower"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Spots",
@@ -45784,7 +45787,7 @@
       "dots",
       "places"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Blackmail",
@@ -45806,7 +45809,7 @@
       "peaceful",
       "largest"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Brakes",
@@ -45817,7 +45820,7 @@
       "pedal",
       "wheel"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tub",
@@ -45828,7 +45831,7 @@
       "container",
       "relax"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Sucker",
@@ -45839,7 +45842,7 @@
       "deceive",
       "sweet"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Zombie",
@@ -45850,7 +45853,7 @@
       "corpse",
       "horror"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Myth",
@@ -45861,7 +45864,7 @@
       "folklore",
       "ancient"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Worship",
@@ -45872,7 +45875,7 @@
       "church",
       "reverence"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Residence",
@@ -45883,7 +45886,7 @@
       "address",
       "dwelling"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Democracy",
@@ -45905,7 +45908,7 @@
       "handgun",
       "bullets"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Trucks",
@@ -45916,7 +45919,7 @@
       "large",
       "roads"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Trains",
@@ -45927,7 +45930,7 @@
       "travel",
       "cars"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Sailor",
@@ -45938,7 +45941,7 @@
       "boat",
       "maritime"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Samurai",
@@ -45949,7 +45952,7 @@
       "honor",
       "ancient"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Brandy",
@@ -45960,7 +45963,7 @@
       "spirits",
       "cognac"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Idol",
@@ -45971,7 +45974,7 @@
       "famous",
       "admire"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bass",
@@ -46004,7 +46007,7 @@
       "air",
       "announce"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Element",
@@ -46015,7 +46018,7 @@
       "component",
       "ingredient"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Campus",
@@ -46026,7 +46029,7 @@
       "students",
       "grounds"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Tender",
@@ -46048,7 +46051,7 @@
       "warrior",
       "black"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Concrete",
@@ -46059,7 +46062,7 @@
       "pavement",
       "building"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Vegetables",
@@ -46070,7 +46073,7 @@
       "garden",
       "broccoli"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Wizard",
@@ -46081,7 +46084,7 @@
       "Potter",
       "sorcerer"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Puzzle",
@@ -46092,7 +46095,7 @@
       "brain",
       "game"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pirate",
@@ -46103,7 +46106,7 @@
       "Caribbean",
       "plank"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Horns",
@@ -46114,7 +46117,7 @@
       "sound",
       "devil"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Coins",
@@ -46125,7 +46128,7 @@
       "pocket",
       "flip"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Recipe",
@@ -46136,7 +46139,7 @@
       "food",
       "cook"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Mill",
@@ -46147,7 +46150,7 @@
       "grinding",
       "factory"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Copper",
@@ -46158,7 +46161,7 @@
       "red",
       "element"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Heir",
@@ -46169,7 +46172,7 @@
       "prince",
       "successor"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Enterprise",
@@ -46191,7 +46194,7 @@
       "winner",
       "games"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Auction",
@@ -46202,7 +46205,7 @@
       "gavel",
       "bids"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bachelor",
@@ -46213,7 +46216,7 @@
       "single",
       "party"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Civilization",
@@ -46235,7 +46238,7 @@
       "martini",
       "bar"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Psychiatrist",
@@ -46257,7 +46260,7 @@
       "payment",
       "demand"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Gin",
@@ -46268,7 +46271,7 @@
       "tonic",
       "drink"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Turtles",
@@ -46279,7 +46282,7 @@
       "water",
       "pizza"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Monkeys",
@@ -46290,7 +46293,7 @@
       "jungle",
       "animals"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Hats",
@@ -46301,7 +46304,7 @@
       "cap",
       "clothing"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Buttons",
@@ -46312,7 +46315,7 @@
       "clothing",
       "round"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Lions",
@@ -46323,7 +46326,7 @@
       "big",
       "king"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "February",
@@ -46334,7 +46337,7 @@
       "February",
       "cold"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Brass",
@@ -46356,7 +46359,7 @@
       "eat",
       "slices"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Chemistry",
@@ -46411,7 +46414,7 @@
       "travel",
       "loyal"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Lawn",
@@ -46422,7 +46425,7 @@
       "green",
       "outside"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Apples",
@@ -46433,7 +46436,7 @@
       "seeds",
       "sweet"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Bees",
@@ -46444,7 +46447,7 @@
       "hive",
       "buzz"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Sharks",
@@ -46455,7 +46458,7 @@
       "predator",
       "attack"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Skies",
@@ -46466,7 +46469,7 @@
       "weather",
       "above"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Rivers",
@@ -46477,7 +46480,7 @@
       "stream",
       "bank"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Chains",
@@ -46488,7 +46491,7 @@
       "bind",
       "lock"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Household",
@@ -46499,7 +46502,7 @@
       "living",
       "domestic"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Ballots",
@@ -46521,7 +46524,7 @@
       "teeth",
       "tongue"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cloth",
@@ -46532,7 +46535,7 @@
       "thread",
       "cotton"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Customs",
@@ -46554,7 +46557,7 @@
       "terror",
       "frightening"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pirates",
@@ -46565,7 +46568,7 @@
       "steal",
       "Caribbean"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Hunters",
@@ -46576,7 +46579,7 @@
       "prey",
       "kill"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Jar",
@@ -46587,7 +46590,7 @@
       "storage",
       "kitchen"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Creek",
@@ -46598,7 +46601,7 @@
       "river",
       "woods"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Pony",
@@ -46609,7 +46612,7 @@
       "animal",
       "mane"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Businessman",
@@ -46620,7 +46623,7 @@
       "money",
       "corporate"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Armor",
@@ -46631,7 +46634,7 @@
       "medieval",
       "warrior"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Buffalo",
@@ -46642,7 +46645,7 @@
       "wild",
       "America"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Villain",
@@ -46653,7 +46656,7 @@
       "crime",
       "movie"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Cape",
@@ -46664,7 +46667,7 @@
       "cloth",
       "hero"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Explosives",
@@ -46697,7 +46700,7 @@
       "chocolate",
       "eat"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Ribs",
@@ -46708,7 +46711,7 @@
       "food",
       "barbecue"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Echo",
@@ -46719,7 +46722,7 @@
       "reflection",
       "reverb"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Vehicles",
@@ -46730,7 +46733,7 @@
       "drive",
       "engine"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Manual",
@@ -46763,7 +46766,7 @@
       "flame",
       "hand-held"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Hospitals",
@@ -46774,7 +46777,7 @@
       "illness",
       "beds"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Teenager",
@@ -46785,7 +46788,7 @@
       "age",
       "youth"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Mines",
@@ -46796,7 +46799,7 @@
       "underground",
       "gems"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Literature",
@@ -46862,7 +46865,7 @@
       "cosmetic",
       "red"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Hobby",
@@ -46873,7 +46876,7 @@
       "leisure",
       "enjoyment"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Dolls",
@@ -46884,7 +46887,7 @@
       "children",
       "plastic"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Barbecue",
@@ -46895,7 +46898,7 @@
       "outdoor",
       "food"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Melody",
@@ -46917,7 +46920,7 @@
       "transplant",
       "biological"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Calendar",
@@ -46928,7 +46931,7 @@
       "year",
       "schedule"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Videos",
@@ -46939,7 +46942,7 @@
       "recording",
       "film"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Laboratory",
@@ -46972,7 +46975,7 @@
       "kitchen",
       "tool"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Trophy",
@@ -46983,7 +46986,7 @@
       "gold",
       "competition"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Backyard",
@@ -46994,7 +46997,7 @@
       "outside",
       "home"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Diner",
@@ -47005,7 +47008,7 @@
       "counter",
       "coffee"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Telegram",
@@ -47049,7 +47052,7 @@
       "kitchen",
       "weapon"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Swords",
@@ -47060,7 +47063,7 @@
       "sharp",
       "weapon"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Dam",
@@ -47071,7 +47074,7 @@
       "power",
       "concrete"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Herd",
@@ -47082,7 +47085,7 @@
       "sheep",
       "cows"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Salesman",
@@ -47093,7 +47096,7 @@
       "commission",
       "job"
     ],
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "word": "Onions",
@@ -47104,7 +47107,7 @@
       "cooking",
       "pungent"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Werewolf",
@@ -47115,7 +47118,7 @@
       "wolf",
       "monster"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cavalry",
@@ -47126,7 +47129,7 @@
       "charging",
       "mounted"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Bomber",
@@ -47137,7 +47140,7 @@
       "plane",
       "attack"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Dinosaur",
@@ -47148,7 +47151,7 @@
       "fossil",
       "T-Rex"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Mentor",
@@ -47159,7 +47162,7 @@
       "experience",
       "wisdom"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Arena",
@@ -47170,7 +47173,7 @@
       "audience",
       "amphitheater"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Veil",
@@ -47181,7 +47184,7 @@
       "fabric",
       "sheer"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Steed",
@@ -47192,7 +47195,7 @@
       "animal",
       "noble"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Bacteria",
@@ -47203,7 +47206,7 @@
       "cells",
       "illness"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Container",
@@ -47214,7 +47217,7 @@
       "vessel",
       "storage"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Gong",
@@ -47225,7 +47228,7 @@
       "bell",
       "striking"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Platoon",
@@ -47236,7 +47239,7 @@
       "unit",
       "group"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Grenade",
@@ -47247,7 +47250,7 @@
       "pin",
       "throw"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Herb",
@@ -47258,7 +47261,7 @@
       "basil",
       "mint"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Knot",
@@ -47269,7 +47272,7 @@
       "tangle",
       "nautical"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Lens",
@@ -47280,7 +47283,7 @@
       "eye",
       "magnify"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Monks",
@@ -47291,7 +47294,7 @@
       "prayer",
       "celibate"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Nursery",
@@ -47302,7 +47305,7 @@
       "daycare",
       "babies"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Protein",
@@ -47313,7 +47316,7 @@
       "amino",
       "building"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Skeleton",
@@ -47324,7 +47327,7 @@
       "body",
       "anatomy"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Terrace",
@@ -47335,7 +47338,7 @@
       "balcony",
       "garden"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Transportation",
@@ -47346,7 +47349,7 @@
       "car",
       "bus"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Spear",
@@ -47357,7 +47360,7 @@
       "throw",
       "pointed"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Baggage",
@@ -47368,7 +47371,7 @@
       "carry",
       "airport"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Claw",
@@ -47379,7 +47382,7 @@
       "talon",
       "grip"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Donation",
@@ -47390,7 +47393,7 @@
       "contribute",
       "gift"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Dome",
@@ -47401,7 +47404,7 @@
       "building",
       "sphere"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Forests",
@@ -47412,7 +47415,7 @@
       "wilderness",
       "green"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Whales",
@@ -47423,7 +47426,7 @@
       "mammals",
       "large"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Gasoline",
@@ -47434,7 +47437,7 @@
       "gas",
       "engine"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Shrine",
@@ -47445,7 +47448,7 @@
       "memorial",
       "religious"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Robber",
@@ -47456,7 +47459,7 @@
       "burglar",
       "crime"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Balloons",
@@ -47467,7 +47470,7 @@
       "inflate",
       "celebration"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Fruits",
@@ -47478,7 +47481,7 @@
       "sweet",
       "harvest"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Metro",
@@ -47489,7 +47492,7 @@
       "transport",
       "city"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Biscuits",
@@ -47500,7 +47503,7 @@
       "food",
       "eat"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Arrows",
@@ -47511,7 +47514,7 @@
       "quiver",
       "target"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Grove",
@@ -47522,7 +47525,7 @@
       "small",
       "shady"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Hen",
@@ -47533,7 +47536,7 @@
       "female",
       "rooster"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Blades",
@@ -47544,7 +47547,7 @@
       "cutting",
       "edge"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cement",
@@ -47555,7 +47558,7 @@
       "gray",
       "powder"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Showers",
@@ -47566,7 +47569,7 @@
       "washing",
       "spray"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Waltz",
@@ -47577,7 +47580,7 @@
       "Austrian",
       "music"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Marble",
@@ -47588,7 +47591,7 @@
       "Greek",
       "smooth"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Claws",
@@ -47599,7 +47602,7 @@
       "cat",
       "bird"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Giants",
@@ -47610,7 +47613,7 @@
       "mythical",
       "huge"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Caves",
@@ -47621,7 +47624,7 @@
       "bats",
       "tunnel"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Bricks",
@@ -47632,7 +47635,7 @@
       "construction",
       "wall"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Nickel",
@@ -47643,7 +47646,7 @@
       "silver",
       "currency"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Pets",
@@ -47654,7 +47657,7 @@
       "companionship",
       "domesticated"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Masterpiece",
@@ -47665,7 +47668,7 @@
       "painting",
       "finest"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Treasures",
@@ -47676,7 +47679,7 @@
       "valuable",
       "pirate"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Potion",
@@ -47687,7 +47690,7 @@
       "wizard",
       "liquid"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Flock",
@@ -47698,7 +47701,7 @@
       "gather",
       "flying"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Toad",
@@ -47709,7 +47712,7 @@
       "hop",
       "warty"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Monastery",
@@ -47720,7 +47723,7 @@
       "prayer",
       "isolated"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Ark",
@@ -47731,7 +47734,7 @@
       "boat",
       "biblical"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Forint",
@@ -47753,7 +47756,7 @@
       "observe",
       "viewpoint"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Merchandise",
@@ -47764,7 +47767,7 @@
       "store",
       "business"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Souvenir",
@@ -47775,7 +47778,7 @@
       "keepsake",
       "remind"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Burgers",
@@ -47786,7 +47789,7 @@
       "bun",
       "fast"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Knots",
@@ -47797,7 +47800,7 @@
       "tangled",
       "nautical"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Nightclub",
@@ -47808,7 +47811,7 @@
       "party",
       "bar"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Poles",
@@ -47819,7 +47822,7 @@
       "magnetic",
       "tall"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Tigers",
@@ -47830,7 +47833,7 @@
       "orange",
       "predator"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Goats",
@@ -47841,7 +47844,7 @@
       "bleating",
       "farm"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Pearls",
@@ -47852,7 +47855,7 @@
       "necklace",
       "valuable"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Toilets",
@@ -47863,7 +47866,7 @@
       "waste",
       "bowl"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Banquet",
@@ -47874,7 +47877,7 @@
       "celebration",
       "feast"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Stamps",
@@ -47885,7 +47888,7 @@
       "collect",
       "ink"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Coats",
@@ -47896,7 +47899,7 @@
       "clothing",
       "warm"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Syrup",
@@ -47907,7 +47910,7 @@
       "thick",
       "liquid"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Orphans",
@@ -47918,7 +47921,7 @@
       "homeless",
       "care"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Admission",
@@ -47929,7 +47932,7 @@
       "entrance",
       "confess"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Essay",
@@ -47940,7 +47943,7 @@
       "composition",
       "paragraphs"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Depths",
@@ -47951,7 +47954,7 @@
       "underwater",
       "abyss"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Tropical",
@@ -47962,7 +47965,7 @@
       "rainforest",
       "paradise"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Altitude",
@@ -47973,7 +47976,7 @@
       "mountain",
       "plane"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Empress",
@@ -47984,7 +47987,7 @@
       "crown",
       "monarch"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Finale",
@@ -47995,7 +47998,7 @@
       "finish",
       "final"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Breakthrough",
@@ -48006,7 +48009,7 @@
       "progress",
       "innovation"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Oceans",
@@ -48017,7 +48020,7 @@
       "salt",
       "marine"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Limb",
@@ -48028,7 +48031,7 @@
       "extremity",
       "branch"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Wool",
@@ -48039,7 +48042,7 @@
       "sweater",
       "yarn"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Screenplay",
@@ -48050,7 +48053,7 @@
       "dialogue",
       "scenes"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Mosque",
@@ -48061,7 +48064,7 @@
       "religious",
       "building"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Puppies",
@@ -48072,7 +48075,7 @@
       "animals",
       "pets"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Pickle",
@@ -48083,7 +48086,7 @@
       "vegetable",
       "fermented"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Frogs",
@@ -48094,7 +48097,7 @@
       "green",
       "hopping"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Arctic",
@@ -48105,7 +48108,7 @@
       "polar",
       "freezing"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Asteroid",
@@ -48116,7 +48119,7 @@
       "planet",
       "collision"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Carrots",
@@ -48127,7 +48130,7 @@
       "root",
       "crunchy"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cigars",
@@ -48138,7 +48141,7 @@
       "cigar",
       "Cuba"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Lava",
@@ -48149,7 +48152,7 @@
       "eruption",
       "molten"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "UFO",
@@ -48160,7 +48163,7 @@
       "saucer",
       "extraterrestrial"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cosmos",
@@ -48171,7 +48174,7 @@
       "galaxy",
       "planets"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Curfew",
@@ -48182,7 +48185,7 @@
       "home",
       "restriction"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cathedral",
@@ -48193,7 +48196,7 @@
       "stained",
       "prayer"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Bourbon",
@@ -48204,7 +48207,7 @@
       "Kentucky",
       "brown"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Mermaid",
@@ -48215,7 +48218,7 @@
       "sea",
       "mythical"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Rosemary",
@@ -48226,7 +48229,7 @@
       "fragrant",
       "green"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Bong",
@@ -48237,7 +48240,7 @@
       "drug",
       "sound"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Burglar",
@@ -48248,7 +48251,7 @@
       "robber",
       "crime"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Spiders",
@@ -48259,7 +48262,7 @@
       "insects",
       "scary"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Crops",
@@ -48270,7 +48273,7 @@
       "fields",
       "plants"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Infant",
@@ -48281,7 +48284,7 @@
       "toddler",
       "small"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Falcon",
@@ -48292,7 +48295,7 @@
       "flying",
       "hawk"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Hydrogen",
@@ -48303,7 +48306,7 @@
       "water",
       "light"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Gravy",
@@ -48314,7 +48317,7 @@
       "pour",
       "brown"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Novels",
@@ -48325,7 +48328,7 @@
       "reading",
       "pages"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Diapers",
@@ -48336,7 +48339,7 @@
       "cloth",
       "absorbent"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Courthouse",
@@ -48347,7 +48350,7 @@
       "legal",
       "verdict"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Frontier",
@@ -48358,7 +48361,7 @@
       "edge",
       "west"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Stocks",
@@ -48369,7 +48372,7 @@
       "money",
       "trading"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Reactor",
@@ -48380,7 +48383,7 @@
       "radiation",
       "scientist"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Chimney",
@@ -48391,7 +48394,7 @@
       "fireplace",
       "house"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Kite",
@@ -48402,7 +48405,7 @@
       "sky",
       "toy"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Buses",
@@ -48413,7 +48416,7 @@
       "driving",
       "stops"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Loft",
@@ -48424,7 +48427,7 @@
       "high",
       "room"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Ribbon",
@@ -48435,7 +48438,7 @@
       "decoration",
       "fabric"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Crib",
@@ -48446,7 +48449,7 @@
       "infant",
       "wooden"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Nuns",
@@ -48457,7 +48460,7 @@
       "sisters",
       "church"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Apocalypse",
@@ -48468,7 +48471,7 @@
       "doomsday",
       "catastrophe"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Heap",
@@ -48479,7 +48482,7 @@
       "accumulate",
       "garbage"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Hog",
@@ -48490,7 +48493,7 @@
       "farm",
       "greedy"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Pins",
@@ -48501,7 +48504,7 @@
       "fasten",
       "metal"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Bronze",
@@ -48512,7 +48515,7 @@
       "brown",
       "statue"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Gutter",
@@ -48523,7 +48526,7 @@
       "channel",
       "bowling"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Ale",
@@ -48534,7 +48537,7 @@
       "brewery",
       "beverage"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Biscuit",
@@ -48545,7 +48548,7 @@
       "bake",
       "food"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Obstacle",
@@ -48556,7 +48559,7 @@
       "hurdle",
       "prevent"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Dumpster",
@@ -48567,7 +48570,7 @@
       "container",
       "bin"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Reef",
@@ -48578,7 +48581,7 @@
       "underwater",
       "rock"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Treasury",
@@ -48589,7 +48592,7 @@
       "gold",
       "vault"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Mathematics",
@@ -48600,7 +48603,7 @@
       "geometry",
       "science"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Dolphins",
@@ -48611,7 +48614,7 @@
       "intelligent",
       "marine"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Plasma",
@@ -48622,7 +48625,7 @@
       "gas",
       "science"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Postcard",
@@ -48633,7 +48636,7 @@
       "travel",
       "souvenir"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Atom",
@@ -48644,7 +48647,7 @@
       "smallest",
       "chemistry"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Detector",
@@ -48655,7 +48658,7 @@
       "device",
       "alarm"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Fireplace",
@@ -48666,7 +48669,7 @@
       "warm",
       "hearth"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Maze",
@@ -48677,7 +48680,7 @@
       "solution",
       "labyrinth"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Lotus",
@@ -48688,7 +48691,7 @@
       "meditation",
       "asia"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Mixture",
@@ -48699,7 +48702,7 @@
       "mix",
       "together"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Sculpture",
@@ -48710,7 +48713,7 @@
       "stone",
       "marble"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Manor",
@@ -48721,7 +48724,7 @@
       "mansion",
       "lord"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Skate",
@@ -48732,7 +48735,7 @@
       "sport",
       "blade"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Rodeo",
@@ -48743,7 +48746,7 @@
       "western",
       "riding"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Magnet",
@@ -48754,7 +48757,7 @@
       "iron",
       "magnetic"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Burglary",
@@ -48765,7 +48768,7 @@
       "break-in",
       "crime"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Sidewalk",
@@ -48776,7 +48779,7 @@
       "concrete",
       "path"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Scenery",
@@ -48787,7 +48790,7 @@
       "background",
       "beautiful"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Shredder",
@@ -48798,7 +48801,7 @@
       "cut",
       "document"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Miners",
@@ -48809,7 +48812,7 @@
       "precious",
       "excavate"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Amendment",
@@ -48820,7 +48823,7 @@
       "ratify",
       "government"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Getaway",
@@ -48831,7 +48834,7 @@
       "flee",
       "trip"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Leash",
@@ -48842,7 +48845,7 @@
       "pet",
       "restraint"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Eyebrows",
@@ -48853,7 +48856,7 @@
       "forehead",
       "eyes"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Pots",
@@ -48864,7 +48867,7 @@
       "container",
       "boil"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cocoa",
@@ -48875,7 +48878,7 @@
       "bean",
       "brown"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Philosopher",
@@ -48886,7 +48889,7 @@
       "ideas",
       "Greece"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Bulb",
@@ -48897,7 +48900,7 @@
       "bright",
       "glass"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Veteran",
@@ -48908,7 +48911,7 @@
       "experience",
       "service"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Chalk",
@@ -48919,7 +48922,7 @@
       "dusty",
       "teacher"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Manuscript",
@@ -48930,7 +48933,7 @@
       "pages",
       "document"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Markets",
@@ -48941,7 +48944,7 @@
       "goods",
       "store"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Chocolates",
@@ -48952,7 +48955,7 @@
       "brown",
       "dessert"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Loot",
@@ -48963,7 +48966,7 @@
       "treasure",
       "rob"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Amusement",
@@ -48974,7 +48977,7 @@
       "ride",
       "enjoy"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Membership",
@@ -48985,7 +48988,7 @@
       "fee",
       "exclusive"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Lantern",
@@ -48996,7 +48999,7 @@
       "candle",
       "glow"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Wildlife",
@@ -49007,7 +49010,7 @@
       "creatures",
       "habitat"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Asthma",
@@ -49018,7 +49021,7 @@
       "medical",
       "condition"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Restroom",
@@ -49029,7 +49032,7 @@
       "facility",
       "public"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Specimen",
@@ -49040,7 +49043,7 @@
       "scientific",
       "study"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Dungeon",
@@ -49051,7 +49054,7 @@
       "medieval",
       "cells"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Scales",
@@ -49062,7 +49065,7 @@
       "measure",
       "dragon"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Venom",
@@ -49073,7 +49076,7 @@
       "bite",
       "deadly"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Plumbing",
@@ -49084,7 +49087,7 @@
       "system",
       "repairs"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Mineral",
@@ -49095,7 +49098,7 @@
       "natural",
       "earth"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Relay",
@@ -49106,7 +49109,7 @@
       "team",
       "transmit"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Broadcasting",
@@ -49117,7 +49120,7 @@
       "signal",
       "audience"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Banking",
@@ -49128,7 +49131,7 @@
       "interest",
       "deposits"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Electronics",
@@ -49139,7 +49142,7 @@
       "computers",
       "gadgets"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Collision",
@@ -49150,7 +49153,7 @@
       "vehicles",
       "hit"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Comeback",
@@ -49161,7 +49164,7 @@
       "retaliation",
       "return"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Dowry",
@@ -49172,7 +49175,7 @@
       "wedding",
       "gift"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Mediterranean",
@@ -49183,7 +49186,7 @@
       "region",
       "countries"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Gadget",
@@ -49194,7 +49197,7 @@
       "electronic",
       "contraption"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Paramedics",
@@ -49205,7 +49208,7 @@
       "rescue",
       "hospital"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Console",
@@ -49216,7 +49219,7 @@
       "playstation",
       "xbox"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Caravan",
@@ -49227,7 +49230,7 @@
       "mobile",
       "group"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Herbs",
@@ -49238,7 +49241,7 @@
       "seasoning",
       "basil"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Queue",
@@ -49249,7 +49252,7 @@
       "people",
       "stand"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Recess",
@@ -49260,7 +49263,7 @@
       "children",
       "lunch"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Countdown",
@@ -49271,7 +49274,7 @@
       "rocket",
       "sequence"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Alarms",
@@ -49282,7 +49285,7 @@
       "alert",
       "bells"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Saloon",
@@ -49293,7 +49296,7 @@
       "western",
       "pub"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Tuition",
@@ -49304,7 +49307,7 @@
       "education",
       "university"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Serpent",
@@ -49315,7 +49318,7 @@
       "scales",
       "hiss"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Tavern",
@@ -49326,7 +49329,7 @@
       "inn",
       "pub"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Caviar",
@@ -49337,7 +49340,7 @@
       "luxury",
       "delicacy"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Trench",
@@ -49348,7 +49351,7 @@
       "ground",
       "war"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Tenant",
@@ -49359,7 +49362,7 @@
       "landlord",
       "occupant"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Diabetes",
@@ -49370,7 +49373,7 @@
       "insulin",
       "medical"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Riches",
@@ -49381,7 +49384,7 @@
       "gold",
       "fortune"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Cube",
@@ -49392,7 +49395,7 @@
       "six",
       "sides"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Opium",
@@ -49403,7 +49406,7 @@
       "narcotic",
       "substance"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Legion",
@@ -49414,7 +49417,7 @@
       "many",
       "military"
     ],
-    "difficulty": "hard"
+    "difficulty": "medium"
   },
   {
     "word": "Plains",
@@ -49425,7 +49428,7 @@
       "prairie",
       "terrain"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Morale",
@@ -49436,7 +49439,7 @@
       "attitude",
       "team"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Rituals",
@@ -49447,7 +49450,7 @@
       "religious",
       "custom"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Wager",
@@ -49458,7 +49461,7 @@
       "risk",
       "stake"
     ],
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "word": "Kimchi",
@@ -49469,7 +49472,7 @@
       "spicy",
       "vegetable"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Lobsters",
@@ -49480,7 +49483,7 @@
       "red",
       "boiled"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Pretzels",
@@ -49491,7 +49494,7 @@
       "snack",
       "knot"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Swans",
@@ -49502,7 +49505,7 @@
       "lake",
       "elegant"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Podium",
@@ -49513,7 +49516,7 @@
       "platform",
       "lectern"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Ottoman",
@@ -49524,7 +49527,7 @@
       "hassock",
       "ottoman"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Checkbook",
@@ -49535,7 +49538,7 @@
       "ledger",
       "account"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Pastries",
@@ -49546,7 +49549,7 @@
       "croissant",
       "dough"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Ammonia",
@@ -49557,7 +49560,7 @@
       "smell",
       "cleaner"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Kitchens",
@@ -49568,7 +49571,7 @@
       "food",
       "appliances"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Kryptonite",
@@ -49579,7 +49582,7 @@
       "alien",
       "destroy"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Yogi",
@@ -49590,7 +49593,7 @@
       "spiritual",
       "India"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Proverb",
@@ -49601,7 +49604,7 @@
       "lesson",
       "folk"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Conservatory",
@@ -49612,7 +49615,7 @@
       "greenhouse",
       "school"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Polka",
@@ -49623,7 +49626,7 @@
       "accordion",
       "European"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Mannequin",
@@ -49634,7 +49637,7 @@
       "plastic",
       "display"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cipher",
@@ -49645,7 +49648,7 @@
       "encrypt",
       "message"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Scrolls",
@@ -49656,7 +49659,7 @@
       "document",
       "paper"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Tiara",
@@ -49667,7 +49670,7 @@
       "royal",
       "head"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Gowns",
@@ -49678,7 +49681,7 @@
       "wedding",
       "wear"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Shipyard",
@@ -49689,7 +49692,7 @@
       "ships",
       "naval"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Moths",
@@ -49700,7 +49703,7 @@
       "wings",
       "butterflies"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Fiesta",
@@ -49711,7 +49714,7 @@
       "festival",
       "music"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Raffle",
@@ -49722,7 +49725,7 @@
       "prize",
       "chance"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Sulfur",
@@ -49733,7 +49736,7 @@
       "element",
       "matches"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Mead",
@@ -49744,7 +49747,7 @@
       "medieval",
       "fermented"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Stasis",
@@ -49755,7 +49758,7 @@
       "equilibrium",
       "suspended"
     ],
-    "difficulty": "expert"
+    "difficulty": "hard"
   },
   {
     "word": "Nobleman",
@@ -49766,7 +49769,7 @@
       "estate",
       "lord"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Contraption",
@@ -49777,7 +49780,7 @@
       "complicated",
       "invention"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Hickey",
@@ -49788,7 +49791,7 @@
       "neck",
       "love"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Mints",
@@ -49799,7 +49802,7 @@
       "flavor",
       "peppermint"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Mousse",
@@ -49810,7 +49813,7 @@
       "fluffy",
       "foam"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Pubs",
@@ -49821,7 +49824,7 @@
       "tavern",
       "beer"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Gauze",
@@ -49832,7 +49835,7 @@
       "wound",
       "cotton"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Crutches",
@@ -49843,7 +49846,7 @@
       "leg",
       "medical"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Handgun",
@@ -49854,7 +49857,7 @@
       "firearm",
       "shoot"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Coastline",
@@ -49865,7 +49868,7 @@
       "water",
       "border"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Ornament",
@@ -49876,7 +49879,7 @@
       "hang",
       "embellish"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Chimps",
@@ -49887,7 +49890,7 @@
       "Africa",
       "intelligent"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Invoice",
@@ -49898,7 +49901,7 @@
       "money",
       "business"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Shiv",
@@ -49909,7 +49912,7 @@
       "prison",
       "stab"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Donkeys",
@@ -49920,7 +49923,7 @@
       "beast",
       "load"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cordon",
@@ -49931,7 +49934,7 @@
       "blockade",
       "restrict"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Suitor",
@@ -49942,7 +49945,7 @@
       "admirer",
       "lover"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Emir",
@@ -49953,7 +49956,7 @@
       "sheikh",
       "title"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Appetizer",
@@ -49964,7 +49967,7 @@
       "snack",
       "meal"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Almonds",
@@ -49975,7 +49978,7 @@
       "california",
       "roasted"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Waterfront",
@@ -49986,7 +49989,7 @@
       "pier",
       "shore"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Elixir",
@@ -49997,7 +50000,7 @@
       "remedy",
       "drink"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Kebab",
@@ -50008,7 +50011,7 @@
       "grill",
       "food"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cocoon",
@@ -50019,7 +50022,7 @@
       "larvae",
       "wrap"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Rainbows",
@@ -50030,7 +50033,7 @@
       "prism",
       "arc"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Magma",
@@ -50041,7 +50044,7 @@
       "volcano",
       "heat"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Galley",
@@ -50052,7 +50055,7 @@
       "vessel",
       "slave"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Railing",
@@ -50063,7 +50066,7 @@
       "bridge",
       "metal"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Dunes",
@@ -50074,7 +50077,7 @@
       "hills",
       "wind"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Lodging",
@@ -50085,7 +50088,7 @@
       "housing",
       "place"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Shroud",
@@ -50096,7 +50099,7 @@
       "mummy",
       "veil"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Dingo",
@@ -50107,7 +50110,7 @@
       "animal",
       "Australia"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Holster",
@@ -50118,7 +50121,7 @@
       "pistol",
       "belt"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Plough",
@@ -50129,7 +50132,7 @@
       "agriculture",
       "furrow"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Windmill",
@@ -50140,7 +50143,7 @@
       "grain",
       "Dutch"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Lager",
@@ -50151,7 +50154,7 @@
       "drink",
       "pilsner"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Quail",
@@ -50162,7 +50165,7 @@
       "feathered",
       "egg"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Propeller",
@@ -50173,7 +50176,7 @@
       "aircraft",
       "spin"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Nightcap",
@@ -50184,7 +50187,7 @@
       "evening",
       "alcohol"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Cheques",
@@ -50195,7 +50198,7 @@
       "money",
       "signature"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Viceroy",
@@ -50206,7 +50209,7 @@
       "royal",
       "authority"
     ],
-    "difficulty": "expert"
+    "difficulty": "hard"
   },
   {
     "word": "Springtime",
@@ -50217,7 +50220,7 @@
       "renewal",
       "April"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Ballpark",
@@ -50228,7 +50231,7 @@
       "game",
       "estimate"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Hornet",
@@ -50239,7 +50242,7 @@
       "nest",
       "yellow"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cadaver",
@@ -50250,7 +50253,7 @@
       "anatomy",
       "medical"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Lavatory",
@@ -50261,7 +50264,7 @@
       "flush",
       "sink"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Carotid",
@@ -50272,7 +50275,7 @@
       "pulse",
       "vein"
     ],
-    "difficulty": "expert"
+    "difficulty": "hard"
   },
   {
     "word": "Termites",
@@ -50283,7 +50286,7 @@
       "colony",
       "pest"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Seminary",
@@ -50294,7 +50297,7 @@
       "education",
       "clergy"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Aorta",
@@ -50305,7 +50308,7 @@
       "vessel",
       "organ"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Calculus",
@@ -50316,7 +50319,7 @@
       "limits",
       "equations"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Eggplant",
@@ -50327,7 +50330,7 @@
       "aubergine",
       "produce"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Magnets",
@@ -50338,7 +50341,7 @@
       "magnetic",
       "force"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Quilt",
@@ -50349,7 +50352,7 @@
       "bedding",
       "fabric"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Filters",
@@ -50360,7 +50363,7 @@
       "sift",
       "screen"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cartridge",
@@ -50371,7 +50374,7 @@
       "refill",
       "bullet"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Choppers",
@@ -50382,7 +50385,7 @@
       "blades",
       "meat"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Staple",
@@ -50393,7 +50396,7 @@
       "office",
       "basic"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Sitcom",
@@ -50404,7 +50407,7 @@
       "show",
       "funny"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Molecule",
@@ -50415,7 +50418,7 @@
       "science",
       "compound"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Limestone",
@@ -50426,7 +50429,7 @@
       "mineral",
       "sedimentary"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Dipper",
@@ -50437,7 +50440,7 @@
       "handle",
       "scoop"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Sentry",
@@ -50448,7 +50451,7 @@
       "sentinel",
       "watch"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Mishap",
@@ -50459,7 +50462,7 @@
       "unfortunate",
       "problem"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Glaciers",
@@ -50470,7 +50473,7 @@
       "melting",
       "Arctic"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Pedestal",
@@ -50481,7 +50484,7 @@
       "support",
       "monument"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Cabins",
@@ -50492,7 +50495,7 @@
       "forest",
       "cottage"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Gazette",
@@ -50503,7 +50506,7 @@
       "journal",
       "print"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Nickels",
@@ -50514,7 +50517,7 @@
       "metal",
       "currency"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Lotto",
@@ -50525,7 +50528,7 @@
       "ticket",
       "chance"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Ventilator",
@@ -50536,7 +50539,7 @@
       "lungs",
       "oxygen"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   },
   {
     "word": "Candlelight",
@@ -50547,7 +50550,7 @@
       "dark",
       "light"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Racetrack",
@@ -50558,7 +50561,7 @@
       "oval",
       "betting"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Campsite",
@@ -50569,7 +50572,7 @@
       "outdoor",
       "hiking"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Jigsaw",
@@ -50580,7 +50583,7 @@
       "tool",
       "saw"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Beets",
@@ -50591,7 +50594,7 @@
       "salad",
       "sweet"
     ],
-    "difficulty": "expert"
+    "difficulty": "easy"
   },
   {
     "word": "Hernia",
@@ -50602,6 +50605,6 @@
       "abdomen",
       "injury"
     ],
-    "difficulty": "expert"
+    "difficulty": "medium"
   }
 ]
