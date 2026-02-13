@@ -41011,5 +41011,9597 @@
     ],
     "difficulty": "expert",
     "category": "Architecture, art movements, and artists"
+  },
+  {
+    "word": "Home",
+    "taboo": [
+      "house",
+      "family",
+      "live",
+      "place",
+      "live"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Work",
+    "taboo": [
+      "job",
+      "labor",
+      "employment",
+      "office",
+      "career"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Night",
+    "taboo": [
+      "dark",
+      "sleep",
+      "moon",
+      "stars",
+      "evening"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Day",
+    "taboo": [
+      "sun",
+      "morning",
+      "time",
+      "hours",
+      "daytime"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Money",
+    "taboo": [
+      "cash",
+      "dollars",
+      "pay",
+      "currency",
+      "bills"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Friend",
+    "taboo": [
+      "buddy",
+      "pal",
+      "close",
+      "trust",
+      "companion"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Family",
+    "taboo": [
+      "relatives",
+      "parents",
+      "children",
+      "mother",
+      "father"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Mother",
+    "taboo": [
+      "parent",
+      "woman",
+      "mom",
+      "birth",
+      "female"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Father",
+    "taboo": [
+      "parent",
+      "dad",
+      "man",
+      "father",
+      "paternal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Brother",
+    "taboo": [
+      "sibling",
+      "male",
+      "family",
+      "boy",
+      "related"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Baby",
+    "taboo": [
+      "infant",
+      "newborn",
+      "small",
+      "child",
+      "young"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Boy",
+    "taboo": [
+      "male",
+      "child",
+      "young",
+      "son",
+      "kid"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Girl",
+    "taboo": [
+      "female",
+      "child",
+      "young",
+      "daughter",
+      "woman"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Woman",
+    "taboo": [
+      "female",
+      "adult",
+      "lady",
+      "she",
+      "girl"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Man",
+    "taboo": [
+      "male",
+      "adult",
+      "guy",
+      "person",
+      "he"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Police",
+    "taboo": [
+      "law",
+      "officer",
+      "arrest",
+      "uniform",
+      "cop"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Room",
+    "taboo": [
+      "space",
+      "inside",
+      "walls",
+      "bedroom",
+      "house"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "World",
+    "taboo": [
+      "earth",
+      "planet",
+      "global",
+      "universe",
+      "people"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Job",
+    "taboo": [
+      "work",
+      "employment",
+      "career",
+      "task",
+      "position"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Morning",
+    "taboo": [
+      "sun",
+      "wake",
+      "dawn",
+      "breakfast",
+      "early"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Business",
+    "taboo": [
+      "company",
+      "work",
+      "money",
+      "trade",
+      "commercial"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Music",
+    "taboo": [
+      "song",
+      "listen",
+      "sound",
+      "instrument",
+      "play"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Party",
+    "taboo": [
+      "celebration",
+      "fun",
+      "people",
+      "dance",
+      "gather"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Game",
+    "taboo": [
+      "play",
+      "win",
+      "rules",
+      "fun",
+      "sport"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Food",
+    "taboo": [
+      "eat",
+      "delicious",
+      "hunger",
+      "meal",
+      "taste"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sleep",
+    "taboo": [
+      "bed",
+      "rest",
+      "night",
+      "tired",
+      "dream"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Town",
+    "taboo": [
+      "city",
+      "buildings",
+      "people",
+      "streets",
+      "village"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "War",
+    "taboo": [
+      "fight",
+      "battle",
+      "army",
+      "soldiers",
+      "conflict"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Gun",
+    "taboo": [
+      "weapon",
+      "shoot",
+      "bullet",
+      "dangerous",
+      "fire"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Team",
+    "taboo": [
+      "group",
+      "players",
+      "sport",
+      "together",
+      "win"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Story",
+    "taboo": [
+      "book",
+      "read",
+      "characters",
+      "plot",
+      "tell"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Week",
+    "taboo": [
+      "seven",
+      "days",
+      "Monday",
+      "time",
+      "work"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Number",
+    "taboo": [
+      "count",
+      "digit",
+      "math",
+      "amount",
+      "figure"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Light",
+    "taboo": [
+      "bright",
+      "sun",
+      "lamp",
+      "shine",
+      "dark"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Body",
+    "taboo": [
+      "person",
+      "physical",
+      "arms",
+      "legs",
+      "skin"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Line",
+    "taboo": [
+      "straight",
+      "queue",
+      "row",
+      "mark",
+      "point"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Captain",
+    "taboo": [
+      "leader",
+      "ship",
+      "crew",
+      "rank",
+      "commander"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Dinner",
+    "taboo": [
+      "meal",
+      "eat",
+      "food",
+      "evening",
+      "table"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Boss",
+    "taboo": [
+      "leader",
+      "work",
+      "employee",
+      "authority",
+      "manager"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Uncle",
+    "taboo": [
+      "family",
+      "relative",
+      "parent",
+      "father",
+      "man"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Earth",
+    "taboo": [
+      "planet",
+      "ground",
+      "soil",
+      "world",
+      "dirt"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Dream",
+    "taboo": [
+      "sleep",
+      "nightmare",
+      "goal",
+      "wish",
+      "night"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Song",
+    "taboo": [
+      "music",
+      "sing",
+      "lyrics",
+      "tune",
+      "melody"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Voice",
+    "taboo": [
+      "sound",
+      "speak",
+      "talk",
+      "hear",
+      "person"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Meeting",
+    "taboo": [
+      "gather",
+      "people",
+      "talk",
+      "discuss",
+      "group"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Law",
+    "taboo": [
+      "rule",
+      "court",
+      "legal",
+      "police",
+      "government"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "President",
+    "taboo": [
+      "leader",
+      "country",
+      "government",
+      "elect",
+      "politics"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Company",
+    "taboo": [
+      "business",
+      "work",
+      "people",
+      "corporation",
+      "group"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sign",
+    "taboo": [
+      "signal",
+      "symbol",
+      "read",
+      "written",
+      "show"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Land",
+    "taboo": [
+      "ground",
+      "earth",
+      "place",
+      "country",
+      "soil"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Question",
+    "taboo": [
+      "ask",
+      "answer",
+      "inquire",
+      "unknown",
+      "puzzle"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Piece",
+    "taboo": [
+      "part",
+      "bit",
+      "fragment",
+      "section",
+      "portion"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Building",
+    "taboo": [
+      "structure",
+      "house",
+      "construction",
+      "brick",
+      "roof"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Class",
+    "taboo": [
+      "school",
+      "students",
+      "teacher",
+      "lesson",
+      "education"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Movie",
+    "taboo": [
+      "film",
+      "watch",
+      "theater",
+      "screen",
+      "actor"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Clothes",
+    "taboo": [
+      "wear",
+      "shirt",
+      "pants",
+      "dress",
+      "fabric"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Gold",
+    "taboo": [
+      "metal",
+      "yellow",
+      "precious",
+      "jewelry",
+      "treasure"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Ball",
+    "taboo": [
+      "round",
+      "sports",
+      "throw",
+      "catch",
+      "play"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Key",
+    "taboo": [
+      "lock",
+      "door",
+      "open",
+      "metal",
+      "password"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sea",
+    "taboo": [
+      "ocean",
+      "water",
+      "fish",
+      "waves",
+      "salt"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Paper",
+    "taboo": [
+      "write",
+      "white",
+      "sheet",
+      "book",
+      "cardboard"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Box",
+    "taboo": [
+      "container",
+      "square",
+      "cardboard",
+      "package",
+      "open"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Ground",
+    "taboo": [
+      "earth",
+      "dirt",
+      "floor",
+      "land",
+      "soil"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Letter",
+    "taboo": [
+      "mail",
+      "envelope",
+      "write",
+      "alphabet",
+      "message"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bar",
+    "taboo": [
+      "drink",
+      "alcohol",
+      "counter",
+      "metal",
+      "tavern"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Test",
+    "taboo": [
+      "exam",
+      "quiz",
+      "question",
+      "pass",
+      "school"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Marriage",
+    "taboo": [
+      "wedding",
+      "husband",
+      "wife",
+      "love",
+      "spouse"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Government",
+    "taboo": [
+      "president",
+      "law",
+      "country",
+      "state",
+      "politics"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Crime",
+    "taboo": [
+      "police",
+      "arrest",
+      "illegal",
+      "criminal",
+      "law"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Army",
+    "taboo": [
+      "soldier",
+      "military",
+      "war",
+      "fight",
+      "uniform"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Group",
+    "taboo": [
+      "people",
+      "team",
+      "together",
+      "collection",
+      "gang"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Space",
+    "taboo": [
+      "room",
+      "area",
+      "astronaut",
+      "universe",
+      "empty"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Card",
+    "taboo": [
+      "game",
+      "deck",
+      "play",
+      "poker",
+      "suit"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Cell",
+    "taboo": [
+      "prison",
+      "jail",
+      "room",
+      "biology",
+      "phone"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Machine",
+    "taboo": [
+      "device",
+      "engine",
+      "mechanical",
+      "tool",
+      "robot"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Plane",
+    "taboo": [
+      "airplane",
+      "fly",
+      "aircraft",
+      "sky",
+      "wings"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "College",
+    "taboo": [
+      "university",
+      "school",
+      "education",
+      "students",
+      "degree"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Gift",
+    "taboo": [
+      "present",
+      "birthday",
+      "wrap",
+      "box",
+      "give"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Board",
+    "taboo": [
+      "wood",
+      "game",
+      "table",
+      "chess",
+      "platform"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Magic",
+    "taboo": [
+      "wizard",
+      "trick",
+      "spell",
+      "illusion",
+      "wand"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Partner",
+    "taboo": [
+      "team",
+      "couple",
+      "dance",
+      "business",
+      "friend"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Planet",
+    "taboo": [
+      "earth",
+      "space",
+      "orbit",
+      "star",
+      "world"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Field",
+    "taboo": [
+      "grass",
+      "farm",
+      "sports",
+      "area",
+      "meadow"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Aunt",
+    "taboo": [
+      "family",
+      "parent",
+      "sister",
+      "relative",
+      "uncle"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Patient",
+    "taboo": [
+      "doctor",
+      "hospital",
+      "sick",
+      "ill",
+      "medicine"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Scene",
+    "taboo": [
+      "movie",
+      "action",
+      "view",
+      "setting",
+      "sight"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Books",
+    "taboo": [
+      "read",
+      "pages",
+      "stories",
+      "library",
+      "words"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Mission",
+    "taboo": [
+      "objective",
+      "goal",
+      "task",
+      "assignment",
+      "purpose"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Heaven",
+    "taboo": [
+      "sky",
+      "afterlife",
+      "paradise",
+      "angels",
+      "God"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Race",
+    "taboo": [
+      "speed",
+      "competition",
+      "finish",
+      "running",
+      "fast"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Price",
+    "taboo": [
+      "cost",
+      "money",
+      "buy",
+      "expensive",
+      "dollars"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Battle",
+    "taboo": [
+      "war",
+      "fight",
+      "soldiers",
+      "weapons",
+      "enemy"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Enemy",
+    "taboo": [
+      "opponent",
+      "villain",
+      "foe",
+      "fight",
+      "hate"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Hero",
+    "taboo": [
+      "brave",
+      "courage",
+      "save",
+      "villain",
+      "superhero"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Stage",
+    "taboo": [
+      "performance",
+      "theater",
+      "actors",
+      "audience",
+      "platform"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bell",
+    "taboo": [
+      "ring",
+      "sound",
+      "church",
+      "school",
+      "alarm"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Weapon",
+    "taboo": [
+      "gun",
+      "fight",
+      "war",
+      "kill",
+      "sword"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sky",
+    "taboo": [
+      "clouds",
+      "blue",
+      "stars",
+      "above",
+      "weather"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Engine",
+    "taboo": [
+      "car",
+      "motor",
+      "power",
+      "mechanical",
+      "fuel"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Breakfast",
+    "taboo": [
+      "morning",
+      "food",
+      "eat",
+      "eggs",
+      "meal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bomb",
+    "taboo": [
+      "explosion",
+      "weapon",
+      "blast",
+      "dangerous",
+      "destroy"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bottle",
+    "taboo": [
+      "drink",
+      "glass",
+      "container",
+      "liquid",
+      "cap"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Dogs",
+    "taboo": [
+      "pets",
+      "bark",
+      "animal",
+      "furry",
+      "loyal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Animals",
+    "taboo": [
+      "creatures",
+      "wild",
+      "pets",
+      "zoo",
+      "nature"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Band",
+    "taboo": [
+      "music",
+      "musicians",
+      "instruments",
+      "rock",
+      "songs"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Camp",
+    "taboo": [
+      "tent",
+      "fire",
+      "outdoor",
+      "sleeping",
+      "wilderness"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Flowers",
+    "taboo": [
+      "petals",
+      "plants",
+      "roses",
+      "garden",
+      "blooms"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Beauty",
+    "taboo": [
+      "pretty",
+      "attractive",
+      "gorgeous",
+      "appearance",
+      "handsome"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Driver",
+    "taboo": [
+      "car",
+      "wheel",
+      "steering",
+      "license",
+      "taxi"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Stone",
+    "taboo": [
+      "rock",
+      "hard",
+      "throw",
+      "cold",
+      "marble"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Weekend",
+    "taboo": [
+      "Saturday",
+      "Sunday",
+      "rest",
+      "days",
+      "Friday"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sweetheart",
+    "taboo": [
+      "love",
+      "romance",
+      "partner",
+      "candy",
+      "dear"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Cook",
+    "taboo": [
+      "chef",
+      "kitchen",
+      "food",
+      "cooking",
+      "prepare"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Hall",
+    "taboo": [
+      "room",
+      "corridor",
+      "building",
+      "entrance",
+      "passage"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Lights",
+    "taboo": [
+      "lamp",
+      "bright",
+      "electricity",
+      "bulb",
+      "shine"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Stars",
+    "taboo": [
+      "space",
+      "night",
+      "twinkle",
+      "sky",
+      "celestial"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Ghost",
+    "taboo": [
+      "spirit",
+      "haunted",
+      "invisible",
+      "spooky",
+      "paranormal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Angel",
+    "taboo": [
+      "wings",
+      "heaven",
+      "holy",
+      "divine",
+      "halo"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Monster",
+    "taboo": [
+      "scary",
+      "creature",
+      "evil",
+      "beast",
+      "horror"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Games",
+    "taboo": [
+      "play",
+      "fun",
+      "rules",
+      "win",
+      "sport"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Photo",
+    "taboo": [
+      "picture",
+      "camera",
+      "image",
+      "snapshot",
+      "print"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Princess",
+    "taboo": [
+      "royal",
+      "crown",
+      "tiara",
+      "palace",
+      "queen"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Grandma",
+    "taboo": [
+      "grandmother",
+      "elderly",
+      "old",
+      "family",
+      "cookies"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Leader",
+    "taboo": [
+      "boss",
+      "chief",
+      "captain",
+      "president",
+      "command"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Freedom",
+    "taboo": [
+      "liberty",
+      "rights",
+      "independence",
+      "free",
+      "choice"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Soldiers",
+    "taboo": [
+      "army",
+      "military",
+      "war",
+      "uniform",
+      "fight"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Science",
+    "taboo": [
+      "experiment",
+      "laboratory",
+      "chemistry",
+      "physics",
+      "research"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Travel",
+    "taboo": [
+      "journey",
+      "trip",
+      "vacation",
+      "explore",
+      "destination"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Trick",
+    "taboo": [
+      "illusion",
+      "magic",
+      "deceive",
+      "sleight",
+      "illusion"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Training",
+    "taboo": [
+      "exercise",
+      "practice",
+      "teach",
+      "coaching",
+      "preparation"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Criminal",
+    "taboo": [
+      "crime",
+      "prison",
+      "illegal",
+      "guilty",
+      "law"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Target",
+    "taboo": [
+      "goal",
+      "aim",
+      "bullseye",
+      "objective",
+      "hit"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Records",
+    "taboo": [
+      "documents",
+      "data",
+      "files",
+      "history",
+      "archive"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sheriff",
+    "taboo": [
+      "police",
+      "law",
+      "officer",
+      "western",
+      "badge"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Audience",
+    "taboo": [
+      "crowd",
+      "spectators",
+      "watchers",
+      "people",
+      "theater"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Guest",
+    "taboo": [
+      "visitor",
+      "host",
+      "invite",
+      "party",
+      "arrive"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Lab",
+    "taboo": [
+      "laboratory",
+      "science",
+      "experiment",
+      "test",
+      "scientist"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Proof",
+    "taboo": [
+      "evidence",
+      "verify",
+      "confirm",
+      "test",
+      "demonstrate"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sword",
+    "taboo": [
+      "weapon",
+      "blade",
+      "knight",
+      "fight",
+      "medieval"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Birds",
+    "taboo": [
+      "feathers",
+      "wings",
+      "fly",
+      "sky",
+      "animal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Universe",
+    "taboo": [
+      "space",
+      "stars",
+      "cosmos",
+      "galaxy",
+      "planets"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Interview",
+    "taboo": [
+      "question",
+      "job",
+      "answer",
+      "meeting",
+      "employer"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Surgery",
+    "taboo": [
+      "doctor",
+      "hospital",
+      "operation",
+      "knife",
+      "patient"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Horses",
+    "taboo": [
+      "animal",
+      "ride",
+      "saddle",
+      "gallop",
+      "stable"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Mayor",
+    "taboo": [
+      "city",
+      "government",
+      "leader",
+      "election",
+      "politician"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Staff",
+    "taboo": [
+      "employees",
+      "work",
+      "team",
+      "office",
+      "stick"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Gentleman",
+    "taboo": [
+      "man",
+      "polite",
+      "formal",
+      "suit",
+      "respectful"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Alarm",
+    "taboo": [
+      "clock",
+      "wake",
+      "sound",
+      "ring",
+      "warning"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Medicine",
+    "taboo": [
+      "doctor",
+      "pill",
+      "cure",
+      "health",
+      "disease"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Weather",
+    "taboo": [
+      "rain",
+      "sun",
+      "temperature",
+      "forecast",
+      "climate"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Journey",
+    "taboo": [
+      "travel",
+      "trip",
+      "destination",
+      "adventure",
+      "distance"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Community",
+    "taboo": [
+      "people",
+      "neighborhood",
+      "group",
+      "together",
+      "town"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Artist",
+    "taboo": [
+      "paint",
+      "draw",
+      "creative",
+      "canvas",
+      "gallery"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Ticket",
+    "taboo": [
+      "movie",
+      "show",
+      "admission",
+      "concert",
+      "price"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bike",
+    "taboo": [
+      "bicycle",
+      "pedal",
+      "wheels",
+      "ride",
+      "chain"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Doctors",
+    "taboo": [
+      "hospital",
+      "medicine",
+      "patient",
+      "health",
+      "nurse"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Trees",
+    "taboo": [
+      "forest",
+      "leaves",
+      "branches",
+      "wood",
+      "nature"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Gate",
+    "taboo": [
+      "fence",
+      "door",
+      "entrance",
+      "barrier",
+      "open"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Square",
+    "taboo": [
+      "shape",
+      "four",
+      "sides",
+      "geometry",
+      "plaza"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Grandfather",
+    "taboo": [
+      "elderly",
+      "man",
+      "relative",
+      "clock",
+      "old"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Europe",
+    "taboo": [
+      "continent",
+      "countries",
+      "countries",
+      "France",
+      "geography"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Genius",
+    "taboo": [
+      "smart",
+      "intelligent",
+      "brilliant",
+      "mind",
+      "Einstein"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Thief",
+    "taboo": [
+      "steal",
+      "criminal",
+      "robbery",
+      "burglar",
+      "crime"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Tour",
+    "taboo": [
+      "travel",
+      "guide",
+      "visit",
+      "trip",
+      "sightseeing"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Fortune",
+    "taboo": [
+      "luck",
+      "money",
+      "wealth",
+      "fate",
+      "destiny"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Silver",
+    "taboo": [
+      "metal",
+      "color",
+      "shiny",
+      "gray",
+      "precious"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Priest",
+    "taboo": [
+      "religion",
+      "church",
+      "clergy",
+      "holy",
+      "minister"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Competition",
+    "taboo": [
+      "contest",
+      "race",
+      "winner",
+      "rival",
+      "game"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Giant",
+    "taboo": [
+      "tall",
+      "large",
+      "huge",
+      "big",
+      "creature"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Plant",
+    "taboo": [
+      "flower",
+      "green",
+      "nature",
+      "garden",
+      "leaves"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Woods",
+    "taboo": [
+      "forest",
+      "trees",
+      "nature",
+      "hiking",
+      "outdoor"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Meal",
+    "taboo": [
+      "food",
+      "eat",
+      "dinner",
+      "lunch",
+      "eating"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Poison",
+    "taboo": [
+      "toxic",
+      "deadly",
+      "venom",
+      "kill",
+      "dangerous"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Babies",
+    "taboo": [
+      "infants",
+      "newborns",
+      "children",
+      "cry",
+      "diapers"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Yellow",
+    "taboo": [
+      "color",
+      "lemon",
+      "sun",
+      "bright",
+      "gold"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Mystery",
+    "taboo": [
+      "secret",
+      "unknown",
+      "puzzle",
+      "unsolved",
+      "clue"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Traffic",
+    "taboo": [
+      "cars",
+      "road",
+      "congestion",
+      "driving",
+      "jam"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Courage",
+    "taboo": [
+      "brave",
+      "fearless",
+      "bold",
+      "bravery",
+      "strength"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Rat",
+    "taboo": [
+      "rodent",
+      "mouse",
+      "whiskers",
+      "tail",
+      "cheese"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Disease",
+    "taboo": [
+      "sick",
+      "illness",
+      "infection",
+      "virus",
+      "health"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Winner",
+    "taboo": [
+      "champion",
+      "victory",
+      "first",
+      "prize",
+      "success"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Shopping",
+    "taboo": [
+      "store",
+      "buying",
+      "mall",
+      "purchase",
+      "cart"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Grandmother",
+    "taboo": [
+      "grandma",
+      "elderly",
+      "woman",
+      "family",
+      "old"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Lips",
+    "taboo": [
+      "mouth",
+      "kiss",
+      "face",
+      "red",
+      "speak"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Midnight",
+    "taboo": [
+      "night",
+      "12am",
+      "dark",
+      "time",
+      "twelve"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Treasure",
+    "taboo": [
+      "gold",
+      "valuable",
+      "hidden",
+      "pirate",
+      "gems"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Rescue",
+    "taboo": [
+      "save",
+      "help",
+      "danger",
+      "emergency",
+      "escape"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Holiday",
+    "taboo": [
+      "vacation",
+      "celebration",
+      "festival",
+      "break",
+      "Christmas"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Vehicle",
+    "taboo": [
+      "car",
+      "transportation",
+      "drive",
+      "wheels",
+      "automobile"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Friendship",
+    "taboo": [
+      "friend",
+      "close",
+      "bond",
+      "relationship",
+      "loyal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bride",
+    "taboo": [
+      "wedding",
+      "groom",
+      "marriage",
+      "white",
+      "dress"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Dragon",
+    "taboo": [
+      "fire",
+      "wings",
+      "fantasy",
+      "beast",
+      "treasure"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Witch",
+    "taboo": [
+      "magic",
+      "spell",
+      "broomstick",
+      "potion",
+      "halloween"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Champagne",
+    "taboo": [
+      "wine",
+      "celebration",
+      "bubbles",
+      "french",
+      "bottle"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Africa",
+    "taboo": [
+      "continent",
+      "safari",
+      "animals",
+      "countries",
+      "lions"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Germany",
+    "taboo": [
+      "country",
+      "europe",
+      "berlin",
+      "beer",
+      "bratwurst"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Japan",
+    "taboo": [
+      "country",
+      "asia",
+      "tokyo",
+      "sushi",
+      "anime"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "California",
+    "taboo": [
+      "state",
+      "angeles",
+      "coast",
+      "gold",
+      "beaches"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Chicago",
+    "taboo": [
+      "city",
+      "illinois",
+      "lake",
+      "deep",
+      "windy"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Coast",
+    "taboo": [
+      "ocean",
+      "beach",
+      "shore",
+      "water",
+      "sand"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Intelligence",
+    "taboo": [
+      "smart",
+      "brain",
+      "iq",
+      "clever",
+      "wisdom"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Technology",
+    "taboo": [
+      "computers",
+      "innovation",
+      "gadgets",
+      "digital",
+      "science"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Dust",
+    "taboo": [
+      "particles",
+      "dirty",
+      "cleaning",
+      "air",
+      "powder"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Wheel",
+    "taboo": [
+      "tire",
+      "round",
+      "car",
+      "spin",
+      "bike"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Cigarette",
+    "taboo": [
+      "smoking",
+      "tobacco",
+      "cancer",
+      "stick",
+      "nicotine"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Fruit",
+    "taboo": [
+      "apple",
+      "healthy",
+      "sweet",
+      "food",
+      "plant"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Youth",
+    "taboo": [
+      "young",
+      "teenager",
+      "age",
+      "children",
+      "kids"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Creature",
+    "taboo": [
+      "animal",
+      "being",
+      "monster",
+      "beast",
+      "thing"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Darkness",
+    "taboo": [
+      "light",
+      "black",
+      "night",
+      "shadow",
+      "evil"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Rooms",
+    "taboo": [
+      "house",
+      "space",
+      "doors",
+      "walls",
+      "furniture"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Equipment",
+    "taboo": [
+      "tools",
+      "gear",
+      "supplies",
+      "machines",
+      "devices"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Zone",
+    "taboo": [
+      "area",
+      "region",
+      "place",
+      "section",
+      "district"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Emperor",
+    "taboo": [
+      "ruler",
+      "palace",
+      "throne",
+      "king",
+      "royal"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Mexico",
+    "taboo": [
+      "country",
+      "Spanish",
+      "america",
+      "tacos",
+      "border"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Spy",
+    "taboo": [
+      "secret",
+      "agent",
+      "undercover",
+      "mission",
+      "james"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Kingdom",
+    "taboo": [
+      "royalty",
+      "throne",
+      "king",
+      "country",
+      "realm"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Squad",
+    "taboo": [
+      "team",
+      "group",
+      "friends",
+      "police",
+      "together"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Wave",
+    "taboo": [
+      "ocean",
+      "water",
+      "hand",
+      "surfer",
+      "hello"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Bull",
+    "taboo": [
+      "horns",
+      "animal",
+      "cow",
+      "rodeo",
+      "charge"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Chain",
+    "taboo": [
+      "links",
+      "metal",
+      "connected",
+      "prisoner",
+      "jewelry"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Tank",
+    "taboo": [
+      "military",
+      "vehicle",
+      "water",
+      "army",
+      "gun"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Wire",
+    "taboo": [
+      "metal",
+      "electric",
+      "cable",
+      "fence",
+      "connected"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Wings",
+    "taboo": [
+      "bird",
+      "chicken",
+      "fly",
+      "angel",
+      "airplane"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Circle",
+    "taboo": [
+      "round",
+      "shape",
+      "geometry",
+      "ring",
+      "degrees"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Education",
+    "taboo": [
+      "school",
+      "learning",
+      "teacher",
+      "student",
+      "college"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Tail",
+    "taboo": [
+      "dog",
+      "animal",
+      "end",
+      "cat",
+      "follow"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Border",
+    "taboo": [
+      "country",
+      "edge",
+      "mexico",
+      "line",
+      "fence"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Ships",
+    "taboo": [
+      "ocean",
+      "boat",
+      "sail",
+      "water",
+      "navy"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Fashion",
+    "taboo": [
+      "clothes",
+      "style",
+      "designer",
+      "runway",
+      "trend"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Sports",
+    "taboo": [
+      "game",
+      "athlete",
+      "compete",
+      "exercise",
+      "ball"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Prize",
+    "taboo": [
+      "award",
+      "winner",
+      "contest",
+      "trophy",
+      "reward"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Agency",
+    "taboo": [
+      "office",
+      "government",
+      "business",
+      "company",
+      "fbi"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Garbage",
+    "taboo": [
+      "trash",
+      "waste",
+      "trash",
+      "rubbish",
+      "dump"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Doll",
+    "taboo": [
+      "toy",
+      "action",
+      "plastic",
+      "children",
+      "play"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Task",
+    "taboo": [
+      "job",
+      "work",
+      "assignment",
+      "chore",
+      "do"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Disaster",
+    "taboo": [
+      "catastrophe",
+      "emergency",
+      "bad",
+      "accident",
+      "crisis"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Childhood",
+    "taboo": [
+      "young",
+      "kid",
+      "age",
+      "growing",
+      "school"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Crown",
+    "taboo": [
+      "king",
+      "queen",
+      "royal",
+      "tiara",
+      "head"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "District",
+    "taboo": [
+      "area",
+      "region",
+      "city",
+      "neighborhood",
+      "zone"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "word": "Guitar",
+    "taboo": [
+      "strings",
+      "instrument",
+      "music",
+      "chords",
+      "pick"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Whistle",
+    "taboo": [
+      "blow",
+      "sound",
+      "breath",
+      "tune",
+      "referee"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Capital",
+    "taboo": [
+      "city",
+      "money",
+      "government",
+      "main",
+      "wealth"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Mask",
+    "taboo": [
+      "face",
+      "hide",
+      "costume",
+      "disguise",
+      "cover"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Loan",
+    "taboo": [
+      "borrow",
+      "money",
+      "bank",
+      "debt",
+      "interest"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dish",
+    "taboo": [
+      "plate",
+      "food",
+      "meal",
+      "bowl",
+      "serve"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Channel",
+    "taboo": [
+      "television",
+      "water",
+      "broadcast",
+      "stream",
+      "station"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Title",
+    "taboo": [
+      "name",
+      "book",
+      "movie",
+      "heading",
+      "champion"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Flag",
+    "taboo": [
+      "country",
+      "banner",
+      "colors",
+      "pole",
+      "patriotic"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Balance",
+    "taboo": [
+      "scale",
+      "weight",
+      "equilibrium",
+      "steady",
+      "stability"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Collection",
+    "taboo": [
+      "gather",
+      "group",
+      "items",
+      "museum",
+      "accumulate"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Package",
+    "taboo": [
+      "box",
+      "mail",
+      "deliver",
+      "wrap",
+      "bundle"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Navy",
+    "taboo": [
+      "military",
+      "ocean",
+      "ships",
+      "blue",
+      "sailors"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Option",
+    "taboo": [
+      "choice",
+      "pick",
+      "alternative",
+      "select",
+      "possibility"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trail",
+    "taboo": [
+      "path",
+      "follow",
+      "hiking",
+      "track",
+      "woods"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Siren",
+    "taboo": [
+      "sound",
+      "alarm",
+      "emergency",
+      "police",
+      "warning"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dollar",
+    "taboo": [
+      "money",
+      "currency",
+      "America",
+      "cash",
+      "bill"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Concert",
+    "taboo": [
+      "music",
+      "live",
+      "performance",
+      "stage",
+      "audience"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Diamond",
+    "taboo": [
+      "gem",
+      "ring",
+      "precious",
+      "sparkle",
+      "engagement"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "League",
+    "taboo": [
+      "sports",
+      "teams",
+      "competition",
+      "association",
+      "players"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Entrance",
+    "taboo": [
+      "door",
+      "enter",
+      "opening",
+      "way",
+      "entry"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Champion",
+    "taboo": [
+      "winner",
+      "victory",
+      "best",
+      "title",
+      "first"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Legend",
+    "taboo": [
+      "famous",
+      "myth",
+      "story",
+      "hero",
+      "folklore"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wing",
+    "taboo": [
+      "fly",
+      "bird",
+      "airplane",
+      "feather",
+      "side"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gear",
+    "taboo": [
+      "equipment",
+      "clothes",
+      "tools",
+      "machinery",
+      "supplies"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Steel",
+    "taboo": [
+      "metal",
+      "strong",
+      "iron",
+      "silver",
+      "hard"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bible",
+    "taboo": [
+      "holy",
+      "scripture",
+      "religious",
+      "Christian",
+      "sacred"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bond",
+    "taboo": [
+      "connection",
+      "relationship",
+      "tie",
+      "James",
+      "adhesive"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Brand",
+    "taboo": [
+      "company",
+      "logo",
+      "trademark",
+      "product",
+      "name"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Toy",
+    "taboo": [
+      "play",
+      "children",
+      "game",
+      "doll",
+      "fun"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Exit",
+    "taboo": [
+      "leave",
+      "door",
+      "way",
+      "emergency",
+      "escape"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Vampire",
+    "taboo": [
+      "blood",
+      "undead",
+      "night",
+      "coffin",
+      "dracula"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Routine",
+    "taboo": [
+      "daily",
+      "habit",
+      "schedule",
+      "normal",
+      "regular"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trigger",
+    "taboo": [
+      "gun",
+      "pull",
+      "weapon",
+      "shoot",
+      "cause"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cage",
+    "taboo": [
+      "animal",
+      "prison",
+      "bars",
+      "locked",
+      "confined"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pattern",
+    "taboo": [
+      "design",
+      "repeat",
+      "shape",
+      "color",
+      "fabric"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Costume",
+    "taboo": [
+      "dress",
+      "halloween",
+      "character",
+      "outfit",
+      "disguise"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Spirits",
+    "taboo": [
+      "alcohol",
+      "ghosts",
+      "drink",
+      "supernatural",
+      "liquor"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Banks",
+    "taboo": [
+      "money",
+      "river",
+      "financial",
+      "account",
+      "vault"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tribe",
+    "taboo": [
+      "native",
+      "group",
+      "indigenous",
+      "community",
+      "people"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Stakes",
+    "taboo": [
+      "wood",
+      "vampire",
+      "risk",
+      "pointed",
+      "gamble"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Machines",
+    "taboo": [
+      "mechanical",
+      "electricity",
+      "work",
+      "engine",
+      "device"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cigarettes",
+    "taboo": [
+      "smoking",
+      "tobacco",
+      "nicotine",
+      "pack",
+      "lung"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tradition",
+    "taboo": [
+      "custom",
+      "practice",
+      "ritual",
+      "heritage",
+      "passed"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bishop",
+    "taboo": [
+      "chess",
+      "clergy",
+      "priest",
+      "church",
+      "religious"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Territory",
+    "taboo": [
+      "land",
+      "area",
+      "region",
+      "claimed",
+      "boundaries"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Adventure",
+    "taboo": [
+      "journey",
+      "exciting",
+      "exploration",
+      "quest",
+      "danger"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Atmosphere",
+    "taboo": [
+      "air",
+      "sky",
+      "mood",
+      "earth",
+      "gas"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Boxes",
+    "taboo": [
+      "containers",
+      "cardboard",
+      "square",
+      "storage",
+      "package"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pipe",
+    "taboo": [
+      "smoking",
+      "tube",
+      "water",
+      "metal",
+      "plumbing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Circus",
+    "taboo": [
+      "clown",
+      "tent",
+      "acrobat",
+      "performance",
+      "animals"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Diamonds",
+    "taboo": [
+      "gems",
+      "sparkle",
+      "expensive",
+      "engagement",
+      "cards"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Fairy",
+    "taboo": [
+      "magical",
+      "wings",
+      "tiny",
+      "wand",
+      "fantasy"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Habit",
+    "taboo": [
+      "routine",
+      "addiction",
+      "repeated",
+      "behavior",
+      "pattern"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Knight",
+    "taboo": [
+      "chess",
+      "armor",
+      "medieval",
+      "sword",
+      "horse"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Monk",
+    "taboo": [
+      "religious",
+      "monastery",
+      "prayer",
+      "robes",
+      "vow"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Shelter",
+    "taboo": [
+      "protection",
+      "safe",
+      "building",
+      "refuge",
+      "roof"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tattoo",
+    "taboo": [
+      "ink",
+      "permanent",
+      "skin",
+      "design",
+      "needle"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Homicide",
+    "taboo": [
+      "murder",
+      "killing",
+      "death",
+      "crime",
+      "victim"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Photograph",
+    "taboo": [
+      "picture",
+      "camera",
+      "image",
+      "photo",
+      "film"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pitch",
+    "taboo": [
+      "baseball",
+      "throw",
+      "dark",
+      "tar",
+      "presentation"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Noon",
+    "taboo": [
+      "twelve",
+      "midday",
+      "lunch",
+      "afternoon",
+      "sun"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dishes",
+    "taboo": [
+      "plates",
+      "clean",
+      "kitchen",
+      "wash",
+      "food"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Charm",
+    "taboo": [
+      "attractive",
+      "appeal",
+      "magic",
+      "spell",
+      "bracelet"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Clouds",
+    "taboo": [
+      "sky",
+      "fluffy",
+      "rain",
+      "white",
+      "weather"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Citizen",
+    "taboo": [
+      "country",
+      "person",
+      "resident",
+      "nation",
+      "passport"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Corpse",
+    "taboo": [
+      "dead",
+      "body",
+      "death",
+      "coffin",
+      "burial"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wheels",
+    "taboo": [
+      "car",
+      "round",
+      "tire",
+      "spin",
+      "vehicle"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Furniture",
+    "taboo": [
+      "chair",
+      "table",
+      "couch",
+      "house",
+      "room"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Romance",
+    "taboo": [
+      "love",
+      "couple",
+      "relationship",
+      "dating",
+      "passion"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bottles",
+    "taboo": [
+      "glass",
+      "drink",
+      "container",
+      "wine",
+      "plastic"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gambling",
+    "taboo": [
+      "betting",
+      "casino",
+      "cards",
+      "money",
+      "risk"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Oxygen",
+    "taboo": [
+      "breathing",
+      "air",
+      "element",
+      "gas",
+      "lungs"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Theatre",
+    "taboo": [
+      "play",
+      "stage",
+      "actors",
+      "performance",
+      "audience"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pigs",
+    "taboo": [
+      "animals",
+      "farm",
+      "bacon",
+      "mud",
+      "dirty"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Junk",
+    "taboo": [
+      "trash",
+      "garbage",
+      "waste",
+      "useless",
+      "old"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Blocks",
+    "taboo": [
+      "toys",
+      "building",
+      "cubes",
+      "children",
+      "Lego"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Matches",
+    "taboo": [
+      "fire",
+      "stick",
+      "light",
+      "burn",
+      "sulfur"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Supplies",
+    "taboo": [
+      "materials",
+      "stock",
+      "goods",
+      "store",
+      "inventory"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Powder",
+    "taboo": [
+      "dust",
+      "fine",
+      "white",
+      "makeup",
+      "talc"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Fort",
+    "taboo": [
+      "castle",
+      "fortress",
+      "military",
+      "stronghold",
+      "defense"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Alley",
+    "taboo": [
+      "narrow",
+      "street",
+      "urban",
+      "passage",
+      "between"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Supper",
+    "taboo": [
+      "meal",
+      "dinner",
+      "evening",
+      "eat",
+      "food"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pole",
+    "taboo": [
+      "stick",
+      "rod",
+      "North",
+      "South",
+      "magnet"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Novel",
+    "taboo": [
+      "book",
+      "story",
+      "fiction",
+      "read",
+      "pages"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Locker",
+    "taboo": [
+      "gym",
+      "school",
+      "storage",
+      "lock",
+      "metal"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Twins",
+    "taboo": [
+      "two",
+      "siblings",
+      "identical",
+      "pair",
+      "babies"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "String",
+    "taboo": [
+      "rope",
+      "cord",
+      "thread",
+      "tied",
+      "thin"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Granny",
+    "taboo": [
+      "grandmother",
+      "elderly",
+      "old",
+      "woman",
+      "aged"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Nerves",
+    "taboo": [
+      "anxiety",
+      "nervous",
+      "fear",
+      "tension",
+      "stress"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wealth",
+    "taboo": [
+      "money",
+      "rich",
+      "fortune",
+      "assets",
+      "prosperity"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Shoulders",
+    "taboo": [
+      "body",
+      "arms",
+      "neck",
+      "upper",
+      "joint"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tap",
+    "taboo": [
+      "water",
+      "faucet",
+      "sink",
+      "spigot",
+      "drain"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Hostage",
+    "taboo": [
+      "captured",
+      "prisoner",
+      "kidnapped",
+      "ransom",
+      "held"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Shore",
+    "taboo": [
+      "beach",
+      "ocean",
+      "coast",
+      "sand",
+      "water"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Honeymoon",
+    "taboo": [
+      "newlyweds",
+      "wedding",
+      "vacation",
+      "romance",
+      "couple"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Fraud",
+    "taboo": [
+      "scam",
+      "fake",
+      "deception",
+      "crime",
+      "illegal"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Testimony",
+    "taboo": [
+      "witness",
+      "court",
+      "evidence",
+      "swear",
+      "trial"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Commission",
+    "taboo": [
+      "fee",
+      "payment",
+      "percentage",
+      "earning",
+      "sale"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Colleague",
+    "taboo": [
+      "coworker",
+      "office",
+      "job",
+      "work",
+      "employee"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Throne",
+    "taboo": [
+      "king",
+      "queen",
+      "royal",
+      "palace",
+      "rule"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Statue",
+    "taboo": [
+      "monument",
+      "sculpture",
+      "stone",
+      "bronze",
+      "carved"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Motor",
+    "taboo": [
+      "engine",
+      "car",
+      "power",
+      "mechanical",
+      "electric"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Motel",
+    "taboo": [
+      "hotel",
+      "room",
+      "lodging",
+      "night",
+      "stay"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Poetry",
+    "taboo": [
+      "poems",
+      "verses",
+      "rhyme",
+      "literature",
+      "words"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Rifle",
+    "taboo": [
+      "gun",
+      "weapon",
+      "shoot",
+      "hunting",
+      "firearm"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Badge",
+    "taboo": [
+      "police",
+      "officer",
+      "medal",
+      "pin",
+      "identification"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Foundation",
+    "taboo": [
+      "base",
+      "building",
+      "organization",
+      "support",
+      "charity"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Labor",
+    "taboo": [
+      "work",
+      "job",
+      "childbirth",
+      "effort",
+      "worker"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Log",
+    "taboo": [
+      "wood",
+      "tree",
+      "record",
+      "fire",
+      "cabin"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Poem",
+    "taboo": [
+      "poetry",
+      "verse",
+      "rhyme",
+      "stanza",
+      "literature"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Jersey",
+    "taboo": [
+      "shirt",
+      "sports",
+      "number",
+      "uniform",
+      "team"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Privacy",
+    "taboo": [
+      "secret",
+      "alone",
+      "personal",
+      "hidden",
+      "private"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Chapter",
+    "taboo": [
+      "book",
+      "section",
+      "page",
+      "story",
+      "division"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wisdom",
+    "taboo": [
+      "knowledge",
+      "smart",
+      "advice",
+      "sage",
+      "intelligence"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Combat",
+    "taboo": [
+      "fight",
+      "battle",
+      "war",
+      "soldier",
+      "enemy"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Proposal",
+    "taboo": [
+      "marriage",
+      "engagement",
+      "ring",
+      "ask",
+      "suggest"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Coin",
+    "taboo": [
+      "money",
+      "metal",
+      "currency",
+      "penny",
+      "flip"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Palm",
+    "taboo": [
+      "hand",
+      "tree",
+      "beach",
+      "coconut",
+      "tropical"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Nest",
+    "taboo": [
+      "bird",
+      "eggs",
+      "home",
+      "tree",
+      "feathers"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Blessing",
+    "taboo": [
+      "prayer",
+      "thankful",
+      "good",
+      "gift",
+      "fortunate"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Booze",
+    "taboo": [
+      "alcohol",
+      "drink",
+      "beer",
+      "wine",
+      "drunk"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Marine",
+    "taboo": [
+      "ocean",
+      "soldier",
+      "sea",
+      "water",
+      "navy"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Illness",
+    "taboo": [
+      "sick",
+      "disease",
+      "health",
+      "doctor",
+      "symptom"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Chemical",
+    "taboo": [
+      "science",
+      "substance",
+      "element",
+      "reaction",
+      "lab"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Fleet",
+    "taboo": [
+      "ships",
+      "navy",
+      "boats",
+      "group",
+      "fast"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Roses",
+    "taboo": [
+      "flowers",
+      "red",
+      "thorns",
+      "petals",
+      "romance"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Computers",
+    "taboo": [
+      "keyboard",
+      "screen",
+      "software",
+      "internet",
+      "typing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Needle",
+    "taboo": [
+      "thread",
+      "sewing",
+      "sharp",
+      "injection",
+      "pine"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Paintings",
+    "taboo": [
+      "canvas",
+      "artist",
+      "brush",
+      "masterpiece",
+      "gallery"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Entertainment",
+    "taboo": [
+      "fun",
+      "movies",
+      "games",
+      "music",
+      "enjoyment"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bunny",
+    "taboo": [
+      "rabbit",
+      "ears",
+      "fluffy",
+      "hoppy",
+      "easter"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cellphone",
+    "taboo": [
+      "mobile",
+      "call",
+      "text",
+      "screen",
+      "device"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Menu",
+    "taboo": [
+      "restaurant",
+      "food",
+      "choices",
+      "order",
+      "dishes"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Diary",
+    "taboo": [
+      "journal",
+      "secrets",
+      "personal",
+      "writing",
+      "entries"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Ranch",
+    "taboo": [
+      "farm",
+      "horses",
+      "western",
+      "cattle",
+      "dressing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sheet",
+    "taboo": [
+      "bed",
+      "fabric",
+      "white",
+      "blanket",
+      "cotton"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Boats",
+    "taboo": [
+      "water",
+      "sailing",
+      "ocean",
+      "vessel",
+      "row"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pearl",
+    "taboo": [
+      "oyster",
+      "gem",
+      "white",
+      "jewel",
+      "ocean"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Boot",
+    "taboo": [
+      "shoe",
+      "foot",
+      "leather",
+      "lace",
+      "kick"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cattle",
+    "taboo": [
+      "cows",
+      "herd",
+      "beef",
+      "farm",
+      "animals"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Celebration",
+    "taboo": [
+      "party",
+      "festive",
+      "cake",
+      "balloons",
+      "fun"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Combination",
+    "taboo": [
+      "lock",
+      "mix",
+      "code",
+      "blend",
+      "together"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cart",
+    "taboo": [
+      "wheels",
+      "push",
+      "vehicle",
+      "basket",
+      "shop"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Nap",
+    "taboo": [
+      "sleep",
+      "rest",
+      "short",
+      "tired",
+      "afternoon"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Nanny",
+    "taboo": [
+      "childcare",
+      "babysitter",
+      "children",
+      "caregiver",
+      "governess"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Jewelry",
+    "taboo": [
+      "gold",
+      "gems",
+      "rings",
+      "diamond",
+      "accessories"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Groom",
+    "taboo": [
+      "wedding",
+      "bride",
+      "horse",
+      "care",
+      "bridegroom"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Lighter",
+    "taboo": [
+      "fire",
+      "flame",
+      "cigarette",
+      "spark",
+      "flick"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Alliance",
+    "taboo": [
+      "partnership",
+      "team",
+      "agreement",
+      "unite",
+      "league"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gossip",
+    "taboo": [
+      "rumors",
+      "talk",
+      "secrets",
+      "scandal",
+      "spread"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Scandal",
+    "taboo": [
+      "shame",
+      "outrage",
+      "embarrassment",
+      "disgrace",
+      "controversy"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Shield",
+    "taboo": [
+      "protection",
+      "defense",
+      "warrior",
+      "armor",
+      "guard"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Coffin",
+    "taboo": [
+      "casket",
+      "dead",
+      "burial",
+      "grave",
+      "wood"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Puppy",
+    "taboo": [
+      "dog",
+      "young",
+      "cute",
+      "pet",
+      "barks"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Mob",
+    "taboo": [
+      "crowd",
+      "gang",
+      "violent",
+      "group",
+      "riot"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cotton",
+    "taboo": [
+      "fabric",
+      "white",
+      "soft",
+      "plant",
+      "clothing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Deposit",
+    "taboo": [
+      "bank",
+      "money",
+      "save",
+      "payment",
+      "layer"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Oath",
+    "taboo": [
+      "promise",
+      "swear",
+      "vow",
+      "legal",
+      "court"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Arrow",
+    "taboo": [
+      "bow",
+      "pointed",
+      "direction",
+      "weapon",
+      "straight"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Purple",
+    "taboo": [
+      "color",
+      "violet",
+      "royal",
+      "grape",
+      "lavender"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Suite",
+    "taboo": [
+      "hotel",
+      "rooms",
+      "apartment",
+      "luxury",
+      "set"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Beam",
+    "taboo": [
+      "light",
+      "wood",
+      "smile",
+      "shine",
+      "ceiling"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Inn",
+    "taboo": [
+      "hotel",
+      "lodging",
+      "sleep",
+      "travelers",
+      "small"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Breast",
+    "taboo": [
+      "chest",
+      "chicken",
+      "body",
+      "anatomy",
+      "woman"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Medal",
+    "taboo": [
+      "award",
+      "gold",
+      "Olympics",
+      "honor",
+      "winner"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Silk",
+    "taboo": [
+      "fabric",
+      "smooth",
+      "luxurious",
+      "soft",
+      "shiny"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gum",
+    "taboo": [
+      "chew",
+      "sticky",
+      "teeth",
+      "mouth",
+      "flavor"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Acid",
+    "taboo": [
+      "chemical",
+      "burn",
+      "sour",
+      "corrosive",
+      "pH"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Islands",
+    "taboo": [
+      "water",
+      "land",
+      "surrounded",
+      "ocean",
+      "tropical"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Flame",
+    "taboo": [
+      "fire",
+      "heat",
+      "orange",
+      "burning",
+      "hot"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wolves",
+    "taboo": [
+      "pack",
+      "wild",
+      "dogs",
+      "howl",
+      "predator"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Twin",
+    "taboo": [
+      "identical",
+      "sibling",
+      "two",
+      "clone",
+      "double"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Vault",
+    "taboo": [
+      "safe",
+      "bank",
+      "secure",
+      "storage",
+      "treasure"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Helmet",
+    "taboo": [
+      "head",
+      "protection",
+      "bike",
+      "football",
+      "safety"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Envelope",
+    "taboo": [
+      "mail",
+      "letter",
+      "paper",
+      "seal",
+      "stamp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Penalty",
+    "taboo": [
+      "punishment",
+      "fine",
+      "sports",
+      "foul",
+      "consequence"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bargain",
+    "taboo": [
+      "deal",
+      "cheap",
+      "discount",
+      "haggle",
+      "sale"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cannon",
+    "taboo": [
+      "gun",
+      "weapon",
+      "fire",
+      "artillery",
+      "blast"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tin",
+    "taboo": [
+      "metal",
+      "can",
+      "silver",
+      "aluminum",
+      "container"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Rhythm",
+    "taboo": [
+      "beat",
+      "music",
+      "pattern",
+      "tempo",
+      "pulse"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Barrel",
+    "taboo": [
+      "container",
+      "round",
+      "wood",
+      "oil",
+      "drum"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cargo",
+    "taboo": [
+      "ship",
+      "load",
+      "freight",
+      "goods",
+      "transport"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Planets",
+    "taboo": [
+      "space",
+      "solar",
+      "earth",
+      "orbit",
+      "celestial"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tapes",
+    "taboo": [
+      "record",
+      "adhesive",
+      "cassette",
+      "audio",
+      "sticky"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trailer",
+    "taboo": [
+      "movie",
+      "preview",
+      "vehicle",
+      "house",
+      "advertisement"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tables",
+    "taboo": [
+      "furniture",
+      "eat",
+      "chair",
+      "flat",
+      "surface"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Candles",
+    "taboo": [
+      "flame",
+      "light",
+      "wick",
+      "wax",
+      "dark"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Fist",
+    "taboo": [
+      "hand",
+      "punch",
+      "fight",
+      "closed",
+      "knuckles"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cycle",
+    "taboo": [
+      "bike",
+      "circle",
+      "repeat",
+      "wheel",
+      "round"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Goose",
+    "taboo": [
+      "bird",
+      "waterfowl",
+      "feathers",
+      "honk",
+      "neck"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gallery",
+    "taboo": [
+      "art",
+      "museum",
+      "pictures",
+      "display",
+      "viewer"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Coal",
+    "taboo": [
+      "fuel",
+      "black",
+      "fire",
+      "burn",
+      "mining"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Perfume",
+    "taboo": [
+      "smell",
+      "fragrance",
+      "scent",
+      "spray",
+      "flower"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Spots",
+    "taboo": [
+      "stains",
+      "marks",
+      "blemishes",
+      "dots",
+      "places"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Blackmail",
+    "taboo": [
+      "extortion",
+      "threat",
+      "money",
+      "secret",
+      "coerce"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pacific",
+    "taboo": [
+      "ocean",
+      "calm",
+      "west",
+      "peaceful",
+      "largest"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Brakes",
+    "taboo": [
+      "stop",
+      "car",
+      "slow",
+      "pedal",
+      "wheel"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tub",
+    "taboo": [
+      "bath",
+      "water",
+      "wash",
+      "container",
+      "relax"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sucker",
+    "taboo": [
+      "lollipop",
+      "candy",
+      "fool",
+      "deceive",
+      "sweet"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Zombie",
+    "taboo": [
+      "undead",
+      "dead",
+      "walking",
+      "corpse",
+      "horror"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Myth",
+    "taboo": [
+      "legend",
+      "false",
+      "story",
+      "folklore",
+      "ancient"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Worship",
+    "taboo": [
+      "pray",
+      "religion",
+      "god",
+      "church",
+      "reverence"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Residence",
+    "taboo": [
+      "home",
+      "live",
+      "house",
+      "address",
+      "dwelling"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Democracy",
+    "taboo": [
+      "vote",
+      "government",
+      "equal",
+      "voting",
+      "freedom"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pistol",
+    "taboo": [
+      "gun",
+      "weapon",
+      "shoot",
+      "handgun",
+      "bullets"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trucks",
+    "taboo": [
+      "vehicles",
+      "transport",
+      "cargo",
+      "large",
+      "roads"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trains",
+    "taboo": [
+      "rails",
+      "locomotive",
+      "track",
+      "travel",
+      "cars"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sailor",
+    "taboo": [
+      "ship",
+      "ocean",
+      "navy",
+      "boat",
+      "maritime"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Samurai",
+    "taboo": [
+      "warrior",
+      "japanese",
+      "sword",
+      "honor",
+      "ancient"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Brandy",
+    "taboo": [
+      "alcohol",
+      "drink",
+      "grape",
+      "spirits",
+      "cognac"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Idol",
+    "taboo": [
+      "celebrity",
+      "star",
+      "worship",
+      "famous",
+      "admire"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bass",
+    "taboo": [
+      "fish",
+      "deep",
+      "sound",
+      "instrument",
+      "music"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Formula",
+    "taboo": [
+      "equation",
+      "math",
+      "recipe",
+      "procedure",
+      "science"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Broadcast",
+    "taboo": [
+      "television",
+      "radio",
+      "transmit",
+      "air",
+      "announce"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Element",
+    "taboo": [
+      "chemical",
+      "atom",
+      "periodic",
+      "component",
+      "ingredient"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Campus",
+    "taboo": [
+      "university",
+      "college",
+      "school",
+      "students",
+      "grounds"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tender",
+    "taboo": [
+      "soft",
+      "gentle",
+      "offer",
+      "meat",
+      "caring"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Ninja",
+    "taboo": [
+      "assassin",
+      "Japan",
+      "stealth",
+      "warrior",
+      "black"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Concrete",
+    "taboo": [
+      "cement",
+      "gray",
+      "hard",
+      "pavement",
+      "building"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Vegetables",
+    "taboo": [
+      "carrots",
+      "healthy",
+      "food",
+      "garden",
+      "broccoli"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Wizard",
+    "taboo": [
+      "magic",
+      "wand",
+      "spell",
+      "Potter",
+      "sorcerer"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Puzzle",
+    "taboo": [
+      "pieces",
+      "solve",
+      "jigsaw",
+      "brain",
+      "game"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pirate",
+    "taboo": [
+      "treasure",
+      "ship",
+      "sword",
+      "Caribbean",
+      "plank"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Horns",
+    "taboo": [
+      "goat",
+      "bull",
+      "musical",
+      "sound",
+      "devil"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Coins",
+    "taboo": [
+      "money",
+      "metal",
+      "currency",
+      "pocket",
+      "flip"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Recipe",
+    "taboo": [
+      "cooking",
+      "ingredients",
+      "instructions",
+      "food",
+      "cook"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Mill",
+    "taboo": [
+      "grain",
+      "wheat",
+      "flour",
+      "grinding",
+      "factory"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Copper",
+    "taboo": [
+      "metal",
+      "penny",
+      "wire",
+      "red",
+      "element"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Heir",
+    "taboo": [
+      "inherits",
+      "throne",
+      "legacy",
+      "prince",
+      "successor"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Enterprise",
+    "taboo": [
+      "business",
+      "company",
+      "venture",
+      "spaceship",
+      "starship"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Tournament",
+    "taboo": [
+      "competition",
+      "brackets",
+      "champion",
+      "winner",
+      "games"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Auction",
+    "taboo": [
+      "bidding",
+      "highest",
+      "seller",
+      "gavel",
+      "bids"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bachelor",
+    "taboo": [
+      "unmarried",
+      "degree",
+      "man",
+      "single",
+      "party"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Civilization",
+    "taboo": [
+      "society",
+      "culture",
+      "progress",
+      "humans",
+      "advanced"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cocktail",
+    "taboo": [
+      "drink",
+      "alcohol",
+      "mixed",
+      "martini",
+      "bar"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Psychiatrist",
+    "taboo": [
+      "doctor",
+      "therapy",
+      "mental",
+      "couch",
+      "psychologist"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Ransom",
+    "taboo": [
+      "kidnapper",
+      "money",
+      "hostage",
+      "payment",
+      "demand"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Gin",
+    "taboo": [
+      "alcohol",
+      "juniper",
+      "spirits",
+      "tonic",
+      "drink"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Turtles",
+    "taboo": [
+      "shells",
+      "reptiles",
+      "slow",
+      "water",
+      "pizza"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Monkeys",
+    "taboo": [
+      "primates",
+      "banana",
+      "swinging",
+      "jungle",
+      "animals"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Hats",
+    "taboo": [
+      "head",
+      "wear",
+      "brim",
+      "cap",
+      "clothing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Buttons",
+    "taboo": [
+      "shirt",
+      "sew",
+      "press",
+      "clothing",
+      "round"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Lions",
+    "taboo": [
+      "mane",
+      "roar",
+      "Africa",
+      "big",
+      "king"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "February",
+    "taboo": [
+      "month",
+      "winter",
+      "Valentine's",
+      "February",
+      "cold"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Brass",
+    "taboo": [
+      "metal",
+      "instrument",
+      "orchestra",
+      "gold",
+      "shiny"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sandwiches",
+    "taboo": [
+      "bread",
+      "lunch",
+      "filling",
+      "eat",
+      "slices"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Chemistry",
+    "taboo": [
+      "science",
+      "reaction",
+      "elements",
+      "periodic",
+      "lab"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Lottery",
+    "taboo": [
+      "numbers",
+      "drawing",
+      "winning",
+      "chance",
+      "prize"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dialogue",
+    "taboo": [
+      "conversation",
+      "people",
+      "speak",
+      "discussion",
+      "script"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Publicity",
+    "taboo": [
+      "attention",
+      "famous",
+      "media",
+      "news",
+      "advertisement"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Companion",
+    "taboo": [
+      "friend",
+      "together",
+      "partner",
+      "travel",
+      "loyal"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Lawn",
+    "taboo": [
+      "grass",
+      "yard",
+      "mow",
+      "green",
+      "outside"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Apples",
+    "taboo": [
+      "fruit",
+      "red",
+      "tree",
+      "seeds",
+      "sweet"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Bees",
+    "taboo": [
+      "honey",
+      "sting",
+      "flower",
+      "hive",
+      "buzz"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sharks",
+    "taboo": [
+      "fish",
+      "teeth",
+      "ocean",
+      "predator",
+      "attack"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Skies",
+    "taboo": [
+      "clouds",
+      "blue",
+      "birds",
+      "weather",
+      "above"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Rivers",
+    "taboo": [
+      "water",
+      "flow",
+      "bridge",
+      "stream",
+      "bank"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Chains",
+    "taboo": [
+      "links",
+      "metal",
+      "connect",
+      "bind",
+      "lock"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Household",
+    "taboo": [
+      "family",
+      "home",
+      "house",
+      "living",
+      "domestic"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Ballots",
+    "taboo": [
+      "vote",
+      "election",
+      "choose",
+      "ballot",
+      "poll"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Mouths",
+    "taboo": [
+      "speak",
+      "eat",
+      "lips",
+      "teeth",
+      "tongue"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cloth",
+    "taboo": [
+      "fabric",
+      "sew",
+      "material",
+      "thread",
+      "cotton"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Customs",
+    "taboo": [
+      "tradition",
+      "culture",
+      "border",
+      "practice",
+      "laws"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Nightmares",
+    "taboo": [
+      "dreams",
+      "sleep",
+      "scary",
+      "terror",
+      "frightening"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pirates",
+    "taboo": [
+      "ship",
+      "treasure",
+      "ocean",
+      "steal",
+      "Caribbean"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Hunters",
+    "taboo": [
+      "gun",
+      "animals",
+      "forest",
+      "prey",
+      "kill"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Jar",
+    "taboo": [
+      "glass",
+      "container",
+      "lid",
+      "storage",
+      "kitchen"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Creek",
+    "taboo": [
+      "stream",
+      "water",
+      "small",
+      "river",
+      "woods"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Pony",
+    "taboo": [
+      "horse",
+      "small",
+      "ride",
+      "animal",
+      "mane"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Businessman",
+    "taboo": [
+      "suit",
+      "office",
+      "work",
+      "money",
+      "corporate"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Armor",
+    "taboo": [
+      "metal",
+      "protection",
+      "knight",
+      "medieval",
+      "warrior"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Buffalo",
+    "taboo": [
+      "animal",
+      "horns",
+      "large",
+      "wild",
+      "America"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Villain",
+    "taboo": [
+      "evil",
+      "bad",
+      "antagonist",
+      "crime",
+      "movie"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Cape",
+    "taboo": [
+      "cloak",
+      "superhero",
+      "wear",
+      "cloth",
+      "hero"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Explosives",
+    "taboo": [
+      "bomb",
+      "TNT",
+      "dangerous",
+      "detonate",
+      "blow"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Colony",
+    "taboo": [
+      "ants",
+      "settlement",
+      "group",
+      "insects",
+      "bees"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Sweets",
+    "taboo": [
+      "candy",
+      "sugar",
+      "dessert",
+      "chocolate",
+      "eat"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Ribs",
+    "taboo": [
+      "bones",
+      "meat",
+      "chest",
+      "food",
+      "barbecue"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Echo",
+    "taboo": [
+      "sound",
+      "repeat",
+      "bounce",
+      "reflection",
+      "reverb"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Vehicles",
+    "taboo": [
+      "cars",
+      "transportation",
+      "wheels",
+      "drive",
+      "engine"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Manual",
+    "taboo": [
+      "handbook",
+      "instructions",
+      "guide",
+      "hands",
+      "book"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Compound",
+    "taboo": [
+      "mixture",
+      "combination",
+      "chemical",
+      "elements",
+      "substance"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Torch",
+    "taboo": [
+      "light",
+      "fire",
+      "flashlight",
+      "flame",
+      "hand-held"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Hospitals",
+    "taboo": [
+      "doctors",
+      "patients",
+      "medical",
+      "illness",
+      "beds"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Teenager",
+    "taboo": [
+      "young",
+      "adolescent",
+      "thirteen",
+      "age",
+      "youth"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Mines",
+    "taboo": [
+      "coal",
+      "digging",
+      "explosives",
+      "underground",
+      "gems"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Literature",
+    "taboo": [
+      "books",
+      "writing",
+      "stories",
+      "novels",
+      "authors"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Morgue",
+    "taboo": [
+      "dead",
+      "bodies",
+      "death",
+      "coroner",
+      "identification"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Transmission",
+    "taboo": [
+      "gears",
+      "car",
+      "power",
+      "mechanical",
+      "shift"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Panel",
+    "taboo": [
+      "judges",
+      "discussion",
+      "flat",
+      "surface",
+      "group"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Choir",
+    "taboo": [
+      "singing",
+      "church",
+      "voices",
+      "harmony",
+      "group"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Lipstick",
+    "taboo": [
+      "makeup",
+      "lips",
+      "color",
+      "cosmetic",
+      "red"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Hobby",
+    "taboo": [
+      "activity",
+      "pastime",
+      "interest",
+      "leisure",
+      "enjoyment"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dolls",
+    "taboo": [
+      "toys",
+      "figurines",
+      "play",
+      "children",
+      "plastic"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Barbecue",
+    "taboo": [
+      "grilling",
+      "meat",
+      "fire",
+      "outdoor",
+      "food"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Melody",
+    "taboo": [
+      "tune",
+      "song",
+      "music",
+      "notes",
+      "harmony"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Organs",
+    "taboo": [
+      "body",
+      "music",
+      "instrument",
+      "transplant",
+      "biological"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Calendar",
+    "taboo": [
+      "dates",
+      "months",
+      "days",
+      "year",
+      "schedule"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Videos",
+    "taboo": [
+      "watch",
+      "screen",
+      "YouTube",
+      "recording",
+      "film"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Laboratory",
+    "taboo": [
+      "science",
+      "experiment",
+      "chemicals",
+      "research",
+      "test"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Landlord",
+    "taboo": [
+      "rent",
+      "property",
+      "tenant",
+      "lease",
+      "apartment"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Chopper",
+    "taboo": [
+      "blade",
+      "meat",
+      "cutting",
+      "kitchen",
+      "tool"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Trophy",
+    "taboo": [
+      "award",
+      "prize",
+      "winner",
+      "gold",
+      "competition"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Backyard",
+    "taboo": [
+      "house",
+      "grass",
+      "garden",
+      "outside",
+      "home"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Diner",
+    "taboo": [
+      "restaurant",
+      "food",
+      "breakfast",
+      "counter",
+      "coffee"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Telegram",
+    "taboo": [
+      "message",
+      "communication",
+      "historical",
+      "send",
+      "urgent"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Corporation",
+    "taboo": [
+      "business",
+      "company",
+      "large",
+      "money",
+      "employees"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Grid",
+    "taboo": [
+      "squares",
+      "lines",
+      "pattern",
+      "map",
+      "chess"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Knives",
+    "taboo": [
+      "sharp",
+      "cut",
+      "blade",
+      "kitchen",
+      "weapon"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Swords",
+    "taboo": [
+      "blade",
+      "medieval",
+      "fight",
+      "sharp",
+      "weapon"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Dam",
+    "taboo": [
+      "water",
+      "river",
+      "barrier",
+      "power",
+      "concrete"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Herd",
+    "taboo": [
+      "animals",
+      "cattle",
+      "group",
+      "sheep",
+      "cows"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Salesman",
+    "taboo": [
+      "sell",
+      "customer",
+      "product",
+      "commission",
+      "job"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "word": "Onions",
+    "taboo": [
+      "layers",
+      "cry",
+      "vegetable",
+      "cooking",
+      "pungent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Werewolf",
+    "taboo": [
+      "moon",
+      "transformation",
+      "beast",
+      "wolf",
+      "monster"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cavalry",
+    "taboo": [
+      "horses",
+      "soldiers",
+      "military",
+      "charging",
+      "mounted"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bomber",
+    "taboo": [
+      "aircraft",
+      "bomb",
+      "pilot",
+      "plane",
+      "attack"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dinosaur",
+    "taboo": [
+      "extinct",
+      "reptile",
+      "prehistoric",
+      "fossil",
+      "T-Rex"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mentor",
+    "taboo": [
+      "teacher",
+      "guide",
+      "advice",
+      "experience",
+      "wisdom"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Arena",
+    "taboo": [
+      "gladiators",
+      "circular",
+      "fighting",
+      "audience",
+      "amphitheater"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Veil",
+    "taboo": [
+      "bride",
+      "face",
+      "covering",
+      "fabric",
+      "sheer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Steed",
+    "taboo": [
+      "horse",
+      "riding",
+      "fast",
+      "animal",
+      "noble"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bacteria",
+    "taboo": [
+      "microscopic",
+      "germs",
+      "infection",
+      "cells",
+      "illness"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Container",
+    "taboo": [
+      "holds",
+      "box",
+      "cargo",
+      "vessel",
+      "storage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gong",
+    "taboo": [
+      "sound",
+      "bronze",
+      "meditation",
+      "bell",
+      "striking"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Platoon",
+    "taboo": [
+      "soldiers",
+      "military",
+      "squad",
+      "unit",
+      "group"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Grenade",
+    "taboo": [
+      "explosion",
+      "bomb",
+      "weapon",
+      "pin",
+      "throw"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Herb",
+    "taboo": [
+      "plant",
+      "seasoning",
+      "cooking",
+      "basil",
+      "mint"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Knot",
+    "taboo": [
+      "tie",
+      "rope",
+      "loop",
+      "tangle",
+      "nautical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lens",
+    "taboo": [
+      "focus",
+      "glass",
+      "camera",
+      "eye",
+      "magnify"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Monks",
+    "taboo": [
+      "religious",
+      "monastery",
+      "robes",
+      "prayer",
+      "celibate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nursery",
+    "taboo": [
+      "children",
+      "plants",
+      "room",
+      "daycare",
+      "babies"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Protein",
+    "taboo": [
+      "muscle",
+      "nutrition",
+      "meat",
+      "amino",
+      "building"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Skeleton",
+    "taboo": [
+      "bones",
+      "skull",
+      "death",
+      "body",
+      "anatomy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Terrace",
+    "taboo": [
+      "patio",
+      "outdoor",
+      "platform",
+      "balcony",
+      "garden"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Transportation",
+    "taboo": [
+      "vehicle",
+      "travel",
+      "movement",
+      "car",
+      "bus"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Spear",
+    "taboo": [
+      "javelin",
+      "lance",
+      "weapon",
+      "throw",
+      "pointed"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Baggage",
+    "taboo": [
+      "luggage",
+      "suitcase",
+      "travel",
+      "carry",
+      "airport"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Claw",
+    "taboo": [
+      "scratch",
+      "animal",
+      "nail",
+      "talon",
+      "grip"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Donation",
+    "taboo": [
+      "give",
+      "charity",
+      "money",
+      "contribute",
+      "gift"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dome",
+    "taboo": [
+      "roof",
+      "round",
+      "structure",
+      "building",
+      "sphere"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Forests",
+    "taboo": [
+      "trees",
+      "woods",
+      "nature",
+      "wilderness",
+      "green"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Whales",
+    "taboo": [
+      "ocean",
+      "cetacean",
+      "marine",
+      "mammals",
+      "large"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gasoline",
+    "taboo": [
+      "fuel",
+      "car",
+      "petrol",
+      "gas",
+      "engine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Shrine",
+    "taboo": [
+      "temple",
+      "worship",
+      "sacred",
+      "memorial",
+      "religious"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Robber",
+    "taboo": [
+      "thief",
+      "steal",
+      "criminal",
+      "burglar",
+      "crime"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Balloons",
+    "taboo": [
+      "helium",
+      "party",
+      "float",
+      "inflate",
+      "celebration"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fruits",
+    "taboo": [
+      "apple",
+      "orange",
+      "food",
+      "sweet",
+      "harvest"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Metro",
+    "taboo": [
+      "subway",
+      "train",
+      "underground",
+      "transport",
+      "city"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Biscuits",
+    "taboo": [
+      "cookie",
+      "bread",
+      "cracker",
+      "food",
+      "eat"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Arrows",
+    "taboo": [
+      "bow",
+      "pointed",
+      "projectile",
+      "quiver",
+      "target"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Grove",
+    "taboo": [
+      "trees",
+      "forest",
+      "woods",
+      "small",
+      "shady"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hen",
+    "taboo": [
+      "chicken",
+      "bird",
+      "eggs",
+      "female",
+      "rooster"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Blades",
+    "taboo": [
+      "sharp",
+      "grass",
+      "knife",
+      "cutting",
+      "edge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cement",
+    "taboo": [
+      "concrete",
+      "binding",
+      "construction",
+      "gray",
+      "powder"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Showers",
+    "taboo": [
+      "bathroom",
+      "water",
+      "rain",
+      "washing",
+      "spray"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Waltz",
+    "taboo": [
+      "dance",
+      "three-four",
+      "ballroom",
+      "Austrian",
+      "music"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Marble",
+    "taboo": [
+      "stone",
+      "sculpture",
+      "white",
+      "Greek",
+      "smooth"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Claws",
+    "taboo": [
+      "animal",
+      "sharp",
+      "scratching",
+      "cat",
+      "bird"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Giants",
+    "taboo": [
+      "tall",
+      "large",
+      "Francisco",
+      "mythical",
+      "huge"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Caves",
+    "taboo": [
+      "underground",
+      "dark",
+      "stone",
+      "bats",
+      "tunnel"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bricks",
+    "taboo": [
+      "building",
+      "red",
+      "clay",
+      "construction",
+      "wall"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nickel",
+    "taboo": [
+      "coin",
+      "metal",
+      "cents",
+      "silver",
+      "currency"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pets",
+    "taboo": [
+      "animals",
+      "dogs",
+      "cats",
+      "companionship",
+      "domesticated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Masterpiece",
+    "taboo": [
+      "artwork",
+      "great",
+      "Leonardo",
+      "painting",
+      "finest"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Treasures",
+    "taboo": [
+      "gold",
+      "buried",
+      "chest",
+      "valuable",
+      "pirate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Potion",
+    "taboo": [
+      "magic",
+      "drink",
+      "spell",
+      "wizard",
+      "liquid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Flock",
+    "taboo": [
+      "birds",
+      "sheep",
+      "group",
+      "gather",
+      "flying"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Toad",
+    "taboo": [
+      "frog",
+      "amphibian",
+      "wart",
+      "hop",
+      "warty"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Monastery",
+    "taboo": [
+      "monks",
+      "religious",
+      "church",
+      "prayer",
+      "isolated"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ark",
+    "taboo": [
+      "Noah",
+      "animals",
+      "flood",
+      "boat",
+      "biblical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Forint",
+    "taboo": [
+      "currency",
+      "money",
+      "Hungarian",
+      "exchange",
+      "bills"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lookout",
+    "taboo": [
+      "watch",
+      "tower",
+      "guard",
+      "observe",
+      "viewpoint"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Merchandise",
+    "taboo": [
+      "goods",
+      "sell",
+      "products",
+      "store",
+      "business"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Souvenir",
+    "taboo": [
+      "memory",
+      "gift",
+      "travel",
+      "keepsake",
+      "remind"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Burgers",
+    "taboo": [
+      "hamburger",
+      "beef",
+      "patty",
+      "bun",
+      "fast"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Knots",
+    "taboo": [
+      "rope",
+      "tie",
+      "loop",
+      "tangled",
+      "nautical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nightclub",
+    "taboo": [
+      "dancing",
+      "music",
+      "drinks",
+      "party",
+      "bar"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Poles",
+    "taboo": [
+      "stick",
+      "north",
+      "south",
+      "magnetic",
+      "tall"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tigers",
+    "taboo": [
+      "striped",
+      "cat",
+      "animal",
+      "orange",
+      "predator"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Goats",
+    "taboo": [
+      "animal",
+      "horns",
+      "beard",
+      "bleating",
+      "farm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pearls",
+    "taboo": [
+      "oyster",
+      "jewel",
+      "white",
+      "necklace",
+      "valuable"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Toilets",
+    "taboo": [
+      "bathroom",
+      "flush",
+      "porcelain",
+      "waste",
+      "bowl"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Banquet",
+    "taboo": [
+      "formal",
+      "dinner",
+      "meal",
+      "celebration",
+      "feast"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stamps",
+    "taboo": [
+      "postage",
+      "mail",
+      "envelope",
+      "collect",
+      "ink"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Coats",
+    "taboo": [
+      "jacket",
+      "winter",
+      "wear",
+      "clothing",
+      "warm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Syrup",
+    "taboo": [
+      "pancake",
+      "sweet",
+      "maple",
+      "thick",
+      "liquid"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Orphans",
+    "taboo": [
+      "children",
+      "parents",
+      "lost",
+      "homeless",
+      "care"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Admission",
+    "taboo": [
+      "entry",
+      "fee",
+      "ticket",
+      "entrance",
+      "confess"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Essay",
+    "taboo": [
+      "writing",
+      "paper",
+      "assignment",
+      "composition",
+      "paragraphs"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Depths",
+    "taboo": [
+      "deep",
+      "bottom",
+      "ocean",
+      "underwater",
+      "abyss"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tropical",
+    "taboo": [
+      "warm",
+      "jungle",
+      "island",
+      "rainforest",
+      "paradise"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Altitude",
+    "taboo": [
+      "height",
+      "elevation",
+      "sky",
+      "mountain",
+      "plane"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Empress",
+    "taboo": [
+      "queen",
+      "ruler",
+      "royalty",
+      "crown",
+      "monarch"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Finale",
+    "taboo": [
+      "ending",
+      "conclusion",
+      "last",
+      "finish",
+      "final"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Breakthrough",
+    "taboo": [
+      "discovery",
+      "achievement",
+      "success",
+      "progress",
+      "innovation"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Oceans",
+    "taboo": [
+      "water",
+      "sea",
+      "waves",
+      "salt",
+      "marine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Limb",
+    "taboo": [
+      "arm",
+      "leg",
+      "body",
+      "extremity",
+      "branch"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Wool",
+    "taboo": [
+      "sheep",
+      "fabric",
+      "knit",
+      "sweater",
+      "yarn"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Screenplay",
+    "taboo": [
+      "movie",
+      "script",
+      "film",
+      "dialogue",
+      "scenes"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mosque",
+    "taboo": [
+      "church",
+      "prayer",
+      "muslim",
+      "religious",
+      "building"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Puppies",
+    "taboo": [
+      "dogs",
+      "cute",
+      "young",
+      "animals",
+      "pets"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pickle",
+    "taboo": [
+      "cucumber",
+      "sour",
+      "preserved",
+      "vegetable",
+      "fermented"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Frogs",
+    "taboo": [
+      "amphibians",
+      "ribbiting",
+      "pond",
+      "green",
+      "hopping"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Arctic",
+    "taboo": [
+      "cold",
+      "north",
+      "ice",
+      "polar",
+      "freezing"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Asteroid",
+    "taboo": [
+      "space",
+      "rock",
+      "meteor",
+      "planet",
+      "collision"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Carrots",
+    "taboo": [
+      "orange",
+      "vegetable",
+      "rabbit",
+      "root",
+      "crunchy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cigars",
+    "taboo": [
+      "smoking",
+      "rolled",
+      "tobacco",
+      "cigar",
+      "Cuba"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lava",
+    "taboo": [
+      "volcano",
+      "hot",
+      "magma",
+      "eruption",
+      "molten"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "UFO",
+    "taboo": [
+      "alien",
+      "spacecraft",
+      "flying",
+      "saucer",
+      "extraterrestrial"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cosmos",
+    "taboo": [
+      "space",
+      "universe",
+      "stars",
+      "galaxy",
+      "planets"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Curfew",
+    "taboo": [
+      "time",
+      "night",
+      "stay",
+      "home",
+      "restriction"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cathedral",
+    "taboo": [
+      "church",
+      "building",
+      "religious",
+      "stained",
+      "prayer"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bourbon",
+    "taboo": [
+      "whiskey",
+      "alcohol",
+      "drink",
+      "Kentucky",
+      "brown"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mermaid",
+    "taboo": [
+      "tail",
+      "ocean",
+      "fish",
+      "sea",
+      "mythical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rosemary",
+    "taboo": [
+      "herb",
+      "cooking",
+      "plant",
+      "fragrant",
+      "green"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bong",
+    "taboo": [
+      "water",
+      "pipe",
+      "smoking",
+      "drug",
+      "sound"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Burglar",
+    "taboo": [
+      "theft",
+      "stealing",
+      "break-in",
+      "robber",
+      "crime"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Spiders",
+    "taboo": [
+      "webs",
+      "eight",
+      "arachnid",
+      "insects",
+      "scary"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Crops",
+    "taboo": [
+      "farming",
+      "harvest",
+      "agriculture",
+      "fields",
+      "plants"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Infant",
+    "taboo": [
+      "baby",
+      "newborn",
+      "child",
+      "toddler",
+      "small"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Falcon",
+    "taboo": [
+      "bird",
+      "predator",
+      "prey",
+      "flying",
+      "hawk"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hydrogen",
+    "taboo": [
+      "element",
+      "gas",
+      "periodic",
+      "water",
+      "light"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gravy",
+    "taboo": [
+      "sauce",
+      "meat",
+      "dinner",
+      "pour",
+      "brown"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Novels",
+    "taboo": [
+      "books",
+      "fiction",
+      "stories",
+      "reading",
+      "pages"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Diapers",
+    "taboo": [
+      "baby",
+      "wetness",
+      "changing",
+      "cloth",
+      "absorbent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Courthouse",
+    "taboo": [
+      "judge",
+      "law",
+      "trial",
+      "legal",
+      "verdict"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Frontier",
+    "taboo": [
+      "border",
+      "wilderness",
+      "expansion",
+      "edge",
+      "west"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Stocks",
+    "taboo": [
+      "market",
+      "investing",
+      "shares",
+      "money",
+      "trading"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reactor",
+    "taboo": [
+      "nuclear",
+      "power",
+      "energy",
+      "radiation",
+      "scientist"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Chimney",
+    "taboo": [
+      "santa",
+      "smoke",
+      "roof",
+      "fireplace",
+      "house"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Kite",
+    "taboo": [
+      "flying",
+      "wind",
+      "string",
+      "sky",
+      "toy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Buses",
+    "taboo": [
+      "transportation",
+      "passengers",
+      "public",
+      "driving",
+      "stops"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Loft",
+    "taboo": [
+      "apartment",
+      "attic",
+      "upper",
+      "high",
+      "room"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ribbon",
+    "taboo": [
+      "bow",
+      "tied",
+      "gift",
+      "decoration",
+      "fabric"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Crib",
+    "taboo": [
+      "baby",
+      "bed",
+      "sleeping",
+      "infant",
+      "wooden"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Nuns",
+    "taboo": [
+      "religious",
+      "convent",
+      "habits",
+      "sisters",
+      "church"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Apocalypse",
+    "taboo": [
+      "end",
+      "world",
+      "destruction",
+      "doomsday",
+      "catastrophe"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Heap",
+    "taboo": [
+      "pile",
+      "stack",
+      "mound",
+      "accumulate",
+      "garbage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Hog",
+    "taboo": [
+      "pig",
+      "pork",
+      "animal",
+      "farm",
+      "greedy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pins",
+    "taboo": [
+      "sewing",
+      "needle",
+      "sharp",
+      "fasten",
+      "metal"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bronze",
+    "taboo": [
+      "metal",
+      "medal",
+      "copper",
+      "brown",
+      "statue"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gutter",
+    "taboo": [
+      "roof",
+      "drain",
+      "rain",
+      "channel",
+      "bowling"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Ale",
+    "taboo": [
+      "beer",
+      "drink",
+      "alcohol",
+      "brewery",
+      "beverage"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Biscuit",
+    "taboo": [
+      "cookie",
+      "bread",
+      "flour",
+      "bake",
+      "food"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Obstacle",
+    "taboo": [
+      "barrier",
+      "block",
+      "problem",
+      "hurdle",
+      "prevent"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dumpster",
+    "taboo": [
+      "trash",
+      "garbage",
+      "waste",
+      "container",
+      "bin"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Reef",
+    "taboo": [
+      "coral",
+      "ocean",
+      "fish",
+      "underwater",
+      "rock"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Treasury",
+    "taboo": [
+      "money",
+      "government",
+      "finance",
+      "gold",
+      "vault"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mathematics",
+    "taboo": [
+      "numbers",
+      "equations",
+      "algebra",
+      "geometry",
+      "science"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dolphins",
+    "taboo": [
+      "fish",
+      "ocean",
+      "mammal",
+      "intelligent",
+      "marine"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plasma",
+    "taboo": [
+      "blood",
+      "state",
+      "matter",
+      "gas",
+      "science"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Postcard",
+    "taboo": [
+      "mail",
+      "picture",
+      "message",
+      "travel",
+      "souvenir"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Atom",
+    "taboo": [
+      "nucleus",
+      "electrons",
+      "protons",
+      "smallest",
+      "chemistry"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Detector",
+    "taboo": [
+      "finds",
+      "discovers",
+      "sensors",
+      "device",
+      "alarm"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Fireplace",
+    "taboo": [
+      "fire",
+      "flames",
+      "chimney",
+      "warm",
+      "hearth"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Maze",
+    "taboo": [
+      "puzzle",
+      "paths",
+      "lost",
+      "solution",
+      "labyrinth"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lotus",
+    "taboo": [
+      "flower",
+      "water",
+      "plant",
+      "meditation",
+      "asia"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mixture",
+    "taboo": [
+      "combine",
+      "ingredients",
+      "blend",
+      "mix",
+      "together"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sculpture",
+    "taboo": [
+      "statue",
+      "art",
+      "carved",
+      "stone",
+      "marble"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Manor",
+    "taboo": [
+      "house",
+      "estate",
+      "castle",
+      "mansion",
+      "lord"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Skate",
+    "taboo": [
+      "ice",
+      "wheels",
+      "shoes",
+      "sport",
+      "blade"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rodeo",
+    "taboo": [
+      "cowboys",
+      "horses",
+      "bull",
+      "western",
+      "riding"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Magnet",
+    "taboo": [
+      "attract",
+      "metal",
+      "poles",
+      "iron",
+      "magnetic"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Burglary",
+    "taboo": [
+      "theft",
+      "robbery",
+      "steal",
+      "break-in",
+      "crime"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Sidewalk",
+    "taboo": [
+      "pavement",
+      "pedestrian",
+      "street",
+      "concrete",
+      "path"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scenery",
+    "taboo": [
+      "landscape",
+      "view",
+      "nature",
+      "background",
+      "beautiful"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Shredder",
+    "taboo": [
+      "paper",
+      "destroy",
+      "machine",
+      "cut",
+      "document"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Miners",
+    "taboo": [
+      "coal",
+      "dig",
+      "underground",
+      "precious",
+      "excavate"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amendment",
+    "taboo": [
+      "constitution",
+      "change",
+      "law",
+      "ratify",
+      "government"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Getaway",
+    "taboo": [
+      "escape",
+      "vacation",
+      "car",
+      "flee",
+      "trip"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Leash",
+    "taboo": [
+      "dog",
+      "rope",
+      "control",
+      "pet",
+      "restraint"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Eyebrows",
+    "taboo": [
+      "face",
+      "hair",
+      "expression",
+      "forehead",
+      "eyes"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Pots",
+    "taboo": [
+      "cooking",
+      "kitchen",
+      "pan",
+      "container",
+      "boil"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cocoa",
+    "taboo": [
+      "chocolate",
+      "drink",
+      "powder",
+      "bean",
+      "brown"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Philosopher",
+    "taboo": [
+      "thinker",
+      "wisdom",
+      "ancient",
+      "ideas",
+      "Greece"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Bulb",
+    "taboo": [
+      "light",
+      "electricity",
+      "lamp",
+      "bright",
+      "glass"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Veteran",
+    "taboo": [
+      "soldier",
+      "war",
+      "military",
+      "experience",
+      "service"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Chalk",
+    "taboo": [
+      "board",
+      "write",
+      "white",
+      "dusty",
+      "teacher"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Manuscript",
+    "taboo": [
+      "handwritten",
+      "author",
+      "book",
+      "pages",
+      "document"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Markets",
+    "taboo": [
+      "shopping",
+      "buy",
+      "sell",
+      "goods",
+      "store"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Chocolates",
+    "taboo": [
+      "candy",
+      "sweet",
+      "cocoa",
+      "brown",
+      "dessert"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Loot",
+    "taboo": [
+      "treasure",
+      "steal",
+      "plunder",
+      "treasure",
+      "rob"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Amusement",
+    "taboo": [
+      "entertainment",
+      "fun",
+      "park",
+      "ride",
+      "enjoy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Membership",
+    "taboo": [
+      "club",
+      "join",
+      "organization",
+      "fee",
+      "exclusive"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Lantern",
+    "taboo": [
+      "light",
+      "lamp",
+      "portable",
+      "candle",
+      "glow"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Wildlife",
+    "taboo": [
+      "animals",
+      "nature",
+      "safari",
+      "creatures",
+      "habitat"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Asthma",
+    "taboo": [
+      "breathing",
+      "disease",
+      "lungs",
+      "medical",
+      "condition"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Restroom",
+    "taboo": [
+      "bathroom",
+      "toilet",
+      "bathroom",
+      "facility",
+      "public"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Specimen",
+    "taboo": [
+      "sample",
+      "example",
+      "test",
+      "scientific",
+      "study"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dungeon",
+    "taboo": [
+      "prison",
+      "underground",
+      "castle",
+      "medieval",
+      "cells"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Scales",
+    "taboo": [
+      "fish",
+      "reptile",
+      "weight",
+      "measure",
+      "dragon"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Venom",
+    "taboo": [
+      "poison",
+      "snake",
+      "toxic",
+      "bite",
+      "deadly"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plumbing",
+    "taboo": [
+      "pipes",
+      "water",
+      "sewage",
+      "system",
+      "repairs"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mineral",
+    "taboo": [
+      "rock",
+      "stone",
+      "element",
+      "natural",
+      "earth"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Relay",
+    "taboo": [
+      "pass",
+      "race",
+      "baton",
+      "team",
+      "transmit"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Broadcasting",
+    "taboo": [
+      "television",
+      "radio",
+      "transmit",
+      "signal",
+      "audience"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Banking",
+    "taboo": [
+      "money",
+      "loans",
+      "accounts",
+      "interest",
+      "deposits"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Electronics",
+    "taboo": [
+      "devices",
+      "technology",
+      "circuits",
+      "computers",
+      "gadgets"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Collision",
+    "taboo": [
+      "crash",
+      "impact",
+      "accident",
+      "vehicles",
+      "hit"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Comeback",
+    "taboo": [
+      "return",
+      "recovery",
+      "response",
+      "retaliation",
+      "return"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Dowry",
+    "taboo": [
+      "bride",
+      "marriage",
+      "money",
+      "wedding",
+      "gift"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Mediterranean",
+    "taboo": [
+      "sea",
+      "europe",
+      "ocean",
+      "region",
+      "countries"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Gadget",
+    "taboo": [
+      "device",
+      "tool",
+      "invention",
+      "electronic",
+      "contraption"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Paramedics",
+    "taboo": [
+      "ambulance",
+      "emergency",
+      "medical",
+      "rescue",
+      "hospital"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Console",
+    "taboo": [
+      "video",
+      "gaming",
+      "controller",
+      "playstation",
+      "xbox"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Caravan",
+    "taboo": [
+      "trailer",
+      "travel",
+      "camping",
+      "mobile",
+      "group"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Herbs",
+    "taboo": [
+      "cooking",
+      "plants",
+      "spices",
+      "seasoning",
+      "basil"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Queue",
+    "taboo": [
+      "line",
+      "waiting",
+      "order",
+      "people",
+      "stand"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Recess",
+    "taboo": [
+      "break",
+      "school",
+      "playground",
+      "children",
+      "lunch"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Countdown",
+    "taboo": [
+      "numbers",
+      "launch",
+      "time",
+      "rocket",
+      "sequence"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Alarms",
+    "taboo": [
+      "clock",
+      "sound",
+      "warning",
+      "alert",
+      "bells"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Saloon",
+    "taboo": [
+      "bar",
+      "alcohol",
+      "drinks",
+      "western",
+      "pub"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tuition",
+    "taboo": [
+      "school",
+      "college",
+      "payment",
+      "education",
+      "university"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Serpent",
+    "taboo": [
+      "snake",
+      "reptile",
+      "venom",
+      "scales",
+      "hiss"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tavern",
+    "taboo": [
+      "bar",
+      "alcohol",
+      "drinks",
+      "inn",
+      "pub"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Caviar",
+    "taboo": [
+      "fish",
+      "eggs",
+      "expensive",
+      "luxury",
+      "delicacy"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Trench",
+    "taboo": [
+      "ditch",
+      "dig",
+      "deep",
+      "ground",
+      "war"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Tenant",
+    "taboo": [
+      "renter",
+      "apartment",
+      "lease",
+      "landlord",
+      "occupant"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Diabetes",
+    "taboo": [
+      "disease",
+      "blood",
+      "sugar",
+      "insulin",
+      "medical"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Riches",
+    "taboo": [
+      "money",
+      "wealth",
+      "treasure",
+      "gold",
+      "fortune"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Cube",
+    "taboo": [
+      "square",
+      "box",
+      "shape",
+      "six",
+      "sides"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Opium",
+    "taboo": [
+      "drug",
+      "poppy",
+      "addictive",
+      "narcotic",
+      "substance"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Legion",
+    "taboo": [
+      "army",
+      "soldiers",
+      "group",
+      "many",
+      "military"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Plains",
+    "taboo": [
+      "flat",
+      "land",
+      "grassland",
+      "prairie",
+      "terrain"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Morale",
+    "taboo": [
+      "spirit",
+      "mood",
+      "confidence",
+      "attitude",
+      "team"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Rituals",
+    "taboo": [
+      "ceremony",
+      "tradition",
+      "practice",
+      "religious",
+      "custom"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Wager",
+    "taboo": [
+      "bet",
+      "gamble",
+      "money",
+      "risk",
+      "stake"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "word": "Kimchi",
+    "taboo": [
+      "Korean",
+      "fermented",
+      "cabbage",
+      "spicy",
+      "vegetable"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lobsters",
+    "taboo": [
+      "crustacean",
+      "claws",
+      "seafood",
+      "red",
+      "boiled"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pretzels",
+    "taboo": [
+      "twisted",
+      "bread",
+      "salty",
+      "snack",
+      "knot"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Swans",
+    "taboo": [
+      "white",
+      "bird",
+      "graceful",
+      "lake",
+      "elegant"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Podium",
+    "taboo": [
+      "stand",
+      "speaker",
+      "stage",
+      "platform",
+      "lectern"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ottoman",
+    "taboo": [
+      "footstool",
+      "furniture",
+      "cushioned",
+      "hassock",
+      "ottoman"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Checkbook",
+    "taboo": [
+      "checks",
+      "bank",
+      "payment",
+      "ledger",
+      "account"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pastries",
+    "taboo": [
+      "baked",
+      "dessert",
+      "flaky",
+      "croissant",
+      "dough"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ammonia",
+    "taboo": [
+      "chemical",
+      "cleaning",
+      "pungent",
+      "smell",
+      "cleaner"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Kitchens",
+    "taboo": [
+      "cooking",
+      "room",
+      "stove",
+      "food",
+      "appliances"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Kryptonite",
+    "taboo": [
+      "Superman",
+      "weakness",
+      "green",
+      "alien",
+      "destroy"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Yogi",
+    "taboo": [
+      "yoga",
+      "meditation",
+      "flexibility",
+      "spiritual",
+      "India"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Proverb",
+    "taboo": [
+      "saying",
+      "wisdom",
+      "moral",
+      "lesson",
+      "folk"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Conservatory",
+    "taboo": [
+      "music",
+      "glass",
+      "plants",
+      "greenhouse",
+      "school"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Polka",
+    "taboo": [
+      "dance",
+      "dots",
+      "music",
+      "accordion",
+      "European"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mannequin",
+    "taboo": [
+      "dummy",
+      "clothes",
+      "store",
+      "plastic",
+      "display"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cipher",
+    "taboo": [
+      "code",
+      "secret",
+      "zero",
+      "encrypt",
+      "message"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Scrolls",
+    "taboo": [
+      "ancient",
+      "parchment",
+      "rolled",
+      "document",
+      "paper"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Tiara",
+    "taboo": [
+      "crown",
+      "princess",
+      "jewelry",
+      "royal",
+      "head"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Gowns",
+    "taboo": [
+      "dress",
+      "formal",
+      "elegant",
+      "wedding",
+      "wear"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Shipyard",
+    "taboo": [
+      "boats",
+      "construction",
+      "dock",
+      "ships",
+      "naval"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Moths",
+    "taboo": [
+      "insects",
+      "nocturnal",
+      "light",
+      "wings",
+      "butterflies"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Fiesta",
+    "taboo": [
+      "party",
+      "celebration",
+      "Spanish",
+      "festival",
+      "music"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Raffle",
+    "taboo": [
+      "lottery",
+      "drawing",
+      "tickets",
+      "prize",
+      "chance"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Sulfur",
+    "taboo": [
+      "yellow",
+      "smell",
+      "chemical",
+      "element",
+      "matches"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mead",
+    "taboo": [
+      "drink",
+      "honey",
+      "alcohol",
+      "medieval",
+      "fermented"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Stasis",
+    "taboo": [
+      "frozen",
+      "unchanged",
+      "still",
+      "equilibrium",
+      "suspended"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Nobleman",
+    "taboo": [
+      "aristocrat",
+      "title",
+      "royalty",
+      "estate",
+      "lord"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Contraption",
+    "taboo": [
+      "machine",
+      "gadget",
+      "device",
+      "complicated",
+      "invention"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Hickey",
+    "taboo": [
+      "kiss",
+      "mark",
+      "bruise",
+      "neck",
+      "love"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mints",
+    "taboo": [
+      "candy",
+      "breath",
+      "green",
+      "flavor",
+      "peppermint"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mousse",
+    "taboo": [
+      "dessert",
+      "chocolate",
+      "whipped",
+      "fluffy",
+      "foam"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pubs",
+    "taboo": [
+      "bar",
+      "British",
+      "drinking",
+      "tavern",
+      "beer"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Gauze",
+    "taboo": [
+      "bandage",
+      "medical",
+      "fabric",
+      "wound",
+      "cotton"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Crutches",
+    "taboo": [
+      "walking",
+      "support",
+      "injured",
+      "leg",
+      "medical"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Handgun",
+    "taboo": [
+      "weapon",
+      "pistol",
+      "gun",
+      "firearm",
+      "shoot"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Coastline",
+    "taboo": [
+      "beach",
+      "ocean",
+      "shore",
+      "water",
+      "border"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ornament",
+    "taboo": [
+      "decoration",
+      "Christmas",
+      "jewelry",
+      "hang",
+      "embellish"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Chimps",
+    "taboo": [
+      "apes",
+      "monkeys",
+      "primates",
+      "Africa",
+      "intelligent"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Invoice",
+    "taboo": [
+      "bill",
+      "payment",
+      "receipt",
+      "money",
+      "business"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Shiv",
+    "taboo": [
+      "knife",
+      "weapon",
+      "sharp",
+      "prison",
+      "stab"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Donkeys",
+    "taboo": [
+      "animal",
+      "stubborn",
+      "pack",
+      "beast",
+      "load"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cordon",
+    "taboo": [
+      "police",
+      "barrier",
+      "rope",
+      "blockade",
+      "restrict"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Suitor",
+    "taboo": [
+      "romance",
+      "dating",
+      "courtship",
+      "admirer",
+      "lover"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Emir",
+    "taboo": [
+      "arab",
+      "ruler",
+      "middle",
+      "sheikh",
+      "title"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Appetizer",
+    "taboo": [
+      "starter",
+      "food",
+      "course",
+      "snack",
+      "meal"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Almonds",
+    "taboo": [
+      "nuts",
+      "tree",
+      "snack",
+      "california",
+      "roasted"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Waterfront",
+    "taboo": [
+      "dock",
+      "harbor",
+      "water",
+      "pier",
+      "shore"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Elixir",
+    "taboo": [
+      "potion",
+      "liquid",
+      "magic",
+      "remedy",
+      "drink"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Kebab",
+    "taboo": [
+      "meat",
+      "skewer",
+      "middle",
+      "grill",
+      "food"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cocoon",
+    "taboo": [
+      "butterfly",
+      "silk",
+      "chrysalis",
+      "larvae",
+      "wrap"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Rainbows",
+    "taboo": [
+      "spectrum",
+      "color",
+      "light",
+      "prism",
+      "arc"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Magma",
+    "taboo": [
+      "lava",
+      "molten",
+      "rock",
+      "volcano",
+      "heat"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Galley",
+    "taboo": [
+      "kitchen",
+      "ship",
+      "rowing",
+      "vessel",
+      "slave"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Railing",
+    "taboo": [
+      "fence",
+      "barrier",
+      "stairs",
+      "bridge",
+      "metal"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Dunes",
+    "taboo": [
+      "sand",
+      "desert",
+      "beach",
+      "hills",
+      "wind"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lodging",
+    "taboo": [
+      "accommodation",
+      "hotel",
+      "stay",
+      "housing",
+      "place"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Shroud",
+    "taboo": [
+      "burial",
+      "cloth",
+      "cover",
+      "mummy",
+      "veil"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Dingo",
+    "taboo": [
+      "wild",
+      "Australian",
+      "canine",
+      "animal",
+      "Australia"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Holster",
+    "taboo": [
+      "gun",
+      "leather",
+      "weapon",
+      "pistol",
+      "belt"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Plough",
+    "taboo": [
+      "farming",
+      "soil",
+      "field",
+      "agriculture",
+      "furrow"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Windmill",
+    "taboo": [
+      "blades",
+      "rotation",
+      "wind",
+      "grain",
+      "Dutch"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lager",
+    "taboo": [
+      "beer",
+      "beverage",
+      "alcohol",
+      "drink",
+      "pilsner"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Quail",
+    "taboo": [
+      "bird",
+      "game",
+      "small",
+      "feathered",
+      "egg"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Propeller",
+    "taboo": [
+      "airplane",
+      "rotation",
+      "blades",
+      "aircraft",
+      "spin"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Nightcap",
+    "taboo": [
+      "drink",
+      "bedtime",
+      "hat",
+      "evening",
+      "alcohol"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cheques",
+    "taboo": [
+      "payment",
+      "bank",
+      "written",
+      "money",
+      "signature"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Viceroy",
+    "taboo": [
+      "governor",
+      "colonial",
+      "representative",
+      "royal",
+      "authority"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Springtime",
+    "taboo": [
+      "season",
+      "spring",
+      "flowers",
+      "renewal",
+      "April"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ballpark",
+    "taboo": [
+      "baseball",
+      "stadium",
+      "field",
+      "game",
+      "estimate"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Hornet",
+    "taboo": [
+      "insect",
+      "wasp",
+      "sting",
+      "nest",
+      "yellow"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cadaver",
+    "taboo": [
+      "dead",
+      "body",
+      "corpse",
+      "anatomy",
+      "medical"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lavatory",
+    "taboo": [
+      "bathroom",
+      "toilet",
+      "restroom",
+      "flush",
+      "sink"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Carotid",
+    "taboo": [
+      "artery",
+      "neck",
+      "blood",
+      "pulse",
+      "vein"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Termites",
+    "taboo": [
+      "insects",
+      "wood",
+      "damage",
+      "colony",
+      "pest"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Seminary",
+    "taboo": [
+      "school",
+      "priest",
+      "religious",
+      "education",
+      "clergy"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Aorta",
+    "taboo": [
+      "heart",
+      "artery",
+      "blood",
+      "vessel",
+      "organ"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Calculus",
+    "taboo": [
+      "mathematics",
+      "derivatives",
+      "integrals",
+      "limits",
+      "equations"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Eggplant",
+    "taboo": [
+      "vegetable",
+      "purple",
+      "cooking",
+      "aubergine",
+      "produce"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Magnets",
+    "taboo": [
+      "attraction",
+      "poles",
+      "metal",
+      "magnetic",
+      "force"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Quilt",
+    "taboo": [
+      "blanket",
+      "sewing",
+      "patchwork",
+      "bedding",
+      "fabric"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Filters",
+    "taboo": [
+      "coffee",
+      "strainer",
+      "purify",
+      "sift",
+      "screen"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cartridge",
+    "taboo": [
+      "ink",
+      "ammunition",
+      "printer",
+      "refill",
+      "bullet"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Choppers",
+    "taboo": [
+      "motorcycle",
+      "motorcycle",
+      "cutting",
+      "blades",
+      "meat"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Staple",
+    "taboo": [
+      "paper",
+      "fastener",
+      "metal",
+      "office",
+      "basic"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Sitcom",
+    "taboo": [
+      "television",
+      "comedy",
+      "series",
+      "show",
+      "funny"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Molecule",
+    "taboo": [
+      "atoms",
+      "chemistry",
+      "structure",
+      "science",
+      "compound"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Limestone",
+    "taboo": [
+      "rock",
+      "stone",
+      "calcium",
+      "mineral",
+      "sedimentary"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Dipper",
+    "taboo": [
+      "ladle",
+      "dipper",
+      "utensil",
+      "handle",
+      "scoop"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Sentry",
+    "taboo": [
+      "guard",
+      "post",
+      "military",
+      "sentinel",
+      "watch"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Mishap",
+    "taboo": [
+      "accident",
+      "mistake",
+      "incident",
+      "unfortunate",
+      "problem"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Glaciers",
+    "taboo": [
+      "ice",
+      "mountain",
+      "frozen",
+      "melting",
+      "Arctic"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Pedestal",
+    "taboo": [
+      "statue",
+      "base",
+      "stand",
+      "support",
+      "monument"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Cabins",
+    "taboo": [
+      "log",
+      "small",
+      "wood",
+      "forest",
+      "cottage"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Gazette",
+    "taboo": [
+      "newspaper",
+      "publication",
+      "news",
+      "journal",
+      "print"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Nickels",
+    "taboo": [
+      "coin",
+      "cents",
+      "money",
+      "metal",
+      "currency"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Lotto",
+    "taboo": [
+      "lottery",
+      "gambling",
+      "numbers",
+      "ticket",
+      "chance"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Ventilator",
+    "taboo": [
+      "breathing",
+      "machine",
+      "hospital",
+      "lungs",
+      "oxygen"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Candlelight",
+    "taboo": [
+      "candle",
+      "flame",
+      "romantic",
+      "dark",
+      "light"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Racetrack",
+    "taboo": [
+      "horses",
+      "gambling",
+      "racing",
+      "oval",
+      "betting"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Campsite",
+    "taboo": [
+      "camping",
+      "tent",
+      "fire",
+      "outdoor",
+      "hiking"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Jigsaw",
+    "taboo": [
+      "puzzle",
+      "pieces",
+      "picture",
+      "tool",
+      "saw"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Beets",
+    "taboo": [
+      "vegetable",
+      "root",
+      "red",
+      "salad",
+      "sweet"
+    ],
+    "difficulty": "expert"
+  },
+  {
+    "word": "Hernia",
+    "taboo": [
+      "bulge",
+      "rupture",
+      "surgery",
+      "abdomen",
+      "injury"
+    ],
+    "difficulty": "expert"
   }
 ]
