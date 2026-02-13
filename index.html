@@ -169,7 +169,7 @@
                         </div>
                         <div>
                             <label className="block text-sm font-medium text-gray-500 mb-2">Difficulty</label>
-                            <div className="grid grid-cols-4 gap-2">
+                            <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
                                 {difficultyOptions.map(opt => (
                                     <button key={opt.value} onClick={() => toggleDifficulty(opt.value)} className={`py-2 px-3 rounded-lg font-medium transition-all text-sm border ${difficulties.includes(opt.value) ? 'bg-[#6B8E6B] text-white border-[#6B8E6B]' : 'bg-white text-gray-600 border-gray-200 hover:border-gray-300'}`}>{opt.label}</button>
                                 ))}
