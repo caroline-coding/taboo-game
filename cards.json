@@ -35837,7 +35837,7 @@
       "singer",
       "crooner",
       "Vegas",
-      "Rat Pack",
+      "Ratpack",
       "blue"
     ],
     "difficulty": "medium",
@@ -36413,7 +36413,7 @@
       "actor",
       "Indiana",
       "Jones",
-      "Star Wars",
+      "Starwars",
       "carpenter"
     ],
     "difficulty": "medium",
@@ -39134,7 +39134,7 @@
   {
     "word": "Blinding Lights",
     "taboo": [
-      "The Weeknd",
+      "Weeknd",
       "synthwave",
       "night",
       "drive",
@@ -50625,7 +50625,7 @@
       "resign",
       "renounce",
       "king",
-      "give up"
+      "surrender"
     ],
     "difficulty": "hard"
   },
@@ -50866,7 +50866,7 @@
       "reference",
       "hint",
       "suggest",
-      "mention indirectly",
+      "insinuate",
       "imply"
     ],
     "difficulty": "hard"
@@ -50896,18 +50896,18 @@
   {
     "word": "Ambidextrous",
     "taboo": [
-      "both hands",
+      "hands",
       "skillful",
       "versatile",
-      "left and right",
-      "equally skilled"
+      "bilateral",
+      "adept"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Amble",
     "taboo": [
-      "walk slowly",
+      "stroll",
       "stroll",
       "leisurely",
       "saunter",
@@ -50918,7 +50918,7 @@
   {
     "word": "Ambrosia",
     "taboo": [
-      "food of gods",
+      "godsfood",
       "delicious",
       "nectar",
       "mythology",
@@ -50932,8 +50932,8 @@
       "walking",
       "mobile",
       "movable",
-      "not stationary",
-      "able to walk"
+      "portable",
+      "locomotion"
     ],
     "difficulty": "hard"
   },
@@ -50941,10 +50941,10 @@
     "word": "Ameliorate",
     "taboo": [
       "improve",
-      "make better",
-      "enhance",
       "better",
-      "upgrade"
+      "enhance",
+      "upgrade",
+      "refine"
     ],
     "difficulty": "hard"
   },
@@ -50955,7 +50955,7 @@
       "willing",
       "cooperative",
       "responsive",
-      "open to"
+      "compliant"
     ],
     "difficulty": "hard"
   },
@@ -50977,7 +50977,7 @@
       "formless",
       "vague",
       "undefined",
-      "no shape"
+      "nebulous"
     ],
     "difficulty": "hard"
   },
@@ -50995,21 +50995,21 @@
   {
     "word": "Anachronistic",
     "taboo": [
-      "out of time",
-      "wrong period",
-      "old-fashioned",
-      "doesn't fit era",
-      "historical error"
+      "temporal",
+      "misplaced",
+      "obsolete",
+      "outdated",
+      "erroneous"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Analgesia",
     "taboo": [
-      "pain relief",
+      "analgesia",
       "numbness",
       "medical",
-      "without pain",
+      "insensibility",
       "insensitive"
     ],
     "difficulty": "expert"
@@ -51029,7 +51029,7 @@
     "word": "Anathema",
     "taboo": [
       "curse",
-      "strongly opposed",
+      "opposed",
       "forbidden",
       "hateful",
       "detested"
@@ -51065,7 +51065,7 @@
       "hostility",
       "enmity",
       "anger",
-      "ill will"
+      "malice"
     ],
     "difficulty": "hard"
   },
@@ -51083,9 +51083,9 @@
   {
     "word": "Annals",
     "taboo": [
-      "historical records",
+      "records",
       "chronicles",
-      "yearly accounts",
+      "annals",
       "history",
       "archives"
     ],
@@ -51094,18 +51094,18 @@
   {
     "word": "Anneal",
     "taboo": [
-      "heat metal",
+      "forge",
       "strengthen",
       "harden",
-      "cool slowly",
-      "toughen"
+      "cool",
+      "temper"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Anodyne",
     "taboo": [
-      "pain reliever",
+      "analgesic",
       "soothing",
       "comfort",
       "remedy",
@@ -51119,7 +51119,7 @@
       "abnormal",
       "irregular",
       "unusual",
-      "doesn't fit",
+      "deviant",
       "atypical"
     ],
     "difficulty": "hard"
@@ -51138,10 +51138,10 @@
   {
     "word": "Antecedents",
     "taboo": [
-      "previous events",
+      "predecessor",
       "history",
       "ancestors",
-      "what came before",
+      "precedent",
       "background"
     ],
     "difficulty": "hard"
@@ -51149,10 +51149,10 @@
   {
     "word": "Antedate",
     "taboo": [
-      "come before",
-      "earlier than",
       "precede",
-      "date back",
+      "earlier",
+      "precede",
+      "antecede",
       "predate"
     ],
     "difficulty": "hard"
@@ -51161,9 +51161,9 @@
     "word": "Antediluvian",
     "taboo": [
       "ancient",
-      "before flood",
+      "primordial",
       "archaic",
-      "very old",
+      "prehistoric",
       "primitive"
     ],
     "difficulty": "hard"
@@ -51172,9 +51172,9 @@
     "word": "Anthropoid",
     "taboo": [
       "ape-like",
-      "human-like",
+      "humanlike",
       "primate",
-      "resembling human",
+      "hominoid",
       "hominid"
     ],
     "difficulty": "hard"
@@ -51182,8 +51182,8 @@
   {
     "word": "Anthropomorphic",
     "taboo": [
-      "human characteristics",
-      "animals acting human",
+      "humanization",
+      "personification",
       "personification",
       "attribution",
       "humanlike"
@@ -51193,7 +51193,7 @@
   {
     "word": "Antipathy",
     "taboo": [
-      "strong dislike",
+      "dislike",
       "aversion",
       "hatred",
       "opposition",
@@ -51204,11 +51204,11 @@
   {
     "word": "Antipode",
     "taboo": [
-      "opposite side of earth",
-      "opposite point",
-      "Australia from Europe",
+      "antipodal",
+      "opposite",
+      "antipode",
       "antithesis",
-      "polar opposite"
+      "inverse"
     ],
     "difficulty": "hard"
   },
@@ -51226,53 +51226,53 @@
   {
     "word": "Apercu",
     "taboo": [
-      "brief summary",
+      "summary",
       "outline",
-      "witty insight",
+      "witticism",
       "overview",
-      "short view"
+      "glimpse"
     ],
     "difficulty": "expert"
   },
   {
     "word": "Aphasia",
     "taboo": [
-      "speech disorder",
-      "unable to speak",
-      "language loss",
-      "brain damage",
-      "communicate"
+      "dysphasia",
+      "muteness",
+      "aphonia",
+      "impairment",
+      "mutism"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Aphorism",
     "taboo": [
-      "short saying",
+      "maxim",
       "maxim",
       "proverb",
-      "wise statement",
-      "pithy"
+      "adage",
+      "epigram"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Apiarist",
     "taboo": [
-      "bee keeper",
+      "beekeeper",
       "honey",
       "bees",
-      "apiary owner",
-      "beekeeping"
+      "beekeeper",
+      "apiculture"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Apiary",
     "taboo": [
-      "bee farm",
+      "beefarm",
       "beehives",
-      "honey production",
+      "honey",
       "bees",
       "apiarist"
     ],
@@ -51282,17 +51282,17 @@
     "word": "Apiculture",
     "taboo": [
       "beekeeping",
-      "raising bees",
-      "honey production",
+      "apiary",
+      "honey",
       "beehives",
-      "honey farming"
+      "apiary"
     ],
     "difficulty": "expert"
   },
   {
     "word": "Apocalyptic",
     "taboo": [
-      "end of world",
+      "eschatological",
       "catastrophic",
       "revealing",
       "doom",
@@ -51304,9 +51304,9 @@
     "word": "Apocryphal",
     "taboo": [
       "false",
-      "not genuine",
+      "spurious",
       "questionable",
-      "doubtful origin",
+      "dubious",
       "inauthentic"
     ],
     "difficulty": "hard"
@@ -51314,10 +51314,10 @@
   {
     "word": "Apogee",
     "taboo": [
-      "highest point",
+      "pinnacle",
       "peak",
       "climax",
-      "farthest from earth",
+      "orbital",
       "zenith"
     ],
     "difficulty": "hard"
@@ -51328,8 +51328,8 @@
       "furious",
       "enraged",
       "angry",
-      "stroke-related",
-      "prone to stroke"
+      "paralytic",
+      "seizure-prone"
     ],
     "difficulty": "hard"
   },
@@ -51337,21 +51337,21 @@
     "word": "Apoplexy",
     "taboo": [
       "stroke",
-      "sudden paralysis",
-      "fit of rage",
-      "brain attack",
-      "seizure"
+      "paralysis",
+      "rage",
+      "seizure",
+      "collapse"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Apostate",
     "taboo": [
-      "betrayer of faith",
+      "betrayer",
       "renegade",
       "defector",
       "turncoat",
-      "abandoned beliefs"
+      "heretic"
     ],
     "difficulty": "hard"
   },
@@ -51360,19 +51360,19 @@
     "taboo": [
       "pharmacist",
       "druggist",
-      "potion maker",
-      "medicine shop",
-      "herbs"
+      "alchemist",
+      "pharmacy",
+      "herbalist"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Apothegm",
     "taboo": [
-      "short saying",
-      "witty remark",
       "maxim",
-      "pithy statement",
+      "witticism",
+      "maxim",
+      "quip",
       "aphorism"
     ],
     "difficulty": "expert"
@@ -51406,7 +51406,7 @@
       "notify",
       "tell",
       "update",
-      "make aware"
+      "enlighten"
     ],
     "difficulty": "hard"
   },
@@ -51435,20 +51435,20 @@
   {
     "word": "Aquiline",
     "taboo": [
-      "eagle-like",
-      "hooked nose",
+      "eaglelike",
+      "hooked",
       "curved",
       "sharp",
-      "Roman nose"
+      "prominent"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Arabesque",
     "taboo": [
-      "ornate pattern",
+      "ornamentation",
       "design",
-      "scroll work",
+      "scrollwork",
       "intricate",
       "decoration"
     ],
@@ -51482,7 +51482,7 @@
       "deception",
       "trick",
       "cunning",
-      "clever device",
+      "device",
       "stratagem"
     ],
     "difficulty": "hard"
@@ -51578,10 +51578,10 @@
   {
     "word": "Attrition",
     "taboo": [
-      "wearing down",
+      "erosion",
       "loss",
       "friction",
-      "gradual reduction",
+      "reduction",
       "wear"
     ],
     "difficulty": "hard"
@@ -52337,7 +52337,7 @@
   {
     "word": "Broach",
     "taboo": [
-      "bring up",
+      "introduce",
       "introduce",
       "topic",
       "discuss",
@@ -52769,7 +52769,7 @@
       "surrender",
       "transfer",
       "yield",
-      "give up",
+      "relinquishment",
       "territory"
     ],
     "difficulty": "hard"
@@ -52832,10 +52832,10 @@
   {
     "word": "Cloying",
     "taboo": [
-      "overly sweet",
+      "saccharine",
       "excessive",
-      "sickening",
       "nauseating",
+      "sickening",
       "annoying"
     ],
     "difficulty": "hard"
@@ -52887,7 +52887,7 @@
   {
     "word": "Cohere",
     "taboo": [
-      "stick together",
+      "adhere",
       "hold",
       "unite",
       "consistent",
@@ -52946,7 +52946,7 @@
       "empathize",
       "pity",
       "comfort",
-      "share sorrow"
+      "grieve"
     ],
     "difficulty": "hard"
   },
@@ -52997,7 +52997,7 @@
   {
     "word": "Circumlocution",
     "taboo": [
-      "talking around",
+      "rambling",
       "roundabout",
       "verbose",
       "indirect",
@@ -53066,7 +53066,7 @@
       "adjacent",
       "touching",
       "neighboring",
-      "next to",
+      "abutting",
       "bordering"
     ],
     "difficulty": "hard"
@@ -53110,7 +53110,7 @@
       "abundant",
       "plentiful",
       "plenty",
-      "large amount",
+      "profusion",
       "generous"
     ],
     "difficulty": "hard"
@@ -53306,7 +53306,7 @@
     "word": "Deign",
     "taboo": [
       "condescend",
-      "lower oneself",
+      "humble",
       "agree",
       "accept",
       "stoop"
@@ -53418,7 +53418,7 @@
       "disapprove",
       "protest",
       "oppose",
-      "plead against",
+      "entreat",
       "discount"
     ],
     "difficulty": "hard"
@@ -53461,7 +53461,7 @@
     "taboo": [
       "mock",
       "ridicule",
-      "laugh at",
+      "sneer",
       "scorn",
       "jeer"
     ],
@@ -53549,7 +53549,7 @@
     "taboo": [
       "transfer",
       "delegate",
-      "pass down",
+      "transmit",
       "revert",
       "descend"
     ],
@@ -53616,7 +53616,7 @@
       "correct",
       "undeceive",
       "enlighten",
-      "reveal truth",
+      "expose",
       "disillusion"
     ],
     "difficulty": "hard"
@@ -53701,10 +53701,10 @@
   {
     "word": "Disenfranchise",
     "taboo": [
-      "deny vote",
-      "deprive rights",
+      "disqualify",
+      "deprive",
       "exclude",
-      "remove power",
+      "disenpower",
       "strip"
     ],
     "difficulty": "hard"
@@ -53814,7 +53814,7 @@
       "discord",
       "disagreement",
       "conflict",
-      "harsh sound",
+      "harshness",
       "inconsistency"
     ],
     "difficulty": "hard"
@@ -53835,9 +53835,9 @@
     "taboo": [
       "daily",
       "daytime",
-      "occurring daily",
+      "quotidian",
       "sun",
-      "24 hours"
+      "circadian"
     ],
     "difficulty": "hard"
   },
@@ -53848,7 +53848,7 @@
       "strip",
       "undress",
       "deprive",
-      "sell off"
+      "liquidate"
     ],
     "difficulty": "hard"
   },
@@ -53866,11 +53866,11 @@
   {
     "word": "Doggerel",
     "taboo": [
-      "bad poetry",
-      "crude verse",
-      "poor poem",
+      "verse",
+      "crude",
+      "inferior",
       "rhyming",
-      "amateur poem"
+      "amateurish"
     ],
     "difficulty": "hard"
   },
@@ -53903,7 +53903,7 @@
       "tyrannize",
       "control",
       "intimidate",
-      "boss around"
+      "subjugate"
     ],
     "difficulty": "hard"
   },
@@ -53969,7 +53969,7 @@
       "remove",
       "obliterate",
       "eliminate",
-      "wipe out"
+      "expunge"
     ],
     "difficulty": "hard"
   },
@@ -53978,20 +53978,20 @@
     "taboo": [
       "effective",
       "successful",
-      "producing results",
+      "productive",
       "capable",
-      "working"
+      "operative"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Effectuate",
     "taboo": [
-      "carry out",
+      "execute",
       "accomplish",
       "achieve",
-      "bring about",
-      "execute"
+      "consummate",
+      "realize"
     ],
     "difficulty": "hard"
   },
@@ -54067,7 +54067,7 @@
       "clarify",
       "explain",
       "illuminate",
-      "make clear",
+      "simplify",
       "interpret"
     ],
     "difficulty": "hard"
@@ -54101,7 +54101,7 @@
       "drain",
       "exhaust",
       "deplete",
-      "sap strength"
+      "debilitate"
     ],
     "difficulty": "hard"
   },
@@ -54133,7 +54133,7 @@
       "witty",
       "saying",
       "clever",
-      "short poem",
+      "aphorism",
       "quip"
     ],
     "difficulty": "hard"
@@ -54174,10 +54174,10 @@
   {
     "word": "Equivocate",
     "taboo": [
-      "be vague",
+      "prevaricate",
       "dodge",
       "mislead",
-      "avoid",
+      "evade",
       "hedge"
     ],
     "difficulty": "hard"
@@ -54240,7 +54240,7 @@
   {
     "word": "Etymology",
     "taboo": [
-      "word origin",
+      "origin",
       "language",
       "roots",
       "history",
@@ -54978,7 +54978,7 @@
     "word": "Gambit",
     "taboo": [
       "chess",
-      "opening move",
+      "opening",
       "strategy",
       "tactic",
       "ploy"
@@ -55033,10 +55033,10 @@
     "word": "Gentry",
     "taboo": [
       "nobility",
-      "upper class",
       "aristocracy",
       "landowners",
-      "elite"
+      "elite",
+      "gentlefolk"
     ],
     "difficulty": "hard"
   },
@@ -55066,10 +55066,10 @@
     "word": "Gesticulation",
     "taboo": [
       "gesture",
-      "hand movement",
+      "pantomime",
       "expression",
       "motion",
-      "wild"
+      "flailing"
     ],
     "difficulty": "hard"
   },
@@ -55101,7 +55101,7 @@
       "glutton",
       "eater",
       "greedy",
-      "food lover",
+      "epicure",
       "overeating"
     ],
     "difficulty": "hard"
@@ -55109,7 +55109,7 @@
   {
     "word": "Grandiloquence",
     "taboo": [
-      "flowery speech",
+      "verbosity",
       "pompous",
       "bombastic",
       "grandiose",
@@ -55133,8 +55133,8 @@
     "taboo": [
       "unnecessary",
       "unwarranted",
-      "uncalled for",
-      "free",
+      "uncalled",
+      "complimentary",
       "unjustified"
     ],
     "difficulty": "hard"
@@ -55211,7 +55211,7 @@
       "accustom",
       "adjust",
       "adapt",
-      "get used to",
+      "acclimate",
       "familiarize"
     ],
     "difficulty": "hard"
@@ -55222,7 +55222,7 @@
       "overused",
       "clich\u00e9",
       "trite",
-      "worn out",
+      "banal",
       "unoriginal"
     ],
     "difficulty": "hard"
@@ -55232,7 +55232,7 @@
     "taboo": [
       "peaceful",
       "calm",
-      "golden age",
+      "serene",
       "tranquil",
       "idyllic"
     ],
@@ -55254,7 +55254,7 @@
     "taboo": [
       "tirade",
       "rant",
-      "lengthy speech",
+      "declamation",
       "lecture",
       "diatribe"
     ],
@@ -55354,7 +55354,7 @@
       "sermon",
       "speech",
       "lecture",
-      "moral lesson",
+      "moralizing",
       "preaching"
     ],
     "difficulty": "hard"
@@ -55384,20 +55384,20 @@
   {
     "word": "Hummock",
     "taboo": [
-      "small hill",
+      "hillock",
       "mound",
       "knoll",
       "bump",
-      "hillock"
+      "elevation"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Hypercritical",
     "taboo": [
-      "overly critical",
+      "faultfinding",
       "nitpicking",
-      "fault-finding",
+      "pedantic",
       "harsh",
       "judgmental"
     ],
@@ -55407,21 +55407,21 @@
     "word": "Hyperopia",
     "taboo": [
       "farsightedness",
-      "vision defect",
-      "eyes",
+      "refractive",
+      "ophthalmology",
       "glasses",
-      "nearsighted opposite"
+      "myopia-opposite"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Hypochondriac",
     "taboo": [
-      "health-obsessed",
-      "worries about illness",
+      "worrier",
+      "sickly",
       "anxious",
       "paranoid",
-      "imaginary symptoms"
+      "malingerer"
     ],
     "difficulty": "hard"
   },
@@ -55431,19 +55431,19 @@
       "reckless",
       "doomed",
       "overambitious",
-      "fall",
-      "Icarus myth"
+      "hubris",
+      "mythical"
     ],
     "difficulty": "expert"
   },
   {
     "word": "Ichthyology",
     "taboo": [
-      "study of fish",
-      "fish science",
-      "marine biology",
+      "ichthyologist",
+      "ichthyologist",
+      "marine",
       "aquatic",
-      "ichthyologist"
+      "piscine"
     ],
     "difficulty": "expert"
   },
@@ -55453,7 +55453,7 @@
       "rebel",
       "nonconformist",
       "revolutionary",
-      "breaker of tradition",
+      "heretic",
       "critic"
     ],
     "difficulty": "hard"
@@ -55495,10 +55495,10 @@
     "word": "Igneous",
     "taboo": [
       "volcanic",
-      "molten rock",
+      "molten",
       "geology",
-      "formed by fire",
-      "magma"
+      "pyrogenic",
+      "magmatic"
     ],
     "difficulty": "hard"
   },
@@ -55618,7 +55618,7 @@
       "momentum",
       "incentive",
       "motivation",
-      "driving force",
+      "catalyst",
       "impulse"
     ],
     "difficulty": "hard"
@@ -55649,8 +55649,8 @@
     "word": "Imprecation",
     "taboo": [
       "curse",
-      "curse word",
-      "curse upon",
+      "epithet",
+      "invective",
       "malediction",
       "oath"
     ],
@@ -55727,7 +55727,7 @@
     "taboo": [
       "rights",
       "permanent",
-      "cannot be taken",
+      "unforfeitable",
       "inherent",
       "fundamental"
     ],
@@ -55849,8 +55849,8 @@
       "teach",
       "instill",
       "impart",
-      "hammer in",
-      "drill"
+      "implant",
+      "indoctrinate"
     ],
     "difficulty": "hard"
   },
@@ -56013,7 +56013,7 @@
     "taboo": [
       "incompetence",
       "clumsiness",
-      "lack of skill",
+      "inadequacy",
       "bungling",
       "inability"
     ],
@@ -56048,7 +56048,7 @@
       "priceless",
       "incalculable",
       "immeasurable",
-      "beyond value"
+      "pricelessness"
     ],
     "difficulty": "hard"
   },
@@ -56057,7 +56057,7 @@
     "taboo": [
       "violation",
       "breach",
-      "breaking rule",
+      "contravention",
       "offense",
       "transgression"
     ],
@@ -56080,7 +56080,7 @@
       "ungrateful",
       "unappreciative",
       "thankless",
-      "rude person",
+      "cad",
       "selfish"
     ],
     "difficulty": "hard"
@@ -56132,7 +56132,7 @@
   {
     "word": "Inopportune",
     "taboo": [
-      "bad timing",
+      "mistiming",
       "inconvenient",
       "untimely",
       "ill-timed",
@@ -56165,10 +56165,10 @@
   {
     "word": "Insatiable",
     "taboo": [
-      "never satisfied",
+      "dissatisfaction",
       "greedy",
-      "endless appetite",
-      "always wanting",
+      "ravenousness",
+      "wanting",
       "ravenous"
     ],
     "difficulty": "hard"
@@ -56202,7 +56202,7 @@
       "suggest",
       "imply",
       "allude",
-      "creep in"
+      "infiltrate"
     ],
     "difficulty": "hard"
   },
@@ -56235,7 +56235,7 @@
       "weak",
       "thin",
       "insignificant",
-      "lacking substance"
+      "insubstantiality"
     ],
     "difficulty": "hard"
   },
@@ -56257,7 +56257,7 @@
       "unconquerable",
       "impossible",
       "unbeatable",
-      "too great"
+      "overwhelming"
     ],
     "difficulty": "expert"
   },
@@ -56298,10 +56298,10 @@
     "word": "Intelligentsia",
     "taboo": [
       "intellectuals",
-      "educated elite",
+      "scholars",
       "scholars",
       "intelligentsia",
-      "cultured class"
+      "aristocracy"
     ],
     "difficulty": "expert"
   },
@@ -56320,7 +56320,7 @@
     "word": "Intermittent",
     "taboo": [
       "sporadic",
-      "on and off",
+      "alternating",
       "periodic",
       "occasional",
       "irregular"
@@ -56330,11 +56330,11 @@
   {
     "word": "Internecine",
     "taboo": [
-      "internal conflict",
-      "mutually destructive",
-      "civil war",
+      "internecine",
+      "destructive",
+      "civil-war",
       "fratricidal",
-      "group fighting"
+      "infighting"
     ],
     "difficulty": "expert"
   },
@@ -56353,9 +56353,9 @@
     "word": "Intransigence",
     "taboo": [
       "stubbornness",
-      "refusal to compromise",
       "inflexibility",
-      "uncompromising attitude",
+      "inflexibility",
+      "inflexibility",
       "rigidity"
     ],
     "difficulty": "expert"
@@ -56399,7 +56399,7 @@
       "hardened",
       "accustomed",
       "adapted",
-      "used to",
+      "acclimated",
       "resistant"
     ],
     "difficulty": "hard"
@@ -56408,9 +56408,9 @@
     "word": "Invective",
     "taboo": [
       "insult",
-      "verbal abuse",
+      "vituperation",
       "curse",
-      "harsh language",
+      "abusiveness",
       "criticism"
     ],
     "difficulty": "hard"
@@ -56422,7 +56422,7 @@
       "criticize",
       "complain",
       "denounce",
-      "rail against"
+      "rail"
     ],
     "difficulty": "expert"
   },
@@ -56452,7 +56452,7 @@
     "word": "Invidious",
     "taboo": [
       "offensive",
-      "comparing unfairly",
+      "unfair",
       "unjust",
       "discriminatory",
       "envious"
@@ -56506,10 +56506,10 @@
   {
     "word": "Irreconcilable",
     "taboo": [
-      "impossible to resolve",
+      "unresolvable",
       "conflicting",
       "incompatible",
-      "at odds",
+      "opposing",
       "opposed"
     ],
     "difficulty": "hard"
@@ -56541,7 +56541,7 @@
     "taboo": [
       "unfixable",
       "permanent",
-      "beyond repair",
+      "irreparable",
       "irreversible",
       "hopeless"
     ],
@@ -56564,7 +56564,7 @@
       "perfect",
       "blameless",
       "faultless",
-      "beyond criticism",
+      "irreprehensible",
       "innocent"
     ],
     "difficulty": "expert"
@@ -56585,8 +56585,8 @@
     "taboo": [
       "lost",
       "permanent",
-      "cannot recover",
-      "gone forever",
+      "irrecoverable",
+      "irretrievable",
       "unreclaimable"
     ],
     "difficulty": "hard"
@@ -56597,7 +56597,7 @@
       "disrespect",
       "mockery",
       "impudence",
-      "lack of respect",
+      "disrespectfulness",
       "rudeness"
     ],
     "difficulty": "hard"
@@ -56619,8 +56619,8 @@
       "traveling",
       "wandering",
       "nomadic",
-      "moving around",
-      "not settled"
+      "peripatetic",
+      "unsettled"
     ],
     "difficulty": "hard"
   },
@@ -56638,9 +56638,9 @@
   {
     "word": "Jetsam",
     "taboo": [
-      "ocean debris",
-      "discarded cargo",
-      "floating trash",
+      "flotsam",
+      "discarded-cargo",
+      "flotsam",
       "wreckage",
       "garbage"
     ],
@@ -56649,11 +56649,11 @@
   {
     "word": "Jettison",
     "taboo": [
-      "throw overboard",
+      "overboard",
       "discard",
       "abandon",
       "dump",
-      "get rid of"
+      "purge"
     ],
     "difficulty": "hard"
   },
@@ -56661,9 +56661,9 @@
     "word": "Jingoist",
     "taboo": [
       "nationalist",
-      "patriotic extremist",
+      "extremist",
       "warmonger",
-      "flag-waving",
+      "chauvinist",
       "bellicose"
     ],
     "difficulty": "hard"
@@ -56706,8 +56706,8 @@
     "taboo": [
       "judges",
       "courts",
-      "legal system",
-      "justice system",
+      "judicature",
+      "jurisprudence",
       "bench"
     ],
     "difficulty": "hard"
@@ -56718,7 +56718,7 @@
       "wise",
       "careful",
       "prudent",
-      "sound judgment",
+      "discernment",
       "sensible"
     ],
     "difficulty": "hard"
@@ -56726,19 +56726,19 @@
   {
     "word": "Juncture",
     "taboo": [
-      "critical point",
+      "milestone",
       "junction",
-      "moment in time",
+      "moment",
       "crossroads",
-      "turning point"
+      "turning-point"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Junta",
     "taboo": [
-      "military government",
-      "ruling group",
+      "autocracy",
+      "ruling-group",
       "coup",
       "dictatorship",
       "faction"
@@ -56748,9 +56748,9 @@
   {
     "word": "Jurisprudence",
     "taboo": [
-      "philosophy of law",
-      "legal science",
-      "legal system",
+      "legal-philosophy",
+      "legal-science",
+      "law",
       "lawmaking",
       "courts"
     ],
@@ -56763,7 +56763,7 @@
       "understanding",
       "awareness",
       "acquaintance",
-      "range of knowledge"
+      "cognizance"
     ],
     "difficulty": "hard"
   },
@@ -56781,22 +56781,22 @@
   {
     "word": "Kleptomaniac",
     "taboo": [
-      "compulsive thief",
+      "thief",
       "shoplifter",
-      "stealing disorder",
-      "impulse disorder",
-      "thief"
+      "kleptomania",
+      "impulsivity",
+      "burglar"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Knell",
     "taboo": [
-      "bell sound",
+      "bell-sound",
       "ring",
-      "death bell",
+      "death-bell",
       "doom",
-      "solemn sound"
+      "solemnity"
     ],
     "difficulty": "hard"
   },
@@ -56814,7 +56814,7 @@
   {
     "word": "Laborious",
     "taboo": [
-      "hard work",
+      "arduous",
       "difficult",
       "tedious",
       "strenuous",
@@ -56836,7 +56836,7 @@
   {
     "word": "Laggard",
     "taboo": [
-      "slow person",
+      "slowpoke",
       "procrastinator",
       "straggler",
       "loiterer",
@@ -56848,8 +56848,8 @@
     "word": "Laity",
     "taboo": [
       "non-clergy",
-      "regular people",
-      "ordinary folk",
+      "commoners",
+      "folk",
       "laypeople",
       "masses"
     ],
@@ -56858,11 +56858,11 @@
   {
     "word": "Lambaste",
     "taboo": [
-      "criticize harshly",
+      "censure",
       "scold",
       "attack",
       "rebuke",
-      "censure"
+      "chastise"
     ],
     "difficulty": "hard"
   },
@@ -56895,7 +56895,7 @@
       "suffer",
       "decline",
       "droop",
-      "fade away"
+      "deteriorate"
     ],
     "difficulty": "hard"
   },
@@ -56905,7 +56905,7 @@
       "generosity",
       "gifts",
       "charity",
-      "generous giving",
+      "munificence",
       "bounty"
     ],
     "difficulty": "hard"
@@ -56927,7 +56927,7 @@
       "hidden",
       "dormant",
       "potential",
-      "not visible",
+      "concealed",
       "underlying"
     ],
     "difficulty": "hard"
@@ -56947,7 +56947,7 @@
     "word": "Lechery",
     "taboo": [
       "lust",
-      "sexual desire",
+      "lasciviousness",
       "lewdness",
       "debauchery",
       "licentiousness"
@@ -56958,18 +56958,18 @@
     "word": "Legatee",
     "taboo": [
       "inheritor",
-      "receiver of bequest",
+      "recipient",
       "heir",
       "beneficiary",
-      "will recipient"
+      "devisee"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Legerdemain",
     "taboo": [
-      "magic trick",
-      "sleight of hand",
+      "magic-trick",
+      "sleight-of-hand",
       "deception",
       "illusion",
       "trickery"
@@ -56993,7 +56993,7 @@
       "humor",
       "lightness",
       "frivolity",
-      "lack of seriousness",
+      "flippancy",
       "gaiety"
     ],
     "difficulty": "hard"
@@ -57004,17 +57004,17 @@
       "dictionary",
       "vocabulary",
       "words",
-      "language",
-      "word list"
+      "terminology",
+      "thesaurus"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Libertine",
     "taboo": [
-      "debauched person",
+      "debaucher",
       "hedonist",
-      "immoral person",
+      "profligate",
       "rake",
       "womanizer"
     ],
@@ -57024,32 +57024,32 @@
     "word": "Libidinous",
     "taboo": [
       "lustful",
-      "sexual desire",
+      "concupiscence",
       "lascivious",
       "lecherous",
-      "erotica"
+      "salacious"
     ],
     "difficulty": "expert"
   },
   {
     "word": "Libretto",
     "taboo": [
-      "opera text",
+      "opera-text",
       "lyrics",
-      "words to song",
+      "song-words",
       "script",
-      "sung dialogue"
+      "sung-dialogue"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Lien",
     "taboo": [
-      "legal claim",
+      "legal-claim",
       "mortgage",
-      "debt hold",
-      "security interest",
-      "property claim"
+      "encumbrance",
+      "security-interest",
+      "property-claim"
     ],
     "difficulty": "hard"
   },
@@ -57058,8 +57058,8 @@
     "taboo": [
       "tiny",
       "miniature",
-      "small person",
-      "Gulliver's Travels",
+      "dwarf",
+      "Lilliput",
       "diminutive"
     ],
     "difficulty": "hard"
@@ -57080,20 +57080,20 @@
     "taboo": [
       "clear",
       "transparent",
-      "pure water",
-      "crystal clear",
-      "easy to understand"
+      "pellucid",
+      "crystalline",
+      "lucid"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Lineaments",
     "taboo": [
-      "facial features",
+      "facial-features",
       "outline",
       "contours",
-      "distinctive marks",
-      "appearance"
+      "characteristics",
+      "physiognomy"
     ],
     "difficulty": "expert"
   },
@@ -57101,10 +57101,10 @@
     "word": "Lionize",
     "taboo": [
       "celebrate",
-      "treat as celebrity",
+      "celebrity",
       "glorify",
       "idolize",
-      "make famous"
+      "publicize"
     ],
     "difficulty": "hard"
   },
@@ -57122,11 +57122,11 @@
   {
     "word": "Logophile",
     "taboo": [
-      "word lover",
-      "loves language",
+      "bibliophile",
+      "linguistic",
       "verbose",
-      "lexicon enthusiast",
-      "word nerd"
+      "lexicographer",
+      "nerdy"
     ],
     "difficulty": "expert"
   },
@@ -57664,7 +57664,7 @@
       "subtle",
       "difference",
       "shading",
-      "fine detail",
+      "detail",
       "distinction"
     ],
     "difficulty": "hard"
@@ -57720,7 +57720,7 @@
       "slow",
       "stupid",
       "angle",
-      "not sharp"
+      "blunt"
     ],
     "difficulty": "hard"
   },
@@ -57728,7 +57728,7 @@
     "word": "Obviate",
     "taboo": [
       "prevent",
-      "make unnecessary",
+      "unnecessary",
       "eliminate",
       "preclude",
       "remove"
@@ -57775,17 +57775,17 @@
       "sinister",
       "foreboding",
       "evil",
-      "bad sign"
+      "portent"
     ],
     "difficulty": "hard"
   },
   {
     "word": "Omniscient",
     "taboo": [
-      "all-knowing",
+      "omniscient",
       "god",
       "aware",
-      "knows everything",
+      "omniscience",
       "wise"
     ],
     "difficulty": "hard"
@@ -57958,7 +57958,7 @@
   {
     "word": "Peccadillo",
     "taboo": [
-      "minor sin",
+      "infraction",
       "petty",
       "mistake",
       "fault",
@@ -57972,7 +57972,7 @@
       "nitpicker",
       "academic",
       "bookish",
-      "overly formal",
+      "formalist",
       "rules"
     ],
     "difficulty": "hard"
@@ -57981,7 +57981,7 @@
     "word": "Pedantic",
     "taboo": [
       "fussy",
-      "overly scholarly",
+      "scholarly",
       "nitpicky",
       "formal",
       "meticulous"
@@ -58281,7 +58281,7 @@
       "loud",
       "ringing",
       "lamenting",
-      "mournful sound"
+      "keening"
     ],
     "difficulty": "expert"
   },
@@ -58344,9 +58344,9 @@
     "word": "Plethora",
     "taboo": [
       "excess",
-      "too much",
-      "abundance",
       "surplus",
+      "abundance",
+      "profusion",
       "overabundance"
     ],
     "difficulty": "hard"
@@ -58378,7 +58378,7 @@
     "taboo": [
       "land",
       "reclaimed",
-      "below sea",
+      "wetland",
       "Dutch",
       "dike"
     ],
@@ -58849,7 +58849,7 @@
   {
     "word": "Proletarian",
     "taboo": [
-      "working class",
+      "laborer",
       "labor",
       "socialist",
       "poor",
@@ -58927,8 +58927,8 @@
     "word": "Propitious",
     "taboo": [
       "favorable",
-      "luck",
-      "good timing",
+      "fortuitous",
+      "fortunate",
       "auspicious",
       "advantageous"
     ],
@@ -58937,11 +58937,11 @@
   {
     "word": "Propriety",
     "taboo": [
-      "manners",
       "etiquette",
-      "appropriate",
       "decorum",
-      "social rules"
+      "appropriate",
+      "correctness",
+      "protocol"
     ],
     "difficulty": "hard"
   },
@@ -58974,7 +58974,7 @@
       "rhythm",
       "meter",
       "verse",
-      "sound patterns"
+      "cadence"
     ],
     "difficulty": "expert"
   },
@@ -58996,7 +58996,7 @@
       "lengthen",
       "prolong",
       "delay",
-      "stretch out"
+      "prolongation"
     ],
     "difficulty": "hard"
   },
@@ -59007,7 +59007,7 @@
       "source",
       "history",
       "antique",
-      "where it came from"
+      "lineage"
     ],
     "difficulty": "hard"
   },
@@ -59028,7 +59028,7 @@
       "beauty",
       "attractive",
       "gorgeous",
-      "physically appealing",
+      "allure",
       "lovely"
     ],
     "difficulty": "expert"
@@ -59040,7 +59040,7 @@
       "alleged",
       "reputed",
       "claimed",
-      "believed to be"
+      "presumed"
     ],
     "difficulty": "hard"
   },
@@ -59051,7 +59051,7 @@
       "inactivity",
       "calm",
       "quiet",
-      "dormant state"
+      "dormancy"
     ],
     "difficulty": "expert"
   },
@@ -59073,7 +59073,7 @@
       "collaborator",
       "betrayer",
       "informant",
-      "Nazi sympathizer"
+      "defector"
     ],
     "difficulty": "expert"
   },
@@ -59092,9 +59092,9 @@
     "word": "Raconteur",
     "taboo": [
       "storyteller",
-      "skilled narrator",
+      "narrator",
       "entertaining",
-      "tales",
+      "anecdotal",
       "speaker"
     ],
     "difficulty": "hard"
@@ -59116,7 +59116,7 @@
       "exclusive",
       "refined",
       "elite",
-      "thin air",
+      "rarefied",
       "elevated"
     ],
     "difficulty": "hard"
@@ -59124,11 +59124,11 @@
   {
     "word": "Ratiocination",
     "taboo": [
-      "logical thinking",
       "reasoning",
       "deduction",
       "analysis",
-      "logic"
+      "logic",
+      "syllogism"
     ],
     "difficulty": "expert"
   },
@@ -59161,7 +59161,7 @@
       "repeat",
       "review",
       "recap",
-      "main points"
+      "synopsis"
     ],
     "difficulty": "hard"
   },
@@ -59425,7 +59425,7 @@
       "return",
       "resume",
       "encore",
-      "take back"
+      "reiterate"
     ],
     "difficulty": "hard"
   },
@@ -59840,10 +59840,10 @@
     "word": "Senescence",
     "taboo": [
       "aging",
-      "old age",
+      "antiquity",
       "decline",
       "deterioration",
-      "growing old"
+      "decrepitude"
     ],
     "difficulty": "hard"
   },
@@ -59993,11 +59993,11 @@
   {
     "word": "Sinecure",
     "taboo": [
-      "easy job",
+      "plum",
       "cushy",
       "position",
-      "money",
-      "no work"
+      "compensation",
+      "effortless"
     ],
     "difficulty": "hard"
   },
@@ -60567,9 +60567,9 @@
     "taboo": [
       "equivalent",
       "equal",
-      "same as",
+      "identical",
       "comparable",
-      "essentially"
+      "synonymous"
     ],
     "difficulty": "hard"
   },
