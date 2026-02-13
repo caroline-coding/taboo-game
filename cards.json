@@ -9036,18 +9036,6 @@
     "category": "Sports, games, and recreational activities"
   },
   {
-    "word": "Rock climbing",
-    "taboo": [
-      "wall",
-      "rope",
-      "harness",
-      "rocks",
-      "ascend"
-    ],
-    "difficulty": "easy",
-    "category": "Sports, games, and recreational activities"
-  },
-  {
     "word": "Kart racing",
     "taboo": [
       "race",
@@ -19763,30 +19751,6 @@
     "category": "Holidays, celebrations, and traditions"
   },
   {
-    "word": "Mother's Day",
-    "taboo": [
-      "mom",
-      "gifts",
-      "flowers",
-      "appreciation",
-      "parent"
-    ],
-    "difficulty": "medium",
-    "category": "Holidays, celebrations, and traditions"
-  },
-  {
-    "word": "Father's Day",
-    "taboo": [
-      "Dad",
-      "gifts",
-      "tie",
-      "appreciation",
-      "parent"
-    ],
-    "difficulty": "medium",
-    "category": "Holidays, celebrations, and traditions"
-  },
-  {
     "word": "Earth Day",
     "taboo": [
       "environment",
@@ -23802,18 +23766,6 @@
       "desert",
       "red",
       "sacred"
-    ],
-    "difficulty": "medium",
-    "category": "Countries, cities, landmarks, and geography"
-  },
-  {
-    "word": "Grand Canyon",
-    "taboo": [
-      "Arizona",
-      "deep",
-      "carved",
-      "river",
-      "rocks"
     ],
     "difficulty": "medium",
     "category": "Countries, cities, landmarks, and geography"
@@ -29982,18 +29934,6 @@
       "variety",
       "choosing",
       "diverse"
-    ],
-    "difficulty": "hard",
-    "category": "Abstract concepts and ideas"
-  },
-  {
-    "word": "Phenomenology",
-    "taboo": [
-      "experience",
-      "consciousness",
-      "philosophy",
-      "perception",
-      "reality"
     ],
     "difficulty": "hard",
     "category": "Abstract concepts and ideas"
